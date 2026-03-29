@@ -1,0 +1,3853 @@
+[
+  {
+    "Nombre": "Maractus",
+    "Tipo": "Planta",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-3",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/3.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/3_hires.png"
+    },
+    "flavorText": "Once each year, this Pokémon scatters its seeds. They're jam-packed with nutrients, making them a precious food source out in the desert.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "3"
+  },
+  {
+    "Nombre": "Ninjask",
+    "Tipo": "Planta",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-17",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/17.png",
+      "large": "https://images.pokemontcg.io/me1/17_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Grass"
+    ],
+    "number": "17"
+  },
+  {
+    "Nombre": "Genesect",
+    "Tipo": "Planta",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-8",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/8.png",
+      "large": "https://images.pokemontcg.io/me2/8_hires.png"
+    },
+    "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "8"
+  },
+  {
+    "Nombre": "Karrablast",
+    "Tipo": "Planta",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv9-9",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/9.png",
+      "large": "https://images.pokemontcg.io/sv9/9_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "9"
+  },
+  {
+    "Nombre": "Bayleef",
+    "Tipo": "Planta",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-9",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-9/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-9/large"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Grass"
+    ],
+    "number": "9"
+  },
+  {
+    "Nombre": "Tarountula",
+    "Tipo": "Planta",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Tarountula"
+  },
+  {
+    "Nombre": "Tarountula",
+    "Tipo": "Planta",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Tarountula"
+  },
+  {
+    "Nombre": "Spewpa",
+    "Tipo": "Planta",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-6",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/6.png",
+      "large": "https://images.pokemontcg.io/sv8/6_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "6"
+  },
+  {
+    "Nombre": "Nuzleaf",
+    "Tipo": "Planta",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-14",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/14.png",
+      "large": "https://images.pokemontcg.io/me1/14_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "14"
+  },
+  {
+    "Nombre": "Mow Rotom",
+    "Tipo": "Planta",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-8",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/8.png",
+      "large": "https://images.pokemontcg.io/sv7/8_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "8"
+  },
+  {
+    "Nombre": "Bounsweet",
+    "Tipo": "Planta",
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4-8",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/8.png",
+      "large": "https://images.pokemontcg.io/sv4/8_hires.png"
+    },
+    "flavorText": "Its sweat is sweet, like syrup made from boiled- down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "8"
+  },
+  {
+    "Nombre": "Vivilon",
+    "Tipo": "Planta",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Vivilon"
+  },
+  {
+    "Nombre": "Heracross",
+    "Tipo": "Planta",
+    "Expansión": "TWM",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv6-8",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/8.png",
+      "large": "https://images.pokemontcg.io/sv6/8_hires.png"
+    },
+    "flavorText": "With its herculean powers, it can easily throw around an object that is 100 times its own weight.",
+    "rarity": "Uncommon",
+    "types": [
+      "Grass"
+    ],
+    "number": "8"
+  },
+  {
+    "Nombre": "Rowlet",
+    "Tipo": "Planta",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-13",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/13.png",
+      "large": "https://images.pokemontcg.io/sv3/13_hires.png"
+    },
+    "flavorText": "It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "13"
+  },
+  {
+    "Nombre": "Applin",
+    "Tipo": "Planta",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-12",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/12.png",
+      "large": "https://images.pokemontcg.io/sv7/12_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "12"
+  },
+  {
+    "Nombre": "Scatterbug",
+    "Tipo": "Planta",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-5",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/5.png",
+      "large": "https://images.pokemontcg.io/sv8/5_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "5"
+  },
+  {
+    "Nombre": "Bellossom",
+    "Tipo": "Planta",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-3",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/3.png",
+      "large": "https://images.pokemontcg.io/sv3/3_hires.png"
+    },
+    "flavorText": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+    "rarity": "Uncommon",
+    "types": [
+      "Grass"
+    ],
+    "number": "3"
+  },
+  {
+    "Nombre": "Gossifleur",
+    "Tipo": "Planta",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-10",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/10.png",
+      "large": "https://images.pokemontcg.io/sv7/10_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "10"
+  },
+  {
+    "Nombre": "Budew",
+    "Tipo": "Planta",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-16",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-16/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-16/large"
+    },
+    "flavorText": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison’s toxicity is increased.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "16"
+  },
+  {
+    "Nombre": "Charcadet",
+    "Tipo": "Fuego",
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-14",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/14.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/14_hires.png"
+    },
+    "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "14"
+  },
+  {
+    "Nombre": "Darumaka",
+    "Tipo": "Fuego",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-15",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/15.png",
+      "large": "https://images.pokemontcg.io/me2/15_hires.png"
+    },
+    "flavorText": "This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "15"
+  },
+  {
+    "Nombre": "Crocalor",
+    "Tipo": "Fuego",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-30",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/30.png",
+      "large": "https://images.pokemontcg.io/sv8/30_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "30"
+  },
+  {
+    "Nombre": "Numel",
+    "Tipo": "Fuego",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-11",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/11.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/11_hires.png"
+    },
+    "flavorText": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "11"
+  },
+  {
+    "Nombre": "Larvesta",
+    "Tipo": "Fuego",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-40",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/40.png",
+      "large": "https://images.pokemontcg.io/sv3/40_hires.png"
+    },
+    "flavorText": "This Pokémon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "40"
+  },
+  {
+    "Nombre": "Carmeleon",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Carmeleon"
+  },
+  {
+    "Nombre": "Darmanitan",
+    "Tipo": "Fuego",
+    "Expansión": "TWM",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv6-35",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/35.png",
+      "large": "https://images.pokemontcg.io/sv6/35_hires.png"
+    },
+    "flavorText": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fire"
+    ],
+    "number": "35"
+  },
+  {
+    "Nombre": "Tepig",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-29",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-29/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-29/large"
+    },
+    "flavorText": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "29"
+  },
+  {
+    "Nombre": "Slugma",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Slugma"
+  },
+  {
+    "Nombre": "Pansear",
+    "Tipo": "Fuego",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-21",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/21.png",
+      "large": "https://images.pokemontcg.io/sv7/21_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "21"
+  },
+  {
+    "Nombre": "Scorbunny",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-36",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-36/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-36/large"
+    },
+    "flavorText": "Fire energy gathers in the pads of its feet, raising their temperature. Once hot, Scorbunny’s footpads can deal heavy damage to opponents.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "36"
+  },
+  {
+    "Nombre": "Raboot",
+    "Tipo": "Fuego",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-27",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/27.png",
+      "large": "https://images.pokemontcg.io/me1/27_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "27"
+  },
+  {
+    "Nombre": "Numel",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-27",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-27/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-27/large"
+    },
+    "flavorText": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "27"
+  },
+  {
+    "Nombre": "Lombre",
+    "Tipo": "Agua",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv9-36",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/36.png",
+      "large": "https://images.pokemontcg.io/sv9/36_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "36"
+  },
+  {
+    "Nombre": "Sneasel",
+    "Tipo": "Agua",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-44",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-44/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-44/large"
+    },
+    "flavorText": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "44"
+  },
+  {
+    "Nombre": "Carvanha",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-46",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/46.png",
+      "large": "https://images.pokemontcg.io/sv3/46_hires.png"
+    },
+    "flavorText": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "46"
+  },
+  {
+    "Nombre": "Cetoddle",
+    "Tipo": "Agua",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-53",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/53.png",
+      "large": "https://images.pokemontcg.io/sv8/53_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "53"
+  },
+  {
+    "Nombre": "Buizel",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-48",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/48.png",
+      "large": "https://images.pokemontcg.io/sv3/48_hires.png"
+    },
+    "flavorText": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "48"
+  },
+  {
+    "Nombre": "Azumarill",
+    "Tipo": "Agua",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-34",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/34.png",
+      "large": "https://images.pokemontcg.io/sv7/34_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Water"
+    ],
+    "number": "34"
+  },
+  {
+    "Nombre": "Frigibax",
+    "Tipo": "Agua",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-17",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/17.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/17_hires.png"
+    },
+    "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "17"
+  },
+  {
+    "Nombre": "Frigibax",
+    "Tipo": "Agua",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-17",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/17.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/17_hires.png"
+    },
+    "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "17"
+  },
+  {
+    "Nombre": "Finizen",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-60",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/60.png",
+      "large": "https://images.pokemontcg.io/sv3/60_hires.png"
+    },
+    "flavorText": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "60"
+  },
+  {
+    "Nombre": "Quaxly",
+    "Tipo": "Agua",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv2-49",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/49.png",
+      "large": "https://images.pokemontcg.io/sv2/49_hires.png"
+    },
+    "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "49"
+  },
+  {
+    "Nombre": "Snorunt",
+    "Tipo": "Agua",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-46",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-46/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-46/large"
+    },
+    "flavorText": "In some snowy lands, certain folklore says a house will prosper if a Snorunt lives there.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "46"
+  },
+  {
+    "Nombre": "Weavile",
+    "Tipo": "Agua",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-45",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-45/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-45/large"
+    },
+    "flavorText": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+    "rarity": "Uncommon",
+    "types": [
+      "Water"
+    ],
+    "number": "45"
+  },
+  {
+    "Nombre": "Sealeo",
+    "Tipo": "Agua",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-44",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/44.png",
+      "large": "https://images.pokemontcg.io/sv8/44_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "44"
+  },
+  {
+    "Nombre": "Keldeo",
+    "Tipo": "Agua",
+    "Expansión": "F",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Keldeo"
+  },
+  {
+    "Nombre": "Frogadier",
+    "Tipo": "Agua",
+    "Expansión": "TWM",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv6-57",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/57.png",
+      "large": "https://images.pokemontcg.io/sv6/57_hires.png"
+    },
+    "flavorText": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "57"
+  },
+  {
+    "Nombre": "Snom",
+    "Tipo": "Agua",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-52",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-52/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-52/large"
+    },
+    "flavorText": "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "52"
+  },
+  {
+    "Nombre": "Orgerpon",
+    "Tipo": "Agua",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Orgerpon"
+  },
+  {
+    "Nombre": "Wugtirio",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Wugtirio"
+  },
+  {
+    "Nombre": "Wattrel",
+    "Tipo": "Eléctrico",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv2-80",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/80.png",
+      "large": "https://images.pokemontcg.io/sv2/80_hires.png"
+    },
+    "flavorText": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "80"
+  },
+  {
+    "Nombre": "Tadbulb",
+    "Tipo": "Eléctrico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-74",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/74.png",
+      "large": "https://images.pokemontcg.io/sv3/74_hires.png"
+    },
+    "flavorText": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "74"
+  },
+  {
+    "Nombre": "Pichu",
+    "Tipo": "Eléctrico",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Pichu"
+  },
+  {
+    "Nombre": "Miraidon",
+    "Tipo": "Eléctrico",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-69",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/69.png",
+      "large": "https://images.pokemontcg.io/sv8/69_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Lightning"
+    ],
+    "number": "69"
+  },
+  {
+    "Nombre": "Vikavolt",
+    "Tipo": "Eléctrico",
+    "Expansión": "TEF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv5-56",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/56.png",
+      "large": "https://images.pokemontcg.io/sv5/56_hires.png"
+    },
+    "flavorText": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+    "rarity": "Uncommon",
+    "types": [
+      "Lightning"
+    ],
+    "number": "56"
+  },
+  {
+    "Nombre": "Zebstrika",
+    "Tipo": "Eléctrico",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-63",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/63.png",
+      "large": "https://images.pokemontcg.io/sv8/63_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "63"
+  },
+  {
+    "Nombre": "Pachirisu",
+    "Tipo": "Eléctrico",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-51",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/51.png",
+      "large": "https://images.pokemontcg.io/me1/51_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "51"
+  },
+  {
+    "Nombre": "Heliolisk",
+    "Tipo": "Eléctrico",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-53",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/53.png",
+      "large": "https://images.pokemontcg.io/me1/53_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "53"
+  },
+  {
+    "Nombre": "Pikachu",
+    "Tipo": "Eléctrico",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-18",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/18.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/18_hires.png"
+    },
+    "flavorText": "﻿When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "18"
+  },
+  {
+    "Nombre": "Pawmo",
+    "Tipo": "Eléctrico",
+    "Expansión": "SVI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv1-75",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/75.png",
+      "large": "https://images.pokemontcg.io/sv1/75_hires.png"
+    },
+    "flavorText": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "75"
+  },
+  {
+    "Nombre": "Vikavolt",
+    "Tipo": "Eléctrico",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-53",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/53.png",
+      "large": "https://images.pokemontcg.io/sv7/53_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Lightning"
+    ],
+    "number": "53"
+  },
+  {
+    "Nombre": "Tadbulb",
+    "Tipo": "Eléctrico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Tadbulb"
+  },
+  {
+    "Nombre": "Pawmo",
+    "Tipo": "Eléctrico",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-33",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/33.png",
+      "large": "https://images.pokemontcg.io/me2/33_hires.png"
+    },
+    "flavorText": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "33"
+  },
+  {
+    "Nombre": "Heliolisk",
+    "Tipo": "Eléctrico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-64",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-64/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-64/large"
+    },
+    "flavorText": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+    "rarity": "Uncommon",
+    "types": [
+      "Lightning"
+    ],
+    "number": "64"
+  },
+  {
+    "Nombre": "Indeedee",
+    "Tipo": "Psíquico",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-93",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/93.png",
+      "large": "https://images.pokemontcg.io/sv8/93_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Psychic"
+    ],
+    "number": "93"
+  },
+  {
+    "Nombre": "Zacian",
+    "Tipo": "Psíquico",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-45",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/45.png",
+      "large": "https://images.pokemontcg.io/me2/45_hires.png"
+    },
+    "flavorText": "Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "45"
+  },
+  {
+    "Nombre": "Banette",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-91",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-91/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-91/large"
+    },
+    "flavorText": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+    "rarity": "Uncommon",
+    "types": [
+      "Psychic"
+    ],
+    "number": "91"
+  },
+  {
+    "Nombre": "Togepi",
+    "Tipo": "Psíquico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-83",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/83.png",
+      "large": "https://images.pokemontcg.io/sv3/83_hires.png"
+    },
+    "flavorText": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "83"
+  },
+  {
+    "Nombre": "Impidimp",
+    "Tipo": "Psíquico",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv9-71",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/71.png",
+      "large": "https://images.pokemontcg.io/sv9/71_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "71"
+  },
+  {
+    "Nombre": "Latios",
+    "Tipo": "Psíquico",
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4-73",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/73.png",
+      "large": "https://images.pokemontcg.io/sv4/73_hires.png"
+    },
+    "flavorText": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "73"
+  },
+  {
+    "Nombre": "Snubbull",
+    "Tipo": "Psíquico",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-37",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/37.png",
+      "large": "https://images.pokemontcg.io/me2/37_hires.png"
+    },
+    "flavorText": "In truth, it is a cowardly Pokémon. It growls eagerly in order to hide its fear from its opponent.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "37"
+  },
+  {
+    "Nombre": "Slowking",
+    "Tipo": "Psíquico",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-58",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/58.png",
+      "large": "https://images.pokemontcg.io/sv7/58_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Psychic"
+    ],
+    "number": "58"
+  },
+  {
+    "Nombre": "Dedenne",
+    "Tipo": "Psíquico",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-36",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/36.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/36_hires.png"
+    },
+    "flavorText": "It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "36"
+  },
+  {
+    "Nombre": "Rotom",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-92",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-92/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-92/large"
+    },
+    "flavorText": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "92"
+  },
+  {
+    "Nombre": "Dhelmise",
+    "Tipo": "Psíquico",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv9-70",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/70.png",
+      "large": "https://images.pokemontcg.io/sv9/70_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "70"
+  },
+  {
+    "Nombre": "Fidough",
+    "Tipo": "Psíquico",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-66",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/66.png",
+      "large": "https://images.pokemontcg.io/sv7/66_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "66"
+  },
+  {
+    "Nombre": "Natu",
+    "Tipo": "Psíquico",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-25",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/25.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/25_hires.png"
+    },
+    "flavorText": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "25"
+  },
+  {
+    "Nombre": "Dedenne",
+    "Tipo": "Psíquico",
+    "Expansión": "F",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Dedenne"
+  },
+  {
+    "Nombre": "Cleffa",
+    "Tipo": "Psíquico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-80",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/80.png",
+      "large": "https://images.pokemontcg.io/sv3/80_hires.png"
+    },
+    "flavorText": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "80"
+  },
+  {
+    "Nombre": "Greavard",
+    "Tipo": "Psíquico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-99",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/99.png",
+      "large": "https://images.pokemontcg.io/sv3/99_hires.png"
+    },
+    "flavorText": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "99"
+  },
+  {
+    "Nombre": "Togekiss",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-82",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-82/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-82/large"
+    },
+    "flavorText": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "82"
+  },
+  {
+    "Nombre": "Mismagius",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-86",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-86/large"
+    },
+    "flavorText": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "86"
+  },
+  {
+    "Nombre": "Sandygast",
+    "Tipo": "Psíquico",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv2-95",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/95.png",
+      "large": "https://images.pokemontcg.io/sv2/95_hires.png"
+    },
+    "flavorText": "If it loses its shovel, it will stick something else— like a branch—in its head to make do until it finds another shovel.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "95"
+  },
+  {
+    "Nombre": "Stoutland",
+    "Tipo": "Normal",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-172",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/172.png",
+      "large": "https://images.pokemontcg.io/sv3/172_hires.png"
+    },
+    "flavorText": "Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "172"
+  },
+  {
+    "Nombre": "Swablu",
+    "Tipo": "Normal",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-148",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/148.png",
+      "large": "https://images.pokemontcg.io/sv8/148_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "148"
+  },
+  {
+    "Nombre": "Youngoos",
+    "Tipo": "Normal",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Youngoos"
+  },
+  {
+    "Nombre": "Oranguru",
+    "Tipo": "Normal",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-156",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/156.png",
+      "large": "https://images.pokemontcg.io/sv8/156_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "156"
+  },
+  {
+    "Nombre": "Lillipup",
+    "Tipo": "Normal",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-170",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/170.png",
+      "large": "https://images.pokemontcg.io/sv3/170_hires.png"
+    },
+    "flavorText": "This Pokémon is far brighter than the average child, and Lillipup won't forget the love it receives or any abuse it suffers.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "170"
+  },
+  {
+    "Nombre": "Linoone",
+    "Tipo": "Normal",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-82",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/82.png",
+      "large": "https://images.pokemontcg.io/me2/82_hires.png"
+    },
+    "flavorText": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "82"
+  },
+  {
+    "Nombre": "Porygon 2",
+    "Tipo": "Normal",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Porygon 2"
+  },
+  {
+    "Nombre": "Vigoroth",
+    "Tipo": "Normal",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv2-161",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/161.png",
+      "large": "https://images.pokemontcg.io/sv2/161_hires.png"
+    },
+    "flavorText": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "161"
+  },
+  {
+    "Nombre": "Rufflet",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Rufflet"
+  },
+  {
+    "Nombre": "Rotom-Fan",
+    "Tipo": "Normal",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Rotom-Fan"
+  },
+  {
+    "Nombre": "Dubwool",
+    "Tipo": "Normal",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Dubwool"
+  },
+  {
+    "Nombre": "Drampa",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-176",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-176/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-176/large"
+    },
+    "flavorText": "It has a compassionate personality, but if it is angered, it completely destroys its surroundings with its intense breath.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "176"
+  },
+  {
+    "Nombre": "Wooloo",
+    "Tipo": "Normal",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-124",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/124.png",
+      "large": "https://images.pokemontcg.io/sv7/124_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "124"
+  },
+  {
+    "Nombre": "Dunsparce",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Dunsparce"
+  },
+  {
+    "Nombre": "Gumshoos",
+    "Tipo": "Normal",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me1-110",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/110.png",
+      "large": "https://images.pokemontcg.io/me1/110_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "110"
+  },
+  {
+    "Nombre": "Barboach",
+    "Tipo": "Lucha",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-108",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/108.png",
+      "large": "https://images.pokemontcg.io/sv3/108_hires.png"
+    },
+    "flavorText": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "108"
+  },
+  {
+    "Nombre": "Passimian",
+    "Tipo": "Lucha",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-111",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/111.png",
+      "large": "https://images.pokemontcg.io/sv8/111_hires.png"
+    },
+    "rarity": "Uncommon",
+    "types": [
+      "Fighting"
+    ],
+    "number": "111"
+  },
+  {
+    "Nombre": "Whiscash",
+    "Tipo": "Lucha",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-109",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/109.png",
+      "large": "https://images.pokemontcg.io/sv3/109_hires.png"
+    },
+    "flavorText": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fighting"
+    ],
+    "number": "109"
+  },
+  {
+    "Nombre": "Toedscruel",
+    "Tipo": "Lucha",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-119",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/119.png",
+      "large": "https://images.pokemontcg.io/sv3/119_hires.png"
+    },
+    "flavorText": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fighting"
+    ],
+    "number": "119"
+  },
+  {
+    "Nombre": "Meditite",
+    "Tipo": "Lucha",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-77",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/77.png",
+      "large": "https://images.pokemontcg.io/sv7/77_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "77"
+  },
+  {
+    "Nombre": "Gligar",
+    "Tipo": "Lucha",
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4-91",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/91.png",
+      "large": "https://images.pokemontcg.io/sv4/91_hires.png"
+    },
+    "flavorText": "It flies straight at its target's face, then clamps down on the startled victim to inject poison.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "91"
+  },
+  {
+    "Nombre": "Rolycoly",
+    "Tipo": "Lucha",
+    "Expansión": "TEF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv5-93",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/93.png",
+      "large": "https://images.pokemontcg.io/sv5/93_hires.png"
+    },
+    "flavorText": "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "93"
+  },
+  {
+    "Nombre": "Crabrawler",
+    "Tipo": "Lucha",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-87",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/87.png",
+      "large": "https://images.pokemontcg.io/sv7/87_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "87"
+  },
+  {
+    "Nombre": "Rhyperior",
+    "Tipo": "Lucha",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-76",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/76.png",
+      "large": "https://images.pokemontcg.io/sv7/76_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "76"
+  },
+  {
+    "Nombre": "Clobbopus",
+    "Tipo": "Lucha",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-51",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/51.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/51_hires.png"
+    },
+    "flavorText": "Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "51"
+  },
+  {
+    "Nombre": "Toedscool",
+    "Tipo": "Lucha",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Toedscool"
+  },
+  {
+    "Nombre": "Rolycoly",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-118",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-118/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-118/large"
+    },
+    "flavorText": "Chunks of the surface of this Pokémon’s body that have grown old and flaked off have long been used for fuel as an alternative to coal.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "118"
+  },
+  {
+    "Nombre": "Carkol",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-119",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-119/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-119/large"
+    },
+    "flavorText": "Due to the coal tar created inside it, the heap of coal on Carkol’s back never falls apart, even when the Pokémon rolls around at high speeds.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "119"
+  },
+  {
+    "Nombre": "Medicham",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-104",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-104/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-104/large"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "104"
+  },
+  {
+    "Nombre": "Silicobra",
+    "Tipo": "Lucha",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Silicobra"
+  },
+  {
+    "Nombre": "Mankey",
+    "Tipo": "Lucha",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-45",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/45.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/45_hires.png"
+    },
+    "flavorText": "It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "45"
+  },
+  {
+    "Nombre": "Lunatone",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-105",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-105/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-105/large"
+    },
+    "flavorText": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "105"
+  },
+  {
+    "Nombre": "Sudowoodo",
+    "Tipo": "Lucha",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Sudowoodo"
+  },
+  {
+    "Nombre": "Gliscor",
+    "Tipo": "Lucha",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-50",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/50.png",
+      "large": "https://images.pokemontcg.io/me2/50_hires.png"
+    },
+    "flavorText": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fighting"
+    ],
+    "number": "50"
+  },
+  {
+    "Nombre": "Carkol",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-119",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-119/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-119/large"
+    },
+    "flavorText": "Due to the coal tar created inside it, the heap of coal on Carkol’s back never falls apart, even when the Pokémon rolls around at high speeds.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "119"
+  },
+  {
+    "Nombre": "Phanpy",
+    "Tipo": "Lucha",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-102",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/102.png",
+      "large": "https://images.pokemontcg.io/sv8/102_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "102"
+  },
+  {
+    "Nombre": "Eternatus",
+    "Tipo": "Siniestro",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-69",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/69.png",
+      "large": "https://images.pokemontcg.io/me2/69_hires.png"
+    },
+    "flavorText": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "rarity": "Uncommon",
+    "types": [
+      "Darkness"
+    ],
+    "number": "69"
+  },
+  {
+    "Nombre": "Sneasel",
+    "Tipo": "Siniestro",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Sneasel"
+  },
+  {
+    "Nombre": "Zweilous",
+    "Tipo": "Siniestro",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-118",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/118.png",
+      "large": "https://images.pokemontcg.io/sv8/118_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Darkness"
+    ],
+    "number": "118"
+  },
+  {
+    "Nombre": "Clodsire",
+    "Tipo": "Siniestro",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Clodsire"
+  },
+  {
+    "Nombre": "Shroodle",
+    "Tipo": "Siniestro",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-120",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/120.png",
+      "large": "https://images.pokemontcg.io/sv8/120_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Darkness"
+    ],
+    "number": "120"
+  },
+  {
+    "Nombre": "Salandit",
+    "Tipo": "Siniestro",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-139",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/139.png",
+      "large": "https://images.pokemontcg.io/sv3/139_hires.png"
+    },
+    "flavorText": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "rarity": "Common",
+    "types": [
+      "Darkness"
+    ],
+    "number": "139"
+  },
+  {
+    "Nombre": "Pecharunt",
+    "Tipo": "Siniestro",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-143",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-143/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-143/large"
+    },
+    "flavorText": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "143"
+  },
+  {
+    "Nombre": "Honchkrow",
+    "Tipo": "Siniestro",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Honchkrow"
+  },
+  {
+    "Nombre": "Scraggy",
+    "Tipo": "Siniestro",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-60",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/60.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/60_hires.png"
+    },
+    "flavorText": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
+    "rarity": "Common",
+    "types": [
+      "Darkness"
+    ],
+    "number": "60"
+  },
+  {
+    "Nombre": "Poochyena",
+    "Tipo": "Siniestro",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2pt5-128",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-128/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-128/large"
+    },
+    "flavorText": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+    "rarity": "Common",
+    "types": [
+      "Darkness"
+    ],
+    "number": "128"
+  },
+  {
+    "Nombre": "Eternatus",
+    "Tipo": "Siniestro",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-69",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/69.png",
+      "large": "https://images.pokemontcg.io/me2/69_hires.png"
+    },
+    "flavorText": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "rarity": "Uncommon",
+    "types": [
+      "Darkness"
+    ],
+    "number": "69"
+  },
+  {
+    "Nombre": "Duraludon",
+    "Tipo": "Acero",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-106",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/106.png",
+      "large": "https://images.pokemontcg.io/sv7/106_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Metal"
+    ],
+    "number": "106"
+  },
+  {
+    "Nombre": "Klang",
+    "Tipo": "Acero",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-100",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/100.png",
+      "large": "https://images.pokemontcg.io/sv7/100_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Metal"
+    ],
+    "number": "100"
+  },
+  {
+    "Nombre": "Archaludon",
+    "Tipo": "Acero",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "me2-75",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/75.png",
+      "large": "https://images.pokemontcg.io/me2/75_hires.png"
+    },
+    "flavorText": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+    "rarity": "Uncommon",
+    "types": [
+      "Metal"
+    ],
+    "number": "75"
+  },
+  {
+    "Nombre": "Bronzong",
+    "Tipo": "Acero",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv8-127",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/127.png",
+      "large": "https://images.pokemontcg.io/sv8/127_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Metal"
+    ],
+    "number": "127"
+  },
+  {
+    "Nombre": "Archaludon",
+    "Tipo": "Acero",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-107",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/107.png",
+      "large": "https://images.pokemontcg.io/sv7/107_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "107"
+  },
+  {
+    "Nombre": "Meltan",
+    "Tipo": "Acero",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv7-102",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/102.png",
+      "large": "https://images.pokemontcg.io/sv7/102_hires.png"
+    },
+    "rarity": "Common",
+    "types": [
+      "Metal"
+    ],
+    "number": "102"
+  },
+  {
+    "Nombre": "Mawile",
+    "Tipo": "Acero",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-89",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/89.png",
+      "large": "https://images.pokemontcg.io/sv3/89_hires.png"
+    },
+    "flavorText": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "89"
+  },
+  {
+    "Nombre": "Drampa",
+    "Tipo": "Dragón",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv3-161",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/161.png",
+      "large": "https://images.pokemontcg.io/sv3/161_hires.png"
+    },
+    "flavorText": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+    "rarity": "Uncommon",
+    "types": [
+      "Dragon"
+    ],
+    "number": "161"
+  },
+  {
+    "Nombre": "Noibat",
+    "Tipo": "Dragón",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "id": "sv4pt5-68",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/68.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/68_hires.png"
+    },
+    "flavorText": "This Pokémon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
+    "rarity": "Common",
+    "types": [
+      "Dragon"
+    ],
+    "number": "68"
+  },
+  {
+    "Nombre": "Meganium",
+    "Tipo": "Planta",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me1-10",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/10.png",
+      "large": "https://images.pokemontcg.io/me1/10_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "10"
+  },
+  {
+    "Nombre": "Sprigatito",
+    "Tipo": "Planta",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv2-12",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/12.png",
+      "large": "https://images.pokemontcg.io/sv2/12_hires.png"
+    },
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "12"
+  },
+  {
+    "Nombre": "Genesect",
+    "Tipo": "Planta",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2-8",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/8.png",
+      "large": "https://images.pokemontcg.io/me2/8_hires.png"
+    },
+    "flavorText": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "8"
+  },
+  {
+    "Nombre": "Victreebel",
+    "Tipo": "Planta",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Victreebel"
+  },
+  {
+    "Nombre": "Meowscarada",
+    "Tipo": "Planta",
+    "Expansión": "SVI",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv1-15",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/15.png",
+      "large": "https://images.pokemontcg.io/sv1/15_hires.png"
+    },
+    "flavorText": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "15"
+  },
+  {
+    "Nombre": "Sinitscha",
+    "Tipo": "Planta",
+    "Expansión": "TWM",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Sinitscha"
+  },
+  {
+    "Nombre": "Scovillain",
+    "Tipo": "Planta",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-25",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/25.png",
+      "large": "https://images.pokemontcg.io/sv3/25_hires.png"
+    },
+    "flavorText": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "25"
+  },
+  {
+    "Nombre": "Magcargo",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Magcargo"
+  },
+  {
+    "Nombre": "Reshiram",
+    "Tipo": "Fuego",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2-17",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/17.png",
+      "large": "https://images.pokemontcg.io/me2/17_hires.png"
+    },
+    "flavorText": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "17"
+  },
+  {
+    "Nombre": "Fuecoco",
+    "Tipo": "Fuego",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv2-34",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/34.png",
+      "large": "https://images.pokemontcg.io/sv2/34_hires.png"
+    },
+    "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "34"
+  },
+  {
+    "Nombre": "Cinderace",
+    "Tipo": "Fuego",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me1-28",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/28.png",
+      "large": "https://images.pokemontcg.io/me1/28_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "28"
+  },
+  {
+    "Nombre": "Reshiram",
+    "Tipo": "Fuego",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2-17",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/17.png",
+      "large": "https://images.pokemontcg.io/me2/17_hires.png"
+    },
+    "flavorText": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "17"
+  },
+  {
+    "Nombre": "Gouging Fire",
+    "Tipo": "Fuego",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-38",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/38.png",
+      "large": "https://images.pokemontcg.io/sv8/38_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "38"
+  },
+  {
+    "Nombre": "Magcargo",
+    "Tipo": "Fuego",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Magcargo"
+  },
+  {
+    "Nombre": "Magmortar",
+    "Tipo": "Fuego",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv4pt5-10",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/10.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/10_hires.png"
+    },
+    "flavorText": "Living in the crater of a volcano has caused this Pokémon's body to resemble its environment— it has an organ similar to a magma chamber.",
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "10"
+  },
+  {
+    "Nombre": "Gyarados",
+    "Tipo": "Agua",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Gyarados"
+  },
+  {
+    "Nombre": "Chien-Pao",
+    "Tipo": "Agua",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-56",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/56.png",
+      "large": "https://images.pokemontcg.io/sv8/56_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Water"
+    ],
+    "number": "56"
+  },
+  {
+    "Nombre": "Quaxly",
+    "Tipo": "Agua",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv2-49",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/49.png",
+      "large": "https://images.pokemontcg.io/sv2/49_hires.png"
+    },
+    "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ],
+    "number": "49"
+  },
+  {
+    "Nombre": "Palafin",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-62",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/62.png",
+      "large": "https://images.pokemontcg.io/sv3/62_hires.png"
+    },
+    "flavorText": "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+    "rarity": "Rare",
+    "types": [
+      "Water"
+    ],
+    "number": "62"
+  },
+  {
+    "Nombre": "Palafin",
+    "Tipo": "Agua",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-62",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/62.png",
+      "large": "https://images.pokemontcg.io/sv3/62_hires.png"
+    },
+    "flavorText": "This Pokémon's ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin.",
+    "rarity": "Rare",
+    "types": [
+      "Water"
+    ],
+    "number": "62"
+  },
+  {
+    "Nombre": "Tapu Koko",
+    "Tipo": "Eléctrico",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-65",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/65.png",
+      "large": "https://images.pokemontcg.io/sv8/65_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Lightning"
+    ],
+    "number": "65"
+  },
+  {
+    "Nombre": "Thundurus",
+    "Tipo": "Eléctrico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-70",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/70.png",
+      "large": "https://images.pokemontcg.io/sv3/70_hires.png"
+    },
+    "flavorText": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+    "rarity": "Rare",
+    "types": [
+      "Lightning"
+    ],
+    "number": "70"
+  },
+  {
+    "Nombre": "Kilowattrel",
+    "Tipo": "Eléctrico",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Kilowattrel"
+  },
+  {
+    "Nombre": "Toxtricity",
+    "Tipo": "Eléctrico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-72",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/72.png",
+      "large": "https://images.pokemontcg.io/sv3/72_hires.png"
+    },
+    "flavorText": "Many youths admire the way this Pokémon listlessly picks fights and keeps its cool no matter what opponent it faces.",
+    "rarity": "Rare",
+    "types": [
+      "Lightning"
+    ],
+    "number": "72"
+  },
+  {
+    "Nombre": "Xerneas",
+    "Tipo": "Psíquico",
+    "Expansión": "MEG",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me1-64",
+    "images": {
+      "small": "https://images.pokemontcg.io/me1/64.png",
+      "large": "https://images.pokemontcg.io/me1/64_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "64"
+  },
+  {
+    "Nombre": "Togekiss",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-82",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-82/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-82/large"
+    },
+    "flavorText": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "82"
+  },
+  {
+    "Nombre": "Spectrier",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-98",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-98/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-98/large"
+    },
+    "flavorText": "It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "98"
+  },
+  {
+    "Nombre": "Mismagius",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-86",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-86/large"
+    },
+    "flavorText": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "86"
+  },
+  {
+    "Nombre": "Togekiss",
+    "Tipo": "Psíquico",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-85",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/85.png",
+      "large": "https://images.pokemontcg.io/sv3/85_hires.png"
+    },
+    "flavorText": "Known as a bringer of blessings, it's been depicted on good-luck charms since ancient times.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "85"
+  },
+  {
+    "Nombre": "Mismagius",
+    "Tipo": "Psíquico",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-86",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-86/large"
+    },
+    "flavorText": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "86"
+  },
+  {
+    "Nombre": "Houdstone",
+    "Tipo": "Psíquico",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Houdstone"
+  },
+  {
+    "Nombre": "Tapu Lele",
+    "Tipo": "Psíquico",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-92",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/92.png",
+      "large": "https://images.pokemontcg.io/sv8/92_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "92"
+  },
+  {
+    "Nombre": "Mimikyu",
+    "Tipo": "Psíquico",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv2-97",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/97.png",
+      "large": "https://images.pokemontcg.io/sv2/97_hires.png"
+    },
+    "flavorText": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "97"
+  },
+  {
+    "Nombre": "Xatu",
+    "Tipo": "Psíquico",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv4pt5-26",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/26.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/26_hires.png"
+    },
+    "flavorText": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "26"
+  },
+  {
+    "Nombre": "Greedent",
+    "Tipo": "Normal",
+    "Expansión": "DRI",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Greedent"
+  },
+  {
+    "Nombre": "Terapagos",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-178",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-178/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-178/large"
+    },
+    "flavorText": "The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move’s energy and transfers it to Terapagos.",
+    "rarity": "Rare",
+    "types": [
+      "Colorless"
+    ],
+    "number": "178"
+  },
+  {
+    "Nombre": "Terapagos",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-178",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-178/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-178/large"
+    },
+    "flavorText": "The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move’s energy and transfers it to Terapagos.",
+    "rarity": "Rare",
+    "types": [
+      "Colorless"
+    ],
+    "number": "178"
+  },
+  {
+    "Nombre": "Staraptor",
+    "Tipo": "Normal",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Staraptor"
+  },
+  {
+    "Nombre": "Noivern",
+    "Tipo": "Normal",
+    "Expansión": "JTG",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv9-128",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv9/128.png",
+      "large": "https://images.pokemontcg.io/sv9/128_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Colorless"
+    ],
+    "number": "128"
+  },
+  {
+    "Nombre": "Okidogi",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-122",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-122/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-122/large"
+    },
+    "flavorText": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck.",
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "122"
+  },
+  {
+    "Nombre": "Okidogi",
+    "Tipo": "Lucha",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-122",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-122/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-122/large"
+    },
+    "flavorText": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck.",
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "122"
+  },
+  {
+    "Nombre": "Ting-Lu",
+    "Tipo": "Lucha",
+    "Expansión": "TWM",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv6-110",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6/110.png",
+      "large": "https://images.pokemontcg.io/sv6/110_hires.png"
+    },
+    "flavorText": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.",
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "110"
+  },
+  {
+    "Nombre": "Flygon",
+    "Tipo": "Lucha",
+    "Expansión": "PFL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2-53",
+    "images": {
+      "small": "https://images.pokemontcg.io/me2/53.png",
+      "large": "https://images.pokemontcg.io/me2/53_hires.png"
+    },
+    "flavorText": "Known as the Desert Spirit, this Pokémon hides in the sandstorms it causes by beating its wings.",
+    "rarity": "Rare",
+    "types": [
+      "Fighting"
+    ],
+    "number": "53"
+  },
+  {
+    "Nombre": "Kingambit",
+    "Tipo": "Siniestro",
+    "Expansión": "SVI",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv1-134",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/134.png",
+      "large": "https://images.pokemontcg.io/sv1/134_hires.png"
+    },
+    "flavorText": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "134"
+  },
+  {
+    "Nombre": "Mabosstiff",
+    "Tipo": "Siniestro",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv4pt5-63",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/63.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/63_hires.png"
+    },
+    "flavorText": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "63"
+  },
+  {
+    "Nombre": "Hoopa",
+    "Tipo": "Siniestro",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-141",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-141/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-141/large"
+    },
+    "flavorText": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "141"
+  },
+  {
+    "Nombre": "Hoopa",
+    "Tipo": "Siniestro",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "me2pt5-141",
+    "images": {
+      "small": "https://images.scrydex.com/pokemon/me2pt5-141/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-141/large"
+    },
+    "flavorText": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "141"
+  },
+  {
+    "Nombre": "Darkrai",
+    "Tipo": "Siniestro",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-136",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/136.png",
+      "large": "https://images.pokemontcg.io/sv3/136_hires.png"
+    },
+    "flavorText": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "136"
+  },
+  {
+    "Nombre": "Darkrai",
+    "Tipo": "Siniestro",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-136",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/136.png",
+      "large": "https://images.pokemontcg.io/sv3/136_hires.png"
+    },
+    "flavorText": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "136"
+  },
+  {
+    "Nombre": "Iron Crown",
+    "Tipo": "Acero",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-132",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/132.png",
+      "large": "https://images.pokemontcg.io/sv8/132_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "132"
+  },
+  {
+    "Nombre": "Scizor",
+    "Tipo": "Acero",
+    "Expansión": "OBF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv3-141",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3/141.png",
+      "large": "https://images.pokemontcg.io/sv3/141_hires.png"
+    },
+    "flavorText": "This Pokémon's pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "141"
+  },
+  {
+    "Nombre": "Gholdengo",
+    "Tipo": "Acero",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv4pt5-67",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/67.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
+    },
+    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "67"
+  },
+  {
+    "Nombre": "Orthworm",
+    "Tipo": "Acero",
+    "Expansión": "PAL",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv2-151",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/151.png",
+      "large": "https://images.pokemontcg.io/sv2/151_hires.png"
+    },
+    "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "151"
+  },
+  {
+    "Nombre": "Klinklang",
+    "Tipo": "Acero",
+    "Expansión": "SCR",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv7-101",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv7/101.png",
+      "large": "https://images.pokemontcg.io/sv7/101_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Metal"
+    ],
+    "number": "101"
+  },
+  {
+    "Nombre": "Reshiram",
+    "Tipo": "Dragón",
+    "Expansión": "ASC",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/generic/card.png"
+    },
+    "id": "manual-Reshiram"
+  },
+  {
+    "Nombre": "Cyclizar",
+    "Tipo": "Dragón",
+    "Expansión": "PAF",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv4pt5-70",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/70.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/70_hires.png"
+    },
+    "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "rarity": "Rare",
+    "types": [
+      "Dragon"
+    ],
+    "number": "70"
+  },
+  {
+    "Nombre": "Eternatus",
+    "Tipo": "Dragón",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-141",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/141.png",
+      "large": "https://images.pokemontcg.io/sv8/141_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Dragon"
+    ],
+    "number": "141"
+  },
+  {
+    "Nombre": "Eternatus",
+    "Tipo": "Dragón",
+    "Expansión": "SSP",
+    "Idioma": "EN",
+    "Precio": 3500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Holo",
+    "id": "sv8-141",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/141.png",
+      "large": "https://images.pokemontcg.io/sv8/141_hires.png"
+    },
+    "rarity": "Rare",
+    "types": [
+      "Dragon"
+    ],
+    "number": "141"
+  }
+]

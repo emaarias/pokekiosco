@@ -1,0 +1,1972 @@
+[
+    {
+      "Nombre": "Maractus",
+      "Tipo": "Planta",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Ninjask",
+      "Tipo": "Planta",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Genesect",
+      "Tipo": "Planta",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Karrablast",
+      "Tipo": "Planta",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Bayleef",
+      "Tipo": "Planta",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Tarountula",
+      "Tipo": "Planta",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Tarountula",
+      "Tipo": "Planta",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Spewpa",
+      "Tipo": "Planta",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Nuzleaf",
+      "Tipo": "Planta",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Mow Rotom",
+      "Tipo": "Planta",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Bounsweet",
+      "Tipo": "Planta",
+      "Expansión": "PAR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Vivilon",
+      "Tipo": "Planta",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Heracross",
+      "Tipo": "Planta",
+      "Expansión": "TWM",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rowlet",
+      "Tipo": "Planta",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Applin",
+      "Tipo": "Planta",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Scatterbug",
+      "Tipo": "Planta",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Bellossom",
+      "Tipo": "Planta",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Gossifleur",
+      "Tipo": "Planta",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Budew",
+      "Tipo": "Planta",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Charcadet",
+      "Tipo": "Fuego",
+      "Expansión": "PAR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Darumaka",
+      "Tipo": "Fuego",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Crocalor",
+      "Tipo": "Fuego",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Numel",
+      "Tipo": "Fuego",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Larvesta",
+      "Tipo": "Fuego",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Carmeleon",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Darmanitan",
+      "Tipo": "Fuego",
+      "Expansión": "TWM",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Tepig",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Slugma",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pansear",
+      "Tipo": "Fuego",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Scorbunny",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Raboot",
+      "Tipo": "Fuego",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Numel",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Lombre",
+      "Tipo": "Agua",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Sneasel",
+      "Tipo": "Agua",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Carvanha",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Cetoddle",
+      "Tipo": "Agua",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Buizel",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Azumarill",
+      "Tipo": "Agua",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Frigibax",
+      "Tipo": "Agua",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Frigibax",
+      "Tipo": "Agua",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Finizen",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Quaxly",
+      "Tipo": "Agua",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Snorunt",
+      "Tipo": "Agua",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Weavile",
+      "Tipo": "Agua",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Sealeo",
+      "Tipo": "Agua",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Keldeo",
+      "Tipo": "Agua",
+      "Expansión": "F",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Frogadier",
+      "Tipo": "Agua",
+      "Expansión": "TWM",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Snom",
+      "Tipo": "Agua",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Orgerpon",
+      "Tipo": "Agua",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Wugtirio",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Wattrel",
+      "Tipo": "Eléctrico",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Tadbulb",
+      "Tipo": "Eléctrico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pichu",
+      "Tipo": "Eléctrico",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Miraidon",
+      "Tipo": "Eléctrico",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Vikavolt",
+      "Tipo": "Eléctrico",
+      "Expansión": "TEF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Zebstrika",
+      "Tipo": "Eléctrico",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pachirisu",
+      "Tipo": "Eléctrico",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Heliolisk",
+      "Tipo": "Eléctrico",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pikachu",
+      "Tipo": "Eléctrico",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pawmo",
+      "Tipo": "Eléctrico",
+      "Expansión": "SVI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Vikavolt",
+      "Tipo": "Eléctrico",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Tadbulb",
+      "Tipo": "Eléctrico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pawmo",
+      "Tipo": "Eléctrico",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Heliolisk",
+      "Tipo": "Eléctrico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Indeedee",
+      "Tipo": "Psíquico",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Zacian",
+      "Tipo": "Psíquico",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Banette",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Togepi",
+      "Tipo": "Psíquico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Impidimp",
+      "Tipo": "Psíquico",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Latios",
+      "Tipo": "Psíquico",
+      "Expansión": "PAR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Snubbull",
+      "Tipo": "Psíquico",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Slowking",
+      "Tipo": "Psíquico",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Dedenne",
+      "Tipo": "Psíquico",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rotom",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Dhelmise",
+      "Tipo": "Psíquico",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Fidough",
+      "Tipo": "Psíquico",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Natu",
+      "Tipo": "Psíquico",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Dedenne",
+      "Tipo": "Psíquico",
+      "Expansión": "F",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Cleffa",
+      "Tipo": "Psíquico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Greavard",
+      "Tipo": "Psíquico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Togekiss",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Mismagius",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Sandygast",
+      "Tipo": "Psíquico",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Stoutland",
+      "Tipo": "Normal",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Swablu",
+      "Tipo": "Normal",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Youngoos",
+      "Tipo": "Normal",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Oranguru",
+      "Tipo": "Normal",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Lillipup",
+      "Tipo": "Normal",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Linoone",
+      "Tipo": "Normal",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Porygon 2",
+      "Tipo": "Normal",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Vigoroth",
+      "Tipo": "Normal",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rufflet",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rotom-Fan",
+      "Tipo": "Normal",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Dubwool",
+      "Tipo": "Normal",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Drampa",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Wooloo",
+      "Tipo": "Normal",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Dunsparce",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Gumshoos",
+      "Tipo": "Normal",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Barboach",
+      "Tipo": "Lucha",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Passimian",
+      "Tipo": "Lucha",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Whiscash",
+      "Tipo": "Lucha",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Toedscruel",
+      "Tipo": "Lucha",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Meditite",
+      "Tipo": "Lucha",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Gligar",
+      "Tipo": "Lucha",
+      "Expansión": "PAR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rolycoly",
+      "Tipo": "Lucha",
+      "Expansión": "TEF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Crabrawler",
+      "Tipo": "Lucha",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rhyperior",
+      "Tipo": "Lucha",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Clobbopus",
+      "Tipo": "Lucha",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Toedscool",
+      "Tipo": "Lucha",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Rolycoly",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Carkol",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Medicham",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Silicobra",
+      "Tipo": "Lucha",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Mankey",
+      "Tipo": "Lucha",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Lunatone",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Sudowoodo",
+      "Tipo": "Lucha",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Gliscor",
+      "Tipo": "Lucha",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Carkol",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Phanpy",
+      "Tipo": "Lucha",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Eternatus",
+      "Tipo": "Siniestro",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Sneasel",
+      "Tipo": "Siniestro",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Zweilous",
+      "Tipo": "Siniestro",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Clodsire",
+      "Tipo": "Siniestro",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Shroodle",
+      "Tipo": "Siniestro",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Salandit",
+      "Tipo": "Siniestro",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Pecharunt",
+      "Tipo": "Siniestro",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Honchkrow",
+      "Tipo": "Siniestro",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Scraggy",
+      "Tipo": "Siniestro",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Poochyena",
+      "Tipo": "Siniestro",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Eternatus",
+      "Tipo": "Siniestro",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Duraludon",
+      "Tipo": "Acero",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Klang",
+      "Tipo": "Acero",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Archaludon",
+      "Tipo": "Acero",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Bronzong",
+      "Tipo": "Acero",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Archaludon",
+      "Tipo": "Acero",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Meltan",
+      "Tipo": "Acero",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Mawile",
+      "Tipo": "Acero",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Drampa",
+      "Tipo": "Dragón",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Noibat",
+      "Tipo": "Dragón",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 2500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Reverse"
+    },
+    {
+      "Nombre": "Meganium",
+      "Tipo": "Planta",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Sprigatito",
+      "Tipo": "Planta",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Genesect",
+      "Tipo": "Planta",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Victreebel",
+      "Tipo": "Planta",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Meowscarada",
+      "Tipo": "Planta",
+      "Expansión": "SVI",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Sinitscha",
+      "Tipo": "Planta",
+      "Expansión": "TWM",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Scovillain",
+      "Tipo": "Planta",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Magcargo",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Reshiram",
+      "Tipo": "Fuego",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Fuecoco",
+      "Tipo": "Fuego",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Cinderace",
+      "Tipo": "Fuego",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Reshiram",
+      "Tipo": "Fuego",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Gouging Fire",
+      "Tipo": "Fuego",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Magcargo",
+      "Tipo": "Fuego",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Magmortar",
+      "Tipo": "Fuego",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Gyarados",
+      "Tipo": "Agua",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Chien-Pao",
+      "Tipo": "Agua",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Quaxly",
+      "Tipo": "Agua",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Palafin",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Palafin",
+      "Tipo": "Agua",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Tapu Koko",
+      "Tipo": "Eléctrico",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Thundurus",
+      "Tipo": "Eléctrico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Kilowattrel",
+      "Tipo": "Eléctrico",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Toxtricity",
+      "Tipo": "Eléctrico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Xerneas",
+      "Tipo": "Psíquico",
+      "Expansión": "MEG",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Togekiss",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Spectrier",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Mismagius",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Togekiss",
+      "Tipo": "Psíquico",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Mismagius",
+      "Tipo": "Psíquico",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Houdstone",
+      "Tipo": "Psíquico",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Tapu Lele",
+      "Tipo": "Psíquico",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Mimikyu",
+      "Tipo": "Psíquico",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Xatu",
+      "Tipo": "Psíquico",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Greedent",
+      "Tipo": "Normal",
+      "Expansión": "DRI",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Terapagos",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Terapagos",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Staraptor",
+      "Tipo": "Normal",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Noivern",
+      "Tipo": "Normal",
+      "Expansión": "JTG",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Okidogi",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Okidogi",
+      "Tipo": "Lucha",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Ting-Lu",
+      "Tipo": "Lucha",
+      "Expansión": "TWM",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Flygon",
+      "Tipo": "Lucha",
+      "Expansión": "PFL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Kingambit",
+      "Tipo": "Siniestro",
+      "Expansión": "SVI",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Mabosstiff",
+      "Tipo": "Siniestro",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Hoopa",
+      "Tipo": "Siniestro",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Hoopa",
+      "Tipo": "Siniestro",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Darkrai",
+      "Tipo": "Siniestro",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Darkrai",
+      "Tipo": "Siniestro",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Iron Crown",
+      "Tipo": "Acero",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Scizor",
+      "Tipo": "Acero",
+      "Expansión": "OBF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Gholdengo",
+      "Tipo": "Acero",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Orthworm",
+      "Tipo": "Acero",
+      "Expansión": "PAL",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Klinklang",
+      "Tipo": "Acero",
+      "Expansión": "SCR",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Reshiram",
+      "Tipo": "Dragón",
+      "Expansión": "ASC",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Cyclizar",
+      "Tipo": "Dragón",
+      "Expansión": "PAF",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Eternatus",
+      "Tipo": "Dragón",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    },
+    {
+      "Nombre": "Eternatus",
+      "Tipo": "Dragón",
+      "Expansión": "SSP",
+      "Idioma": "EN",
+      "Precio": 3500,
+      "Stock": 1,
+      "Estado": "Mint",
+      "Categoria": "Holo"
+    }
+  ]
