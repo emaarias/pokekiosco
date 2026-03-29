@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react'
-import { Search, ShoppingCart, Plus, X, Store } from 'lucide-react'
-import stockReal from './data/stock_final.json' // Usamos el stock ya fusionado
+import React, { useState, useMemo } from 'react'
+import { Search, ShoppingCart, Plus, X, Store, Filter } from 'lucide-react'
+import stockReal from './data/stock_final.json'
 
 function App() {
   // --- ESTADOS ---
@@ -9,97 +9,123 @@ function App() {
   const [isCartOpen, setIsCartOpen] = useState(false)
   const [selectedCard, setSelectedCard] = useState(null)
   const [visibleCount, setVisibleCount] = useState(40)
+  
+  // Filtros seleccionados
+  const [selectedSet, setSelectedSet] = useState("Todos")
+  const [selectedType, setSelectedType] = useState("Todos")
+  const [selectedCategory, setSelectedCategory] = useState("Todos")
 
-  // IMPORTANTE: Creamos un estado local para el inventario para poder restar el stock visualmente
   const [inventory, setInventory] = useState(stockReal)
 
-  // --- LÓGICA DE FILTRADO SEGURO ---
+  // --- LÓGICA PARA OBTENER VALORES ÚNICOS (Para los selectores) ---
+  // Esto hace que los filtros se actualicen solos según tu stock
+  const setsOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Expansión))], [inventory]);
+  const typesOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Tipo))], [inventory]);
+  const categoriesOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Categoria))], [inventory]);
+
+  // --- LÓGICA DE FILTRADO MULTIPLE ---
   const filteredCards = inventory.filter(card => {
     if (!card || !card.Nombre) return false;
-    return card.Nombre.toLowerCase().includes(searchTerm.toLowerCase());
+    
+    const matchesSearch = card.Nombre.toLowerCase().includes(searchTerm.toLowerCase());
+    const matchesSet = selectedSet === "Todos" || card.Expansión === selectedSet;
+    const matchesType = selectedType === "Todos" || card.Tipo === selectedType;
+    const matchesCat = selectedCategory === "Todos" || card.Categoria === selectedCategory;
+
+    return matchesSearch && matchesSet && matchesType && matchesCat;
   });
 
-  // --- FUNCIONES DE CARRITO Y STOCK ---
+  // --- FUNCIONES ---
   const addToCart = (card) => {
-    // 1. Agregamos al carrito
     setCart([...cart, card])
-
-    // 2. Restamos stock en el estado local (asumimos que solo tenés 1 de cada una)
-    setInventory(prevInv => 
-      prevInv.map(item => 
-        item.id === card.id ? { ...item, Stock: 0 } : item
-      )
-    )
-  };
+    setInventory(prev => prev.map(item => item.id === card.id ? { ...item, Stock: 0 } : item))
+  }
 
   const removeFromCart = (index) => {
-    const itemToRemove = cart[index];
-    
-    // 1. Quitamos del carrito
-    const newCart = [...cart];
-    newCart.splice(index, 1);
-    setCart(newCart);
+    const item = cart[index]
+    setCart(cart.filter((_, i) => i !== index))
+    setInventory(prev => prev.map(inv => inv.id === item.id ? { ...inv, Stock: 1 } : inv))
+  }
 
-    // 2. Devolvemos el stock al inventario local
-    setInventory(prevInv => 
-      prevInv.map(item => 
-        item.id === itemToRemove.id ? { ...item, Stock: 1 } : item
-      )
-    );
-  };
-
-  const loadMore = () => {
-    setVisibleCount(prev => prev + 40)
-  };
-
-  // Cálculo del total usando la propiedad 'Precio' de tu Excel
   const total = cart.reduce((acc, card) => acc + (Number(card.Precio) || 0), 0)
 
-  // Función para WhatsApp corregida
   const finalizarPedido = () => {
-    const nro = "54911XXXXXXXX" // Cambiá esto por tu número real
-    let msg = "¡Hola PokeKiosco! 👋 Quiero realizar este pedido:\n\n"
-    cart.forEach(item => {
-      msg += `- *${item.Nombre}* (${item.Expansión}) - $${item.Precio}\n`
-    })
-    msg += `\n*Total a pagar: $${total.toLocaleString()}*`
+    const nro = "54911XXXXXXXX"
+    let msg = `¡Hola PokeKiosco! 👋 Pedido:\n\n${cart.map(i => `- ${i.Nombre} (${i.Expansión}) [${i.Categoria}]`).join('\n')}\n\n*Total: $${total}*`
     window.open(`https://wa.me/${nro}?text=${encodeURIComponent(msg)}`)
-  };
+  }
 
   return (
     <div className="min-h-screen pb-20 bg-slate-50">
       {/* NAVBAR */}
       <nav className="bg-red-600 p-4 shadow-xl sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
-            <div className="w-12 h-12 bg-white rounded-full border-4 border-black flex items-center justify-center shadow-inner overflow-hidden relative">
-               <div className="w-full h-1/2 bg-red-500 absolute top-0"></div>
-               <div className="w-3 h-3 bg-white border-2 border-black rounded-full z-10"></div>
-               <img src="/logo.png" className="z-20 w-10" alt="" onError={(e) => e.target.style.display='none'}/>
+        <div className="max-w-7xl mx-auto flex flex-col gap-4">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+            <h1 className="text-white text-3xl font-black italic tracking-tighter">POKEKIOSCO</h1>
+            
+            {/* Buscador Principal */}
+            <div className="relative w-full md:w-1/2">
+              <input 
+                type="text" 
+                placeholder="¿Qué carta buscás?..." 
+                className="w-full py-3 px-12 rounded-full border-none shadow-lg focus:ring-4 focus:ring-yellow-400 outline-none text-black"
+                onChange={(e) => { setSearchTerm(e.target.value); setVisibleCount(40); }}
+              />
+              <Search className="absolute left-4 top-3.5 text-slate-400" size={24} />
             </div>
-            <h1 className="text-white text-3xl font-black tracking-tighter italic">POKEKIOSCO</h1>
+
+            <button onClick={() => setIsCartOpen(true)} className="flex items-center gap-2 bg-yellow-400 text-red-700 px-6 py-3 rounded-full font-bold shadow-lg">
+              <ShoppingCart size={24} />
+              <span className="bg-red-600 text-white px-2 rounded-full text-sm">{cart.length}</span>
+            </button>
           </div>
 
-          <div className="relative w-full md:w-1/2">
-            <input 
-              type="text" 
-              placeholder="¿Qué carta buscás en el stock?..." 
-              className="w-full py-3 px-12 rounded-full border-none shadow-lg focus:ring-4 focus:ring-yellow-400 outline-none text-lg text-black"
-              onChange={(e) => {
-                setSearchTerm(e.target.value)
-                setVisibleCount(40)
-              }}
-            />
-            <Search className="absolute left-4 top-3.5 text-slate-400" size={24} />
-          </div>
+          {/* BARRA DE FILTROS */}
+          <div className="flex flex-wrap items-center justify-center gap-3 bg-red-700/50 p-2 rounded-2xl">
+            <div className="flex items-center gap-2 text-white/80 text-xs font-bold mr-2">
+              <Filter size={14} /> FILTRAR POR:
+            </div>
+            
+            {/* Selector de SET */}
+            <select 
+              value={selectedSet}
+              onChange={(e) => setSelectedSet(e.target.value)}
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
+            >
+              <option disabled>Colección</option>
+              {setsOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)}
+            </select>
 
-          <button 
-            onClick={() => setIsCartOpen(true)}
-            className="flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-red-700 px-6 py-3 rounded-full font-bold shadow-lg transition-transform active:scale-95"
-          >
-            <ShoppingCart size={24} />
-            <span className="bg-red-600 text-white px-2 rounded-full text-sm">{cart.length}</span>
-          </button>
+            {/* Selector de TIPO */}
+            <select 
+              value={selectedType}
+              onChange={(e) => setSelectedType(e.target.value)}
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
+            >
+              <option disabled>Tipo de Energía</option>
+              {typesOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)}
+            </select>
+
+            {/* Selector de CATEGORIA (Holo/Reverse) */}
+            <select 
+              value={selectedCategory}
+              onChange={(e) => setSelectedCategory(e.target.value)}
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
+            >
+              <option disabled>Estilo</option>
+              {categoriesOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)}
+            </select>
+
+            {/* Botón resetear */}
+            {(selectedSet !== "Todos" || selectedType !== "Todos" || selectedCategory !== "Todos") && (
+              <button 
+                onClick={() => { setSelectedSet("Todos"); setSelectedType("Todos"); setSelectedCategory("Todos"); }}
+                className="text-white hover:text-yellow-400 text-[10px] font-black underline uppercase"
+              >
+                Limpiar Filtros
+              </button>
+            )}
+          </div>
         </div>
       </nav>
 
@@ -108,46 +134,41 @@ function App() {
         <div className="flex items-center justify-between mb-8 border-b-4 border-red-600 pb-2">
           <div className="flex items-center gap-2">
             <Store className="text-red-600" />
-            <h2 className="text-2xl font-black uppercase text-slate-800 tracking-tight">Nuestro Stock Real ({inventory.length})</h2>
+            <h2 className="text-2xl font-black uppercase text-slate-800 tracking-tight">
+              {filteredCards.length} Cartas Encontradas
+            </h2>
           </div>
         </div>
 
+        {/* GRILLA */}
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
           {filteredCards.slice(0, visibleCount).map((card, index) => {
             const hasStock = card.Stock > 0;
-            
             return (
-              <div 
-                key={card.id + index} 
-                onClick={() => hasStock && setSelectedCard(card)}
+              <div key={card.id + index} onClick={() => hasStock && setSelectedCard(card)}
                 className={`bg-white rounded-xl p-3 shadow-md transition-all relative border-b-4 border-slate-200 
                   ${hasStock ? 'hover:shadow-xl hover:-translate-y-1 cursor-pointer' : 'opacity-50 grayscale cursor-not-allowed'}`}
               >
-                {/* Badge Agotada */}
                 {!hasStock && (
                   <div className="absolute inset-0 z-10 flex items-center justify-center bg-black/5 rounded-xl">
-                    <span className="bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded rotate-12 shadow-lg">SIN STOCK</span>
+                    <span className="bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded rotate-12 shadow-lg">AGOTADA</span>
                   </div>
                 )}
-
-                <div className="aspect-[3/4] rounded-lg overflow-hidden bg-slate-100 mb-3 text-center flex items-center justify-center">
-                  <img 
-                    src={card.images?.small} 
-                    alt={card.Nombre} 
-                    className="w-full h-full object-contain"
-                    loading="lazy"
-                    onError={(e) => e.target.src = 'https://images.pokemontcg.io/generic/card.png'}
-                  />
+                <div className="aspect-[3/4] rounded-lg overflow-hidden bg-slate-100 mb-3 flex items-center justify-center">
+                  <img src={card.images?.small} alt={card.Nombre} className="w-full h-full object-contain" loading="lazy" />
                 </div>
                 <div className="space-y-1">
-                  <p className="text-[10px] text-red-600 font-bold uppercase">{card.Expansión}</p>
-                  <h3 className="text-xs font-bold truncate">{card.Nombre}</h3>
+                  <div className="flex justify-between items-start">
+                    <p className="text-[9px] text-red-600 font-black uppercase">{card.Expansión}</p>
+                    <span className={`text-[8px] px-1 rounded font-bold ${card.Categoria === 'Holo' ? 'bg-purple-100 text-purple-600' : 'bg-blue-100 text-blue-600'}`}>
+                      {card.Categoria}
+                    </span>
+                  </div>
+                  <h3 className="text-xs font-bold truncate leading-tight">{card.Nombre}</h3>
                   <div className="flex justify-between items-center mt-2 pt-2 border-t border-slate-50">
                     <span className="text-sm font-black text-slate-900">${card.Precio}</span>
-                    <button 
-                      disabled={!hasStock}
-                      onClick={(e) => { e.stopPropagation(); addToCart(card); }}
-                      className={`p-1.5 rounded-md transition-all ${hasStock ? 'bg-blue-600 text-white hover:bg-blue-500' : 'bg-slate-200 text-slate-400'}`}
+                    <button disabled={!hasStock} onClick={(e) => { e.stopPropagation(); addToCart(card); }}
+                      className={`p-1.5 rounded-md transition-all ${hasStock ? 'bg-blue-600 text-white shadow-lg' : 'bg-slate-200 text-slate-400'}`}
                     >
                       <Plus size={14} />
                     </button>
@@ -160,8 +181,8 @@ function App() {
 
         {filteredCards.length > visibleCount && (
           <div className="flex justify-center mt-12">
-             <button onClick={loadMore} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black transition-colors">
-               Cargar más cartas
+             <button onClick={() => setVisibleCount(prev => prev + 40)} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black">
+               Ver más resultados
              </button>
           </div>
         )}
