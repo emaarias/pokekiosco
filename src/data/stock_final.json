@@ -8,6 +8,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Maractus",
     "id": "sv4pt5-3",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/3.png",
@@ -29,11 +30,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Ninjask",
     "id": "me1-17",
     "images": {
       "small": "https://images.pokemontcg.io/me1/17.png",
       "large": "https://images.pokemontcg.io/me1/17_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Grass"
@@ -49,6 +52,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Genesect",
     "id": "me2-8",
     "images": {
       "small": "https://images.pokemontcg.io/me2/8.png",
@@ -70,11 +74,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Karrablast",
     "id": "sv9-9",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/9.png",
       "large": "https://images.pokemontcg.io/sv9/9_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -90,11 +96,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Bayleef",
     "id": "me2pt5-9",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-9/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-9/large"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Grass"
@@ -102,7 +110,7 @@
     "number": "9"
   },
   {
-    "Nombre": "Tarountula",
+    "Nombre": "Team Rocket's Tarountula",
     "Tipo": "Planta",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -110,13 +118,21 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Team Rocket's Tarountula",
+    "id": "me2pt5-18",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-18/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-18/large"
     },
-    "id": "manual-Tarountula"
+    "flavorText": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "18"
   },
   {
-    "Nombre": "Tarountula",
+    "Nombre": "Team Rocket's Tarountula",
     "Tipo": "Planta",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -124,10 +140,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Team Rocket's Tarountula",
+    "id": "me2pt5-18",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-18/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-18/large"
     },
-    "id": "manual-Tarountula"
+    "flavorText": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "18"
   },
   {
     "Nombre": "Spewpa",
@@ -138,11 +162,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Spewpa",
     "id": "sv8-6",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/6.png",
       "large": "https://images.pokemontcg.io/sv8/6_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -158,11 +184,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Nuzleaf",
     "id": "me1-14",
     "images": {
       "small": "https://images.pokemontcg.io/me1/14.png",
       "large": "https://images.pokemontcg.io/me1/14_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -178,11 +206,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Mow Rotom",
     "id": "sv7-8",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/8.png",
       "large": "https://images.pokemontcg.io/sv7/8_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -198,6 +228,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Bounsweet",
     "id": "sv4-8",
     "images": {
       "small": "https://images.pokemontcg.io/sv4/8.png",
@@ -211,7 +242,7 @@
     "number": "8"
   },
   {
-    "Nombre": "Vivilon",
+    "Nombre": "Vivillon",
     "Tipo": "Planta",
     "Expansión": "SSP",
     "Idioma": "EN",
@@ -219,10 +250,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Vivillon",
+    "id": "sv8-7",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv8/7.png",
+      "large": "https://images.pokemontcg.io/sv8/7_hires.png"
     },
-    "id": "manual-Vivilon"
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "types": [
+      "Grass"
+    ],
+    "number": "7"
   },
   {
     "Nombre": "Heracross",
@@ -233,6 +272,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Heracross",
     "id": "sv6-8",
     "images": {
       "small": "https://images.pokemontcg.io/sv6/8.png",
@@ -254,6 +294,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rowlet",
     "id": "sv3-13",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/13.png",
@@ -275,11 +316,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Applin",
     "id": "sv7-12",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/12.png",
       "large": "https://images.pokemontcg.io/sv7/12_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -295,11 +338,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Scatterbug",
     "id": "sv8-5",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/5.png",
       "large": "https://images.pokemontcg.io/sv8/5_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -315,6 +360,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Bellossom",
     "id": "sv3-3",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/3.png",
@@ -336,11 +382,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Gossifleur",
     "id": "sv7-10",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/10.png",
       "large": "https://images.pokemontcg.io/sv7/10_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Grass"
@@ -356,6 +404,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Budew",
     "id": "me2pt5-16",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-16/small",
@@ -377,6 +426,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Charcadet",
     "id": "sv4pt5-14",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/14.png",
@@ -398,6 +448,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Darumaka",
     "id": "me2-15",
     "images": {
       "small": "https://images.pokemontcg.io/me2/15.png",
@@ -419,11 +470,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Crocalor",
     "id": "sv8-30",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/30.png",
       "large": "https://images.pokemontcg.io/sv8/30_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fire"
@@ -439,6 +492,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Numel",
     "id": "sv4pt5-11",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/11.png",
@@ -460,6 +514,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Larvesta",
     "id": "sv3-40",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/40.png",
@@ -473,7 +528,7 @@
     "number": "40"
   },
   {
-    "Nombre": "Carmeleon",
+    "Nombre": "Charmeleon",
     "Tipo": "Fuego",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -481,10 +536,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Charmeleon",
+    "id": "me2pt5-21",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-21/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-21/large"
     },
-    "id": "manual-Carmeleon"
+    "flavorText": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fire"
+    ],
+    "number": "21"
   },
   {
     "Nombre": "Darmanitan",
@@ -495,6 +558,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Darmanitan",
     "id": "sv6-35",
     "images": {
       "small": "https://images.pokemontcg.io/sv6/35.png",
@@ -516,6 +580,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Tepig",
     "id": "me2pt5-29",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-29/small",
@@ -537,10 +602,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Slugma",
+    "id": "sv6-28",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv6/28.png",
+      "large": "https://images.pokemontcg.io/sv6/28_hires.png"
     },
-    "id": "manual-Slugma"
+    "flavorText": "It's said that in ancient times, when volcanoes were more active, there were many more Slugma than there are now.",
+    "rarity": "Common",
+    "types": [
+      "Fire"
+    ],
+    "number": "28"
   },
   {
     "Nombre": "Pansear",
@@ -551,11 +624,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pansear",
     "id": "sv7-21",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/21.png",
       "large": "https://images.pokemontcg.io/sv7/21_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fire"
@@ -571,6 +646,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Scorbunny",
     "id": "me2pt5-36",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-36/small",
@@ -592,11 +668,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Raboot",
     "id": "me1-27",
     "images": {
       "small": "https://images.pokemontcg.io/me1/27.png",
       "large": "https://images.pokemontcg.io/me1/27_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fire"
@@ -612,6 +690,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Numel",
     "id": "me2pt5-27",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-27/small",
@@ -633,11 +712,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Lombre",
     "id": "sv9-36",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/36.png",
       "large": "https://images.pokemontcg.io/sv9/36_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Water"
@@ -653,6 +734,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Sneasel",
     "id": "me2pt5-44",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-44/small",
@@ -674,6 +756,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Carvanha",
     "id": "sv3-46",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/46.png",
@@ -695,11 +778,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Cetoddle",
     "id": "sv8-53",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/53.png",
       "large": "https://images.pokemontcg.io/sv8/53_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Water"
@@ -715,6 +800,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Buizel",
     "id": "sv3-48",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/48.png",
@@ -736,11 +822,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Azumarill",
     "id": "sv7-34",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/34.png",
       "large": "https://images.pokemontcg.io/sv7/34_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Water"
@@ -756,6 +844,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Frigibax",
     "id": "sv4pt5-17",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/17.png",
@@ -777,6 +866,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Frigibax",
     "id": "sv4pt5-17",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/17.png",
@@ -798,6 +888,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Finizen",
     "id": "sv3-60",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/60.png",
@@ -819,6 +910,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Quaxly",
     "id": "sv2-49",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/49.png",
@@ -840,6 +932,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Snorunt",
     "id": "me2pt5-46",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-46/small",
@@ -861,6 +954,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Weavile",
     "id": "me2pt5-45",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-45/small",
@@ -882,11 +976,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Sealeo",
     "id": "sv8-44",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/44.png",
       "large": "https://images.pokemontcg.io/sv8/44_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Water"
@@ -902,10 +998,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Keldeo",
+    "id": "sv5-44",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv5/44.png",
+      "large": "https://images.pokemontcg.io/sv5/44_hires.png"
     },
-    "id": "manual-Keldeo"
+    "flavorText": "Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.",
+    "rarity": "Uncommon",
+    "types": [
+      "Water"
+    ],
+    "number": "44"
   },
   {
     "Nombre": "Frogadier",
@@ -916,6 +1020,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Frogadier",
     "id": "sv6-57",
     "images": {
       "small": "https://images.pokemontcg.io/sv6/57.png",
@@ -937,6 +1042,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Snom",
     "id": "me2pt5-52",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-52/small",
@@ -950,7 +1056,7 @@
     "number": "52"
   },
   {
-    "Nombre": "Orgerpon",
+    "Nombre": "Wellspring Mask Ogerpon",
     "Tipo": "Agua",
     "Expansión": "DRI",
     "Idioma": "EN",
@@ -958,13 +1064,21 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Wellspring Mask Ogerpon",
+    "id": "sv10-67",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv10/67.png",
+      "large": "https://images.pokemontcg.io/sv10/67_hires.png"
     },
-    "id": "manual-Orgerpon"
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "types": [
+      "Water"
+    ],
+    "number": "67"
   },
   {
-    "Nombre": "Wugtirio",
+    "Nombre": "Wugtrio",
     "Tipo": "Agua",
     "Expansión": "OBF",
     "Idioma": "EN",
@@ -972,10 +1086,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Wugtrio",
+    "id": "sv3-59",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv3/59.png",
+      "large": "https://images.pokemontcg.io/sv3/59_hires.png"
     },
-    "id": "manual-Wugtirio"
+    "flavorText": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+    "rarity": "Uncommon",
+    "types": [
+      "Water"
+    ],
+    "number": "59"
   },
   {
     "Nombre": "Wattrel",
@@ -986,6 +1108,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Wattrel",
     "id": "sv2-80",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/80.png",
@@ -1007,6 +1130,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Tadbulb",
     "id": "sv3-74",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/74.png",
@@ -1020,7 +1144,7 @@
     "number": "74"
   },
   {
-    "Nombre": "Pichu",
+    "Nombre": "Ethan's Pichu",
     "Tipo": "Eléctrico",
     "Expansión": "DRI",
     "Idioma": "EN",
@@ -1028,10 +1152,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Ethan's Pichu",
+    "id": "sv10-71",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv10/71.png",
+      "large": "https://images.pokemontcg.io/sv10/71_hires.png"
     },
-    "id": "manual-Pichu"
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "71"
   },
   {
     "Nombre": "Miraidon",
@@ -1042,11 +1174,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Miraidon",
     "id": "sv8-69",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/69.png",
       "large": "https://images.pokemontcg.io/sv8/69_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Lightning"
@@ -1062,6 +1196,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Vikavolt",
     "id": "sv5-56",
     "images": {
       "small": "https://images.pokemontcg.io/sv5/56.png",
@@ -1083,11 +1218,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Zebstrika",
     "id": "sv8-63",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/63.png",
       "large": "https://images.pokemontcg.io/sv8/63_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Lightning"
@@ -1103,11 +1240,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pachirisu",
     "id": "me1-51",
     "images": {
       "small": "https://images.pokemontcg.io/me1/51.png",
       "large": "https://images.pokemontcg.io/me1/51_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Lightning"
@@ -1123,11 +1262,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Heliolisk",
     "id": "me1-53",
     "images": {
       "small": "https://images.pokemontcg.io/me1/53.png",
       "large": "https://images.pokemontcg.io/me1/53_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Lightning"
@@ -1143,6 +1284,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pikachu",
     "id": "sv4pt5-18",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/18.png",
@@ -1164,6 +1306,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pawmo",
     "id": "sv1-75",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/75.png",
@@ -1185,11 +1328,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Vikavolt",
     "id": "sv7-53",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/53.png",
       "large": "https://images.pokemontcg.io/sv7/53_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Lightning"
@@ -1205,10 +1350,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Tadbulb",
+    "id": "sv6-73",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv6/73.png",
+      "large": "https://images.pokemontcg.io/sv6/73_hires.png"
     },
-    "id": "manual-Tadbulb"
+    "flavorText": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.",
+    "rarity": "Common",
+    "types": [
+      "Lightning"
+    ],
+    "number": "73"
   },
   {
     "Nombre": "Pawmo",
@@ -1219,6 +1372,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pawmo",
     "id": "me2-33",
     "images": {
       "small": "https://images.pokemontcg.io/me2/33.png",
@@ -1240,6 +1394,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Heliolisk",
     "id": "me2pt5-64",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-64/small",
@@ -1261,11 +1416,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Indeedee",
     "id": "sv8-93",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/93.png",
       "large": "https://images.pokemontcg.io/sv8/93_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Psychic"
@@ -1281,6 +1438,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Zacian",
     "id": "me2-45",
     "images": {
       "small": "https://images.pokemontcg.io/me2/45.png",
@@ -1302,6 +1460,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Banette",
     "id": "me2pt5-91",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-91/small",
@@ -1323,6 +1482,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Togepi",
     "id": "sv3-83",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/83.png",
@@ -1344,11 +1504,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Impidimp",
     "id": "sv9-71",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/71.png",
       "large": "https://images.pokemontcg.io/sv9/71_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Psychic"
@@ -1364,6 +1526,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Latios",
     "id": "sv4-73",
     "images": {
       "small": "https://images.pokemontcg.io/sv4/73.png",
@@ -1385,6 +1548,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Snubbull",
     "id": "me2-37",
     "images": {
       "small": "https://images.pokemontcg.io/me2/37.png",
@@ -1406,11 +1570,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Slowking",
     "id": "sv7-58",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/58.png",
       "large": "https://images.pokemontcg.io/sv7/58_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Psychic"
@@ -1426,6 +1592,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Dedenne",
     "id": "sv4pt5-36",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/36.png",
@@ -1447,6 +1614,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rotom",
     "id": "me2pt5-92",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-92/small",
@@ -1468,11 +1636,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Dhelmise",
     "id": "sv9-70",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/70.png",
       "large": "https://images.pokemontcg.io/sv9/70_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Psychic"
@@ -1488,11 +1658,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Fidough",
     "id": "sv7-66",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/66.png",
       "large": "https://images.pokemontcg.io/sv7/66_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Psychic"
@@ -1508,6 +1680,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Natu",
     "id": "sv4pt5-25",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/25.png",
@@ -1529,10 +1702,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Dedenne",
+    "id": "sv4pt5-36",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/36.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/36_hires.png"
     },
-    "id": "manual-Dedenne"
+    "flavorText": "It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself.",
+    "rarity": "Common",
+    "types": [
+      "Psychic"
+    ],
+    "number": "36"
   },
   {
     "Nombre": "Cleffa",
@@ -1543,6 +1724,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Cleffa",
     "id": "sv3-80",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/80.png",
@@ -1564,6 +1746,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Greavard",
     "id": "sv3-99",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/99.png",
@@ -1585,6 +1768,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Togekiss",
     "id": "me2pt5-82",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-82/small",
@@ -1606,6 +1790,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Mismagius",
     "id": "me2pt5-86",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
@@ -1627,6 +1812,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Sandygast",
     "id": "sv2-95",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/95.png",
@@ -1648,6 +1834,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Stoutland",
     "id": "sv3-172",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/172.png",
@@ -1669,11 +1856,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Swablu",
     "id": "sv8-148",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/148.png",
       "large": "https://images.pokemontcg.io/sv8/148_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Colorless"
@@ -1681,7 +1870,7 @@
     "number": "148"
   },
   {
-    "Nombre": "Youngoos",
+    "Nombre": "Yungoos",
     "Tipo": "Normal",
     "Expansión": "OBF",
     "Idioma": "EN",
@@ -1689,10 +1878,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Yungoos",
+    "id": "sv3-176",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv3/176.png",
+      "large": "https://images.pokemontcg.io/sv3/176_hires.png"
     },
-    "id": "manual-Youngoos"
+    "flavorText": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "176"
   },
   {
     "Nombre": "Oranguru",
@@ -1703,11 +1900,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Oranguru",
     "id": "sv8-156",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/156.png",
       "large": "https://images.pokemontcg.io/sv8/156_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Colorless"
@@ -1723,6 +1922,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Lillipup",
     "id": "sv3-170",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/170.png",
@@ -1744,6 +1944,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Linoone",
     "id": "me2-82",
     "images": {
       "small": "https://images.pokemontcg.io/me2/82.png",
@@ -1757,7 +1958,7 @@
     "number": "82"
   },
   {
-    "Nombre": "Porygon 2",
+    "Nombre": "Porygon2",
     "Tipo": "Normal",
     "Expansión": "DRI",
     "Idioma": "EN",
@@ -1765,10 +1966,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Porygon2",
+    "id": "sv4-143",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4/143.png",
+      "large": "https://images.pokemontcg.io/sv4/143_hires.png"
     },
-    "id": "manual-Porygon 2"
+    "flavorText": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "143"
   },
   {
     "Nombre": "Vigoroth",
@@ -1779,6 +1988,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Vigoroth",
     "id": "sv2-161",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/161.png",
@@ -1800,13 +2010,21 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rufflet",
+    "id": "sv8-152",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv8/152.png",
+      "large": "https://images.pokemontcg.io/sv8/152_hires.png"
     },
-    "id": "manual-Rufflet"
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "152"
   },
   {
-    "Nombre": "Rotom-Fan",
+    "Nombre": "Fan Rotom",
     "Tipo": "Normal",
     "Expansión": "SCR",
     "Idioma": "EN",
@@ -1814,10 +2032,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Fan Rotom",
+    "id": "sv7-118",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv7/118.png",
+      "large": "https://images.pokemontcg.io/sv7/118_hires.png"
     },
-    "id": "manual-Rotom-Fan"
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "118"
   },
   {
     "Nombre": "Dubwool",
@@ -1828,10 +2054,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Dubwool",
+    "id": "sv7-125",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv7/125.png",
+      "large": "https://images.pokemontcg.io/sv7/125_hires.png"
     },
-    "id": "manual-Dubwool"
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "125"
   },
   {
     "Nombre": "Drampa",
@@ -1842,6 +2076,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Drampa",
     "id": "me2pt5-176",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-176/small",
@@ -1863,11 +2098,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Wooloo",
     "id": "sv7-124",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/124.png",
       "large": "https://images.pokemontcg.io/sv7/124_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Colorless"
@@ -1883,10 +2120,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Dunsparce",
+    "id": "sv9-120",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv9/120.png",
+      "large": "https://images.pokemontcg.io/sv9/120_hires.png"
     },
-    "id": "manual-Dunsparce"
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "types": [
+      "Colorless"
+    ],
+    "number": "120"
   },
   {
     "Nombre": "Gumshoos",
@@ -1897,11 +2142,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Gumshoos",
     "id": "me1-110",
     "images": {
       "small": "https://images.pokemontcg.io/me1/110.png",
       "large": "https://images.pokemontcg.io/me1/110_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Colorless"
@@ -1917,6 +2164,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Barboach",
     "id": "sv3-108",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/108.png",
@@ -1938,11 +2186,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Passimian",
     "id": "sv8-111",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/111.png",
       "large": "https://images.pokemontcg.io/sv8/111_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "types": [
       "Fighting"
@@ -1958,6 +2208,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Whiscash",
     "id": "sv3-109",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/109.png",
@@ -1979,6 +2230,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Toedscruel",
     "id": "sv3-119",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/119.png",
@@ -2000,11 +2252,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Meditite",
     "id": "sv7-77",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/77.png",
       "large": "https://images.pokemontcg.io/sv7/77_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fighting"
@@ -2020,6 +2274,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Gligar",
     "id": "sv4-91",
     "images": {
       "small": "https://images.pokemontcg.io/sv4/91.png",
@@ -2041,6 +2296,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rolycoly",
     "id": "sv5-93",
     "images": {
       "small": "https://images.pokemontcg.io/sv5/93.png",
@@ -2062,11 +2318,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Crabrawler",
     "id": "sv7-87",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/87.png",
       "large": "https://images.pokemontcg.io/sv7/87_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fighting"
@@ -2082,11 +2340,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rhyperior",
     "id": "sv7-76",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/76.png",
       "large": "https://images.pokemontcg.io/sv7/76_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Fighting"
@@ -2102,6 +2362,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Clobbopus",
     "id": "sv4pt5-51",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/51.png",
@@ -2123,10 +2384,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Toedscool",
+    "id": "sv4pt5-4",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/4.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/4_hires.png"
     },
-    "id": "manual-Toedscool"
+    "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
+    "rarity": "Common",
+    "types": [
+      "Grass"
+    ],
+    "number": "4"
   },
   {
     "Nombre": "Rolycoly",
@@ -2137,6 +2406,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Rolycoly",
     "id": "me2pt5-118",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-118/small",
@@ -2158,6 +2428,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Carkol",
     "id": "me2pt5-119",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-119/small",
@@ -2179,11 +2450,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Medicham",
     "id": "me2pt5-104",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-104/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-104/large"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fighting"
@@ -2199,10 +2472,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Silicobra",
+    "id": "sv1-119",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv1/119.png",
+      "large": "https://images.pokemontcg.io/sv1/119_hires.png"
     },
-    "id": "manual-Silicobra"
+    "flavorText": "Silicobra's neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
+    "rarity": "Common",
+    "types": [
+      "Fighting"
+    ],
+    "number": "119"
   },
   {
     "Nombre": "Mankey",
@@ -2213,6 +2494,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Mankey",
     "id": "sv4pt5-45",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/45.png",
@@ -2234,6 +2516,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Lunatone",
     "id": "me2pt5-105",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-105/small",
@@ -2255,10 +2538,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Sudowoodo",
+    "id": "sv2-109",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv2/109.png",
+      "large": "https://images.pokemontcg.io/sv2/109_hires.png"
     },
-    "id": "manual-Sudowoodo"
+    "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "rarity": "Uncommon",
+    "types": [
+      "Fighting"
+    ],
+    "number": "109"
   },
   {
     "Nombre": "Gliscor",
@@ -2269,6 +2560,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Gliscor",
     "id": "me2-50",
     "images": {
       "small": "https://images.pokemontcg.io/me2/50.png",
@@ -2290,6 +2582,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Carkol",
     "id": "me2pt5-119",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-119/small",
@@ -2311,11 +2604,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Phanpy",
     "id": "sv8-102",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/102.png",
       "large": "https://images.pokemontcg.io/sv8/102_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Fighting"
@@ -2331,6 +2626,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Eternatus",
     "id": "me2-69",
     "images": {
       "small": "https://images.pokemontcg.io/me2/69.png",
@@ -2344,7 +2640,7 @@
     "number": "69"
   },
   {
-    "Nombre": "Sneasel",
+    "Nombre": "Team Rocket's Sneasel",
     "Tipo": "Siniestro",
     "Expansión": "DRI",
     "Idioma": "EN",
@@ -2352,10 +2648,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Team Rocket's Sneasel",
+    "id": "sv10-128",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv10/128.png",
+      "large": "https://images.pokemontcg.io/sv10/128_hires.png"
     },
-    "id": "manual-Sneasel"
+    "flavorText": "Sin descripción.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "128"
   },
   {
     "Nombre": "Zweilous",
@@ -2366,11 +2670,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Zweilous",
     "id": "sv8-118",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/118.png",
       "large": "https://images.pokemontcg.io/sv8/118_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Darkness"
@@ -2378,7 +2684,7 @@
     "number": "118"
   },
   {
-    "Nombre": "Clodsire",
+    "Nombre": "Paldean Clodsire",
     "Tipo": "Siniestro",
     "Expansión": "OBF",
     "Idioma": "EN",
@@ -2386,10 +2692,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Paldean Clodsire",
+    "id": "sv3-128",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv3/128.png",
+      "large": "https://images.pokemontcg.io/sv3/128_hires.png"
     },
-    "id": "manual-Clodsire"
+    "flavorText": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It's a risky move that puts everything on the line.",
+    "rarity": "Uncommon",
+    "types": [
+      "Darkness"
+    ],
+    "number": "128"
   },
   {
     "Nombre": "Shroodle",
@@ -2400,11 +2714,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Shroodle",
     "id": "sv8-120",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/120.png",
       "large": "https://images.pokemontcg.io/sv8/120_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Darkness"
@@ -2420,6 +2736,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Salandit",
     "id": "sv3-139",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/139.png",
@@ -2441,6 +2758,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Pecharunt",
     "id": "me2pt5-143",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-143/small",
@@ -2454,7 +2772,7 @@
     "number": "143"
   },
   {
-    "Nombre": "Honchkrow",
+    "Nombre": "Team Rocket's Honchkrow",
     "Tipo": "Siniestro",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -2462,10 +2780,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Team Rocket's Honchkrow",
+    "id": "me2pt5-127",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-127/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-127/large"
     },
-    "id": "manual-Honchkrow"
+    "flavorText": "A single cry from this nocturnal Pokémon, and more than 100 of its Murkrow cronies will assemble.",
+    "rarity": "Rare",
+    "types": [
+      "Darkness"
+    ],
+    "number": "127"
   },
   {
     "Nombre": "Scraggy",
@@ -2476,6 +2802,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Scraggy",
     "id": "sv4pt5-60",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/60.png",
@@ -2497,6 +2824,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Poochyena",
     "id": "me2pt5-128",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-128/small",
@@ -2518,6 +2846,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Eternatus",
     "id": "me2-69",
     "images": {
       "small": "https://images.pokemontcg.io/me2/69.png",
@@ -2539,11 +2868,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Duraludon",
     "id": "sv7-106",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/106.png",
       "large": "https://images.pokemontcg.io/sv7/106_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Metal"
@@ -2559,11 +2890,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Klang",
     "id": "sv7-100",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/100.png",
       "large": "https://images.pokemontcg.io/sv7/100_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Metal"
@@ -2579,6 +2912,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Archaludon",
     "id": "me2-75",
     "images": {
       "small": "https://images.pokemontcg.io/me2/75.png",
@@ -2600,11 +2934,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Bronzong",
     "id": "sv8-127",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/127.png",
       "large": "https://images.pokemontcg.io/sv8/127_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Metal"
@@ -2620,11 +2956,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Archaludon",
     "id": "sv7-107",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/107.png",
       "large": "https://images.pokemontcg.io/sv7/107_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Metal"
@@ -2640,11 +2978,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Meltan",
     "id": "sv7-102",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/102.png",
       "large": "https://images.pokemontcg.io/sv7/102_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "types": [
       "Metal"
@@ -2660,6 +3000,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Mawile",
     "id": "sv3-89",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/89.png",
@@ -2681,6 +3022,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Drampa",
     "id": "sv3-161",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/161.png",
@@ -2702,6 +3044,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
+    "nombre": "Noibat",
     "id": "sv4pt5-68",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/68.png",
@@ -2723,11 +3066,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Meganium",
     "id": "me1-10",
     "images": {
       "small": "https://images.pokemontcg.io/me1/10.png",
       "large": "https://images.pokemontcg.io/me1/10_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Grass"
@@ -2743,6 +3088,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Sprigatito",
     "id": "sv2-12",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/12.png",
@@ -2764,6 +3110,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Genesect",
     "id": "me2-8",
     "images": {
       "small": "https://images.pokemontcg.io/me2/8.png",
@@ -2777,7 +3124,7 @@
     "number": "8"
   },
   {
-    "Nombre": "Victreebel",
+    "Nombre": "Erika's Victreebel",
     "Tipo": "Planta",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -2785,10 +3132,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Erika's Victreebel",
+    "id": "me2pt5-6",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-6/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-6/large"
     },
-    "id": "manual-Victreebel"
+    "flavorText": "Sin descripción.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "6"
   },
   {
     "Nombre": "Meowscarada",
@@ -2799,6 +3154,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Meowscarada",
     "id": "sv1-15",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/15.png",
@@ -2812,7 +3168,7 @@
     "number": "15"
   },
   {
-    "Nombre": "Sinitscha",
+    "Nombre": "Sinistcha",
     "Tipo": "Planta",
     "Expansión": "TWM",
     "Idioma": "EN",
@@ -2820,10 +3176,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Sinistcha",
+    "id": "sv6-22",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv6/22.png",
+      "large": "https://images.pokemontcg.io/sv6/22_hires.png"
     },
-    "id": "manual-Sinitscha"
+    "flavorText": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+    "rarity": "Rare",
+    "types": [
+      "Grass"
+    ],
+    "number": "22"
   },
   {
     "Nombre": "Scovillain",
@@ -2834,6 +3198,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Scovillain",
     "id": "sv3-25",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/25.png",
@@ -2855,10 +3220,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Magcargo",
+    "id": "sv5-29",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv5/29.png",
+      "large": "https://images.pokemontcg.io/sv5/29_hires.png"
     },
-    "id": "manual-Magcargo"
+    "flavorText": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "29"
   },
   {
     "Nombre": "Reshiram",
@@ -2869,6 +3242,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Reshiram",
     "id": "me2-17",
     "images": {
       "small": "https://images.pokemontcg.io/me2/17.png",
@@ -2890,6 +3264,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Fuecoco",
     "id": "sv2-34",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/34.png",
@@ -2911,11 +3286,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Cinderace",
     "id": "me1-28",
     "images": {
       "small": "https://images.pokemontcg.io/me1/28.png",
       "large": "https://images.pokemontcg.io/me1/28_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Fire"
@@ -2931,6 +3308,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Reshiram",
     "id": "me2-17",
     "images": {
       "small": "https://images.pokemontcg.io/me2/17.png",
@@ -2952,11 +3330,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Gouging Fire",
     "id": "sv8-38",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/38.png",
       "large": "https://images.pokemontcg.io/sv8/38_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Fire"
@@ -2972,10 +3352,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Magcargo",
+    "id": "sv5-29",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv5/29.png",
+      "large": "https://images.pokemontcg.io/sv5/29_hires.png"
     },
-    "id": "manual-Magcargo"
+    "flavorText": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+    "rarity": "Rare",
+    "types": [
+      "Fire"
+    ],
+    "number": "29"
   },
   {
     "Nombre": "Magmortar",
@@ -2986,6 +3374,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Magmortar",
     "id": "sv4pt5-10",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/10.png",
@@ -3007,10 +3396,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Gyarados",
+    "id": "sv2-43",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv2/43.png",
+      "large": "https://images.pokemontcg.io/sv2/43_hires.png"
     },
-    "id": "manual-Gyarados"
+    "flavorText": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "rarity": "Rare",
+    "types": [
+      "Water"
+    ],
+    "number": "43"
   },
   {
     "Nombre": "Chien-Pao",
@@ -3021,11 +3418,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Chien-Pao",
     "id": "sv8-56",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/56.png",
       "large": "https://images.pokemontcg.io/sv8/56_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Water"
@@ -3041,6 +3440,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Quaxly",
     "id": "sv2-49",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/49.png",
@@ -3062,6 +3462,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Palafin",
     "id": "sv3-62",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/62.png",
@@ -3083,6 +3484,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Palafin",
     "id": "sv3-62",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/62.png",
@@ -3104,11 +3506,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Tapu Koko",
     "id": "sv8-65",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/65.png",
       "large": "https://images.pokemontcg.io/sv8/65_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Lightning"
@@ -3124,6 +3528,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Thundurus",
     "id": "sv3-70",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/70.png",
@@ -3145,10 +3550,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Kilowattrel",
+    "id": "sv4pt5-22",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/22.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/22_hires.png"
     },
-    "id": "manual-Kilowattrel"
+    "flavorText": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+    "rarity": "Uncommon",
+    "types": [
+      "Lightning"
+    ],
+    "number": "22"
   },
   {
     "Nombre": "Toxtricity",
@@ -3159,6 +3572,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Toxtricity",
     "id": "sv3-72",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/72.png",
@@ -3180,11 +3594,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Xerneas",
     "id": "me1-64",
     "images": {
       "small": "https://images.pokemontcg.io/me1/64.png",
       "large": "https://images.pokemontcg.io/me1/64_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Psychic"
@@ -3200,6 +3616,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Togekiss",
     "id": "me2pt5-82",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-82/small",
@@ -3221,6 +3638,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Spectrier",
     "id": "me2pt5-98",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-98/small",
@@ -3242,6 +3660,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Mismagius",
     "id": "me2pt5-86",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
@@ -3263,6 +3682,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Togekiss",
     "id": "sv3-85",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/85.png",
@@ -3284,6 +3704,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Mismagius",
     "id": "me2pt5-86",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-86/small",
@@ -3297,7 +3718,7 @@
     "number": "86"
   },
   {
-    "Nombre": "Houdstone",
+    "Nombre": "Houndstone",
     "Tipo": "Psíquico",
     "Expansión": "PAF",
     "Idioma": "EN",
@@ -3305,10 +3726,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Houndstone",
+    "id": "sv4pt5-43",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/43.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
     },
-    "id": "manual-Houdstone"
+    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
+    "rarity": "Rare",
+    "types": [
+      "Psychic"
+    ],
+    "number": "43"
   },
   {
     "Nombre": "Tapu Lele",
@@ -3319,11 +3748,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Tapu Lele",
     "id": "sv8-92",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/92.png",
       "large": "https://images.pokemontcg.io/sv8/92_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Psychic"
@@ -3339,6 +3770,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Mimikyu",
     "id": "sv2-97",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/97.png",
@@ -3360,6 +3792,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Xatu",
     "id": "sv4pt5-26",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/26.png",
@@ -3381,10 +3814,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Greedent",
+    "id": "sv4pt5-206",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv4pt5/206.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/206_hires.png"
     },
-    "id": "manual-Greedent"
+    "flavorText": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.",
+    "rarity": "Shiny Rare",
+    "types": [
+      "Colorless"
+    ],
+    "number": "206"
   },
   {
     "Nombre": "Terapagos",
@@ -3395,6 +3836,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Terapagos",
     "id": "me2pt5-178",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-178/small",
@@ -3416,6 +3858,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Terapagos",
     "id": "me2pt5-178",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-178/small",
@@ -3437,10 +3880,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Staraptor",
+    "id": "sv1-150",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.pokemontcg.io/sv1/150.png",
+      "large": "https://images.pokemontcg.io/sv1/150_hires.png"
     },
-    "id": "manual-Staraptor"
+    "flavorText": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+    "rarity": "Uncommon",
+    "types": [
+      "Colorless"
+    ],
+    "number": "150"
   },
   {
     "Nombre": "Noivern",
@@ -3451,11 +3902,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Noivern",
     "id": "sv9-128",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/128.png",
       "large": "https://images.pokemontcg.io/sv9/128_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Colorless"
@@ -3471,6 +3924,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Okidogi",
     "id": "me2pt5-122",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-122/small",
@@ -3492,6 +3946,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Okidogi",
     "id": "me2pt5-122",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-122/small",
@@ -3513,6 +3968,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Ting-Lu",
     "id": "sv6-110",
     "images": {
       "small": "https://images.pokemontcg.io/sv6/110.png",
@@ -3534,6 +3990,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Flygon",
     "id": "me2-53",
     "images": {
       "small": "https://images.pokemontcg.io/me2/53.png",
@@ -3555,6 +4012,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Kingambit",
     "id": "sv1-134",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/134.png",
@@ -3576,6 +4034,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Mabosstiff",
     "id": "sv4pt5-63",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/63.png",
@@ -3597,6 +4056,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Hoopa",
     "id": "me2pt5-141",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-141/small",
@@ -3618,6 +4078,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Hoopa",
     "id": "me2pt5-141",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-141/small",
@@ -3639,6 +4100,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Darkrai",
     "id": "sv3-136",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/136.png",
@@ -3660,6 +4122,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Darkrai",
     "id": "sv3-136",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/136.png",
@@ -3681,11 +4144,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Iron Crown",
     "id": "sv8-132",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/132.png",
       "large": "https://images.pokemontcg.io/sv8/132_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Metal"
@@ -3701,6 +4166,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Scizor",
     "id": "sv3-141",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/141.png",
@@ -3722,6 +4188,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Gholdengo",
     "id": "sv4pt5-67",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/67.png",
@@ -3743,6 +4210,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Orthworm",
     "id": "sv2-151",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/151.png",
@@ -3764,11 +4232,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Klinklang",
     "id": "sv7-101",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/101.png",
       "large": "https://images.pokemontcg.io/sv7/101_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Metal"
@@ -3776,7 +4246,7 @@
     "number": "101"
   },
   {
-    "Nombre": "Reshiram",
+    "Nombre": "N's Reshiram",
     "Tipo": "Dragón",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -3784,10 +4254,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "N's Reshiram",
+    "id": "me2pt5-154",
     "images": {
-      "small": "https://images.pokemontcg.io/generic/card.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-154/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-154/large"
     },
-    "id": "manual-Reshiram"
+    "flavorText": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+    "rarity": "Rare",
+    "types": [
+      "Dragon"
+    ],
+    "number": "154"
   },
   {
     "Nombre": "Cyclizar",
@@ -3798,6 +4276,7 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Cyclizar",
     "id": "sv4pt5-70",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/70.png",
@@ -3819,11 +4298,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Eternatus",
     "id": "sv8-141",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/141.png",
       "large": "https://images.pokemontcg.io/sv8/141_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Dragon"
@@ -3839,11 +4320,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Holo",
+    "nombre": "Eternatus",
     "id": "sv8-141",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/141.png",
       "large": "https://images.pokemontcg.io/sv8/141_hires.png"
     },
+    "flavorText": "Sin descripción.",
     "rarity": "Rare",
     "types": [
       "Dragon"
