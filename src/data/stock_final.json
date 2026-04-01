@@ -594,7 +594,7 @@
     "number": "29"
   },
   {
-    "Nombre": "Slugma",
+    "Nombre": "Ethan's Slugma",
     "Tipo": "Fuego",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -602,18 +602,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
-    "nombre": "Slugma",
-    "id": "sv6-28",
+    "nombre": "Ethan's Slugma",
+    "id": "me2pt5-23",
     "images": {
-      "small": "https://images.pokemontcg.io/sv6/28.png",
-      "large": "https://images.pokemontcg.io/sv6/28_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-23/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-23/large"
     },
-    "flavorText": "It's said that in ancient times, when volcanoes were more active, there were many more Slugma than there are now.",
+    "flavorText": "Its lava body can cool and chip away at times, but a magma bath will heal it right up.",
     "rarity": "Common",
     "types": [
       "Fire"
     ],
-    "number": "28"
+    "number": "23"
   },
   {
     "Nombre": "Pansear",
@@ -1342,7 +1342,7 @@
     "number": "53"
   },
   {
-    "Nombre": "Tadbulb",
+    "Nombre": "Iono's Tadbulb",
     "Tipo": "Eléctrico",
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -1350,18 +1350,18 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
-    "nombre": "Tadbulb",
-    "id": "sv6-73",
+    "nombre": "Iono's Tadbulb",
+    "id": "me2pt5-69",
     "images": {
-      "small": "https://images.pokemontcg.io/sv6/73.png",
-      "large": "https://images.pokemontcg.io/sv6/73_hires.png"
+      "small": "https://images.scrydex.com/pokemon/me2pt5-69/small",
+      "large": "https://images.scrydex.com/pokemon/me2pt5-69/large"
     },
-    "flavorText": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.",
+    "flavorText": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
     "rarity": "Common",
     "types": [
       "Lightning"
     ],
-    "number": "73"
+    "number": "69"
   },
   {
     "Nombre": "Pawmo",
