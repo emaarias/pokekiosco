@@ -4,7 +4,7 @@ const mapSets = {
     "PAF": "sv4pt5", "MEG": "me1", "PFL": "me2", "JTG": "sv9",
     "ASC": "me2pt5", "SSP": "sv8", "SCR": "sv7", "PAR": "sv4",
     "TWM": "sv6", "OBF": "sv3", "PAL": "sv2", "DRI": "sv10",
-    "TEF": "sv5", "SVI": "sv1", "F": "base3"
+    "TEF": "sv5", "SVI": "sv1", "F": "swsh12"
 };
 
 // Diccionario de corrección automática para tus errores del Excel

@@ -1,0 +1,5744 @@
+[
+      {
+        "Numero": 45,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 51,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 41,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 52,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 53,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 53,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 14,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 17,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 18,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 5,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 160,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 174,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 174,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 163,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 163,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 166,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 166,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 166,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 173,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 165,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 165,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 165,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 168,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 146,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 147,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 159,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 157,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 90,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 91,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 92,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 93,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 94,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 80,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 92,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 87,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 87,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 85,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 97,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 88,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 75,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 181,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 191,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 191,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 184,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 205,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 189,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 213,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 187,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 187,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 187,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 199,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 193,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 189,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 200,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 214,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 182,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 182,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 202,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 215,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 201,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 192,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 180,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 204,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 180,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 207,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 20,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 33,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 33,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 27,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 37,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 36,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 36,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 23,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 56,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 69,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 69,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 66,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 66,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 66,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 124,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 123,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 129,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 131,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 128,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 133,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 126,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 133,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 134,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 102,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 102,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 117,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 103,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 115,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 115,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 112,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 112,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "PRE",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 3,
+        "Expansión": "PRE",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 129,
+        "Expansión": "MEW",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 38,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 3,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 11,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 117,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 124,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 133,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 76,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 79,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 153,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 25,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 103,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 116,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 94,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 99,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 47,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 3,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 131,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 136,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 149,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 159,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 61,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 107,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 91,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 89,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 135,
+        "Expansión": "TWM",
+        "Idioma": "EN ",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 131,
+        "Expansión": "TWM",
+        "Idioma": "EN ",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 128,
+        "Expansión": "TWM",
+        "Idioma": "EN ",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 89,
+        "Expansión": "TWM",
+        "Idioma": "EN ",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 88,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 149,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 28,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 26,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 42,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 43,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 7,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 9,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 138,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 173,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 21,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 67,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 113,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 46,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 47,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 44,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 6,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 10,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 165,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 158,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 106,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 122,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 182,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 177,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 171,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 178,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 183,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 6,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 44,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 18,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 160,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 161,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 141,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 92,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 197,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 171,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 190,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 179,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 178,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 175,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 171,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 63,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 74,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 155,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 85,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 89,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 177,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 167,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 175,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 71,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 71,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 76,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 120,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 137,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 102,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 108,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 94,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 10,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 140,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 124,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 127,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 106,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 102,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 68,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 73,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 153,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 150,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 26,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 27,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 23,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 44,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 44,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 101,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 100,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 76,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 81,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 86,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 37,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 5,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 13,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 11,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 6,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 111,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 65,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 66,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 127,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 24,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 52,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 47,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 47,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 47,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 51,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 51,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 85,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 90,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 82,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 75,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 75,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 75,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 21,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 22,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 25,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 25,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 21,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 5,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 5,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 7,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 10,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 76,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 80,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 75,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 46,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 46,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 89,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 88,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 94,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 30,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 69,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 52,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 17,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 17,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 3,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 4,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 64,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 28,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 41,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 42,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 23,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 36,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 36,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 27,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 27,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 33,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 78,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 85,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 80,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 77,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 76,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 81,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 84,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 9,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 11,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 14,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 22,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 61,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 61,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 51,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 46,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 41,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 53,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 46,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 44,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 51,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 52,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 9,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 5,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 6,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 148,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 148,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 151,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 156,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 158,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 154,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 155,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 131,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 137,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 95,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 96,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 87,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 81,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 90,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 79,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 84,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 70,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 77,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 93,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 82,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 187,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 178,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 163,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 180,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 181,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 172,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 165,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 169,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 175,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 171,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 20,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 17,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 21,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 22,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 27,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 58,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 67,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 61,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 61,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 64,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 66,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 117,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 121,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 112,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 114,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 103,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 116,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 116,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 98,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 98,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 101,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 39,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 40,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 40,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 45,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 45,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 37,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 7,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 11,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 11,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 10,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 8,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 8,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 15,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 18,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 2,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 117,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 122,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 106,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 127,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 118,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 109,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 103,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 100,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 57,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 70,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 137,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 137,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 132,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 129,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 22,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 22,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 26,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 24,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 25,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 91,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 97,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 94,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 95,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 92,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 92,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 90,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 90,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 73,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 73,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 84,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 85,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 50,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 59,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 62,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 45,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 57,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 57,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 56,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 57,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 49,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 60,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 55,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 54,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 48,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 20,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 20,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 20,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 14,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 14,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 8,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 23,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 16,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 12,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 19,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 13,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 13,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 1,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 7,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 172,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 168,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 182,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 171,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 185,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 175,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 173,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 154,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 151,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 142,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 145,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 157,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 157,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 81,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 91,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 99,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 101,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 89,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 93,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 93,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 83,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 84,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 196,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 187,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 194,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 32,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 28,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 35,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 34,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 40,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 40,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 29,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 31,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 77,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 77,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 65,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 63,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 63,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 71,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 71,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 71,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 72,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 140,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 129,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 110,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 110,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 110,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 110,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 115,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 104,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 121,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 106,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 116,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 112,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 112,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      },
+      {
+        "Numero": 119,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal"
+      }
+]
