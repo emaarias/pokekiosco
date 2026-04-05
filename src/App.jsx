@@ -4,21 +4,22 @@ import stockReal from './data/stock_final.json'
 
 // Diccionario para transformar abreviaturas en nombres legibles
 const SET_NAMES = {
-  "PAF": "Paldean Fates",
-  "MEG": "Mega Evolution",
-  "PFL": "Phantasmal Flames",
-  "JTG": "Journey Together",
-  "ASC": "Ascended Heroes",
-  "SSP": "Surging Sparks",
-  "SCR": "Stellar Crown",
-  "PAR": "Paradox Rift",
-  "TWM": "Twilight Masquerade",
-  "OBF": "Obsidian Flames",
-  "PAL": "Paldea Evolved",
-  "DRI": "Destined Rivals",
-  "TEF": "Temporal Forces",
-  "SVI": "Scarlet & Violet Base",
-  "F": "Silver Tempest"
+  "Todos": "Todos",
+  "PAF": "PAF - Paldean Fates",
+  "MEG": "MEG - Mega Evolution",
+  "PFL": "PFL - Phantasmal Flames",
+  "JTG": "JTG - Journey Together",
+  "ASC": "ASC - Ascended Heroes",
+  "SSP": "SSP - Surging Sparks",
+  "SCR": "SCR - Stellar Crown",
+  "PAR": "PAR - Paradox Rift",
+  "TWM": "TWM - Twilight Masquerade",
+  "OBF": "OBF - Obsidian Flames",
+  "PAL": "PAL - Paldea Evolved",
+  "DRI": "DRI - Destined Rivals",
+  "TEF": "TEF - Temporal Forces",
+  "SVI": "SVI - Scarlet & Violet Base",
+  "F": "F - Silver Tempest"
 };
 
 function App() {
@@ -114,7 +115,7 @@ function App() {
             >
               <option disabled>Colección</option>
               {/* {setsOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)} */}
-              {setsOptions.filter(opt => opt !== "Todos").map(opt => (
+              {setsOptions.map(opt => (
                 <option key={opt} value={opt}>
                   {SET_NAMES[opt] || opt} {/* Muestra el nombre largo o el código si no existe en el mapa */}
                 </option>
