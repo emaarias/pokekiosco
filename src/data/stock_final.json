@@ -1105,7 +1105,7 @@
     "Expansión": "DRI",
     "Idioma": "EN",
     "Precio": 2500,
-    "Stock": 1,
+    "Stock": 0,
     "Estado": "Mint",
     "Categoria": "Reverse",
     "nombre": "Porygon2",
@@ -1562,7 +1562,7 @@
     "number": "105"
   },
   {
-    "Nombre": "Sudowoodo",
+    "Nombre": "Ethan's Sudowoodo",
     "Tipo": "Lucha",
     "Expansión": "DRI",
     "Idioma": "EN",
@@ -1570,13 +1570,13 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Reverse",
-    "nombre": "Sudowoodo",
-    "id": "sv2-109",
+    "nombre": "Ethan's Sudowoodo",
+    "id": "sv10-93",
     "images": {
-      "small": "https://images.pokemontcg.io/sv2/109.png",
-      "large": "https://images.pokemontcg.io/sv2/109_hires.png"
+      "small": "https://images.pokemontcg.io/sv10/93.png",
+      "large": "https://images.pokemontcg.io/sv10/93_hires.png"
     },
-    "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "flavorText":  "During your opponent's next turn, the Defending Pokémon can't retreat.",
     "rarity": "Uncommon",
     "types": [
       "Fighting"
@@ -2968,196 +2968,6 @@
       "Dragon"
     ],
     "number": "141"
-  },
-  {
-    "Numero": 43,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Houndstone",
-    "Tipo": "Psíquico",
-    "id": "sv4pt5-43",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/43.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
-    },
-    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
-    "rarity": "Rare",
-    "number": "43"
-  },
-  {
-    "Numero": 48,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Phanpy",
-    "Tipo": "Lucha",
-    "id": "sv4pt5-48",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/48.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/48_hires.png"
-    },
-    "flavorText": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
-    "rarity": "Common",
-    "number": "48"
-  },
-  {
-    "Numero": 7,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Charmander",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-7",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/7.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/7_hires.png"
-    },
-    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
-    "rarity": "Common",
-    "number": "7"
-  },
-  {
-    "Numero": 15,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Armarouge",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-15",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/15.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/15_hires.png"
-    },
-    "flavorText": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-    "rarity": "Rare",
-    "number": "15"
-  },
-  {
-    "Numero": 138,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Pachirisu",
-    "Tipo": "Eléctrico",
-    "id": "sv4pt5-138",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/138.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/138_hires.png"
-    },
-    "flavorText": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
-    "rarity": "Shiny Rare",
-    "number": "138"
-  },
-  {
-    "Numero": 173,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Riolu",
-    "Tipo": "Lucha",
-    "id": "sv4pt5-173",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/173.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/173_hires.png"
-    },
-    "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
-    "rarity": "Shiny Rare",
-    "number": "173"
-  },
-  {
-    "Numero": 21,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Lanturn",
-    "Tipo": "Eléctrico",
-    "id": "sv4pt5-21",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/21.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/21_hires.png"
-    },
-    "flavorText": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
-    "rarity": "Uncommon",
-    "number": "21"
-  },
-  {
-    "Numero": 67,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Gholdengo",
-    "Tipo": "Acero",
-    "id": "sv4pt5-67",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/67.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
-    },
-    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
-    "rarity": "Rare",
-    "number": "67"
-  },
-  {
-    "Numero": 60,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Scraggy",
-    "Tipo": "Siniestro",
-    "id": "sv4pt5-60",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/60.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/60_hires.png"
-    },
-    "flavorText": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
-    "rarity": "Common",
-    "number": "60"
-  },
-  {
-    "Numero": 113,
-    "Expansión": "PAR",
-    "Idioma": "EN",
-    "Precio": 1500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Normal",
-    "Nombre": "Oricorio",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-113",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/113.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/113_hires.png"
-    },
-    "flavorText": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
-    "rarity": "Shiny Rare",
-    "number": "113"
   },
   {
     "Numero": 45,
