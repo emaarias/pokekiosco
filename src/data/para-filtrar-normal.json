@@ -1,0 +1,1427 @@
+[
+    {
+        "Numero": 181,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Air Balloon",
+        "Tipo": "Normal",
+        "id": "me2pt5-181",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-181/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-181/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "181"
+    },
+    {
+        "Numero": 191,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Light Ball",
+        "Tipo": "Normal",
+        "id": "me2pt5-191",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-191/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "191"
+    },
+    {
+        "Numero": 184,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Buddy-Buddy Poffin",
+        "Tipo": "Normal",
+        "id": "me2pt5-184",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-184/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-184/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "184"
+    },
+    {
+        "Numero": 205,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Great Ball",
+        "Tipo": "Normal",
+        "id": "me2pt5-205",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-205/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-205/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "205"
+    },
+    {
+        "Numero": 189,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Glass Trumpet",
+        "Tipo": "Normal",
+        "id": "me2pt5-189",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-189/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-189/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "189"
+    },
+    {
+        "Numero": 213,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Ultra Ball",
+        "Tipo": "Normal",
+        "id": "me2pt5-213",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-213/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-213/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "213"
+    },
+    {
+        "Numero": 187,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Fighting Gong",
+        "Tipo": "Normal",
+        "id": "me2pt5-187",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-187/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "187"
+    },
+    {
+        "Numero": 199,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Premium Power Pro",
+        "Tipo": "Normal",
+        "id": "me2pt5-199",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-199/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-199/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "199"
+    },
+    {
+        "Numero": 193,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Mega Signal",
+        "Tipo": "Normal",
+        "id": "me2pt5-193",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-193/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-193/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "193"
+    },
+    {
+        "Numero": 194,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Mystery Garden",
+        "Tipo": "Normal",
+        "id": "me2pt5-194",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-194/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-194/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "194"
+    },
+    {
+        "Numero": 200,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Surfer",
+        "Tipo": "Normal",
+        "id": "me2pt5-200",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-200/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-200/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "200"
+    },
+    {
+        "Numero": 214,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Urbain",
+        "Tipo": "Normal",
+        "id": "me2pt5-214",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-214/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-214/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "214"
+    },
+    {
+        "Numero": 182,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Anthea & Concordia",
+        "Tipo": "Normal",
+        "id": "me2pt5-182",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-182/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "182"
+    },
+    {
+        "Numero": 202,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Ariana",
+        "Tipo": "Normal",
+        "id": "me2pt5-202",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-202/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-202/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "202"
+    },
+    {
+        "Numero": 215,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Waitress",
+        "Tipo": "Normal",
+        "id": "me2pt5-215",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-215/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-215/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "215"
+    },
+    {
+        "Numero": 201,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Archer",
+        "Tipo": "Normal",
+        "id": "me2pt5-201",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-201/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-201/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "201"
+    },
+    {
+        "Numero": 192,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Lillie's Determination",
+        "Tipo": "Normal",
+        "id": "me2pt5-192",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-192/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-192/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "192"
+    },
+    {
+        "Numero": 180,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Acerola's Mischief",
+        "Tipo": "Normal",
+        "id": "me2pt5-180",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-180/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-180/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "180"
+    },
+    {
+        "Numero": 204,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Giovanni",
+        "Tipo": "Normal",
+        "id": "me2pt5-204",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-204/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-204/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "204"
+    },
+    {
+        "Numero": 207,
+        "Expansión": "ASC",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Petrel",
+        "Tipo": "Normal",
+        "id": "me2pt5-207",
+        "images": {
+            "small": "https://images.scrydex.com/pokemon/me2pt5-207/small",
+            "large": "https://images.scrydex.com/pokemon/me2pt5-207/large"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "207"
+    },
+    {
+        "Numero": 153,
+        "Expansión": "F",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Capturing Aroma",
+        "Tipo": "Normal",
+        "id": "swsh12-153",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh12/153.png",
+            "large": "https://images.pokemontcg.io/swsh12/153_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "153"
+    },
+    {
+        "Numero": 149,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Future Booster Energy Capsule",
+        "Tipo": "Normal",
+        "id": "sv5-149",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/149.png",
+            "large": "https://images.pokemontcg.io/sv5/149_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "149"
+    },
+    {
+        "Numero": 159,
+        "Expansión": "TEF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Rescue Board",
+        "Tipo": "Normal",
+        "id": "sv5-159",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv5/159.png",
+            "large": "https://images.pokemontcg.io/sv5/159_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "159"
+    },
+    {
+        "Numero": 149,
+        "Expansión": "TWM",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Festival Grounds",
+        "Tipo": "Normal",
+        "id": "sv6-149",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv6/149.png",
+            "large": "https://images.pokemontcg.io/sv6/149_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "149"
+    },
+    {
+        "Numero": 173,
+        "Expansión": "PAR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Roark",
+        "Tipo": "Normal",
+        "id": "sv4-173",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4/173.png",
+            "large": "https://images.pokemontcg.io/sv4/173_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "173"
+    },
+    {
+        "Numero": 165,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Corvisquire",
+        "Tipo": "Normal",
+        "id": "sv2-165",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/165.png",
+            "large": "https://images.pokemontcg.io/sv2/165_hires.png"
+        },
+        "flavorText": "It's said that the reason behind Corvisquire's high level of intelligence is the large size of its brain relative to those of other bird Pokémon.",
+        "rarity": "Uncommon",
+        "number": "165"
+    },
+    {
+        "Numero": 182,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Giacomo",
+        "Tipo": "Normal",
+        "id": "sv2-182",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/182.png",
+            "large": "https://images.pokemontcg.io/sv2/182_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "182"
+    },
+    {
+        "Numero": 177,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Clavell",
+        "Tipo": "Normal",
+        "id": "sv2-177",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/177.png",
+            "large": "https://images.pokemontcg.io/sv2/177_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "177"
+    },
+    {
+        "Numero": 171,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Artazon",
+        "Tipo": "Normal",
+        "id": "sv2-171",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/171.png",
+            "large": "https://images.pokemontcg.io/sv2/171_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "171"
+    },
+    {
+        "Numero": 178,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Delivery Drone",
+        "Tipo": "Normal",
+        "id": "sv2-178",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/178.png",
+            "large": "https://images.pokemontcg.io/sv2/178_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "178"
+    },
+    {
+        "Numero": 183,
+        "Expansión": "PAL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Great Ball",
+        "Tipo": "Normal",
+        "id": "sv2-183",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/183.png",
+            "large": "https://images.pokemontcg.io/sv2/183_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "183"
+    },
+    {
+        "Numero": 160,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Tandemaus",
+        "Tipo": "Normal",
+        "id": "sv1-160",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/160.png",
+            "large": "https://images.pokemontcg.io/sv1/160_hires.png"
+        },
+        "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+        "rarity": "Common",
+        "number": "160"
+    },
+    {
+        "Numero": 161,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Maushold",
+        "Tipo": "Normal",
+        "id": "sv1-161",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/161.png",
+            "large": "https://images.pokemontcg.io/sv1/161_hires.png"
+        },
+        "flavorText": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
+        "rarity": "Uncommon",
+        "number": "161"
+    },
+    {
+        "Numero": 197,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Vitality Band",
+        "Tipo": "Normal",
+        "id": "sv1-197",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/197.png",
+            "large": "https://images.pokemontcg.io/sv1/197_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "197"
+    },
+    {
+        "Numero": 194,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Switch",
+        "Tipo": "Normal",
+        "id": "sv1-194",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/194.png",
+            "large": "https://images.pokemontcg.io/sv1/194_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "194"
+    },
+    {
+        "Numero": 171,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Energy Retrieval",
+        "Tipo": "Normal",
+        "id": "sv1-171",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/171.png",
+            "large": "https://images.pokemontcg.io/sv1/171_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "171"
+    },
+    {
+        "Numero": 190,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Professor's Research (Professor Turo)",
+        "Tipo": "Normal",
+        "id": "sv1-190",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/190.png",
+            "large": "https://images.pokemontcg.io/sv1/190_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Rare",
+        "number": "190"
+    },
+    {
+        "Numero": 179,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Miriam",
+        "Tipo": "Normal",
+        "id": "sv1-179",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/179.png",
+            "large": "https://images.pokemontcg.io/sv1/179_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "179"
+    },
+    {
+        "Numero": 178,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Mesagoza",
+        "Tipo": "Normal",
+        "id": "sv1-178",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/178.png",
+            "large": "https://images.pokemontcg.io/sv1/178_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "178"
+    },
+    {
+        "Numero": 175,
+        "Expansión": "SVI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Jacq",
+        "Tipo": "Normal",
+        "id": "sv1-175",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/175.png",
+            "large": "https://images.pokemontcg.io/sv1/175_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "175"
+    },
+    {
+        "Numero": 177,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Proton",
+        "Tipo": "Normal",
+        "id": "sv10-177",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv10/177.png",
+            "large": "https://images.pokemontcg.io/sv10/177_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "177"
+    },
+    {
+        "Numero": 167,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Judge",
+        "Tipo": "Normal",
+        "id": "sv10-167",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv10/167.png",
+            "large": "https://images.pokemontcg.io/sv10/167_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "167"
+    },
+    {
+        "Numero": 175,
+        "Expansión": "DRI",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Team Rocket's Great Ball",
+        "Tipo": "Normal",
+        "id": "sv10-175",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv10/175.png",
+            "large": "https://images.pokemontcg.io/sv10/175_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "175"
+    },
+    {
+        "Numero": 153,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "N's PP Up",
+        "Tipo": "Normal",
+        "id": "sv9-153",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv9/153.png",
+            "large": "https://images.pokemontcg.io/sv9/153_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "153"
+    },
+    {
+        "Numero": 150,
+        "Expansión": "JTG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Levincia",
+        "Tipo": "Normal",
+        "id": "sv9-150",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv9/150.png",
+            "large": "https://images.pokemontcg.io/sv9/150_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "150"
+    },
+    {
+        "Numero": 132,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Wally's Compassion",
+        "Tipo": "Normal",
+        "id": "me1-132",
+        "images": {
+            "small": "https://images.pokemontcg.io/me1/132.png",
+            "large": "https://images.pokemontcg.io/me1/132_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "132"
+    },
+    {
+        "Numero": 127,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Risky Ruins",
+        "Tipo": "Normal",
+        "id": "me1-127",
+        "images": {
+            "small": "https://images.pokemontcg.io/me1/127.png",
+            "large": "https://images.pokemontcg.io/me1/127_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "127"
+    },
+    {
+        "Numero": 118,
+        "Expansión": "MEG",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Iron Defender",
+        "Tipo": "Normal",
+        "id": "me1-118",
+        "images": {
+            "small": "https://images.pokemontcg.io/me1/118.png",
+            "large": "https://images.pokemontcg.io/me1/118_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "118"
+    },
+    {
+        "Numero": 89,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Firebreather",
+        "Tipo": "Normal",
+        "id": "me2-89",
+        "images": {
+            "small": "https://images.pokemontcg.io/me2/89.png",
+            "large": "https://images.pokemontcg.io/me2/89_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "89"
+    },
+    {
+        "Numero": 88,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Dizzying Valley",
+        "Tipo": "Normal",
+        "id": "me2-88",
+        "images": {
+            "small": "https://images.pokemontcg.io/me2/88.png",
+            "large": "https://images.pokemontcg.io/me2/88_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "88"
+    },
+    {
+        "Numero": 94,
+        "Expansión": "PFL",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Wondrous Patch",
+        "Tipo": "Normal",
+        "id": "me2-94",
+        "images": {
+            "small": "https://images.pokemontcg.io/me2/94.png",
+            "large": "https://images.pokemontcg.io/me2/94_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "94"
+    },
+    {
+        "Numero": 78,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Clive",
+        "Tipo": "Normal",
+        "id": "sv4pt5-78",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/78.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/78_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "78"
+    },
+    {
+        "Numero": 85,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Paldean Student",
+        "Tipo": "Normal",
+        "id": "sv4pt5-85",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/85.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/85_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "85"
+    },
+    {
+        "Numero": 80,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Iono",
+        "Tipo": "Normal",
+        "id": "sv4pt5-80",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/80.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/80_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "80"
+    },
+    {
+        "Numero": 77,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Atticus",
+        "Tipo": "Normal",
+        "id": "sv4pt5-77",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/77.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/77_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "77"
+    },
+    {
+        "Numero": 76,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Artazon",
+        "Tipo": "Normal",
+        "id": "sv4pt5-76",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/76.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/76_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "76"
+    },
+    {
+        "Numero": 81,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Moonlit Hill",
+        "Tipo": "Normal",
+        "id": "sv4pt5-81",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/81.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/81_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "81"
+    },
+    {
+        "Numero": 83,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Nemona's Backpack",
+        "Tipo": "Normal",
+        "id": "sv4pt5-83",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/83.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/83_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "83"
+    },
+    {
+        "Numero": 84,
+        "Expansión": "PAF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Nest Ball",
+        "Tipo": "Normal",
+        "id": "sv4pt5-84",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv4pt5/84.png",
+            "large": "https://images.pokemontcg.io/sv4pt5/84_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "84"
+    },
+    {
+        "Numero": 187,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Surfer",
+        "Tipo": "Normal",
+        "id": "sv8-187",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/187.png",
+            "large": "https://images.pokemontcg.io/sv8/187_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "187"
+    },
+    {
+        "Numero": 178,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Jasmine's Gaze",
+        "Tipo": "Normal",
+        "id": "sv8-178",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/178.png",
+            "large": "https://images.pokemontcg.io/sv8/178_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "178"
+    },
+    {
+        "Numero": 163,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Babiri Berry",
+        "Tipo": "Normal",
+        "id": "sv8-163",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/163.png",
+            "large": "https://images.pokemontcg.io/sv8/163_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "163"
+    },
+    {
+        "Numero": 180,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Lively Stadium",
+        "Tipo": "Normal",
+        "id": "sv8-180",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/180.png",
+            "large": "https://images.pokemontcg.io/sv8/180_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "180"
+    },
+    {
+        "Numero": 181,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Meddling Memo",
+        "Tipo": "Normal",
+        "id": "sv8-181",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/181.png",
+            "large": "https://images.pokemontcg.io/sv8/181_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "181"
+    },
+    {
+        "Numero": 172,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Dragon Elixir",
+        "Tipo": "Normal",
+        "id": "sv8-172",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/172.png",
+            "large": "https://images.pokemontcg.io/sv8/172_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "172"
+    },
+    {
+        "Numero": 165,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Call Bell",
+        "Tipo": "Normal",
+        "id": "sv8-165",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/165.png",
+            "large": "https://images.pokemontcg.io/sv8/165_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "165"
+    },
+    {
+        "Numero": 169,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Counter Gain",
+        "Tipo": "Normal",
+        "id": "sv8-169",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/169.png",
+            "large": "https://images.pokemontcg.io/sv8/169_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "169"
+    },
+    {
+        "Numero": 175,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Dusk Ball",
+        "Tipo": "Normal",
+        "id": "sv8-175",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/175.png",
+            "large": "https://images.pokemontcg.io/sv8/175_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "175"
+    },
+    {
+        "Numero": 171,
+        "Expansión": "SSP",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Deduction Kit",
+        "Tipo": "Normal",
+        "id": "sv8-171",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv8/171.png",
+            "large": "https://images.pokemontcg.io/sv8/171_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "171"
+    },
+    {
+        "Numero": 137,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Gravity Gemstone",
+        "Tipo": "Normal",
+        "id": "sv7-137",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv7/137.png",
+            "large": "https://images.pokemontcg.io/sv7/137_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "137"
+    },
+    {
+        "Numero": 132,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Briar",
+        "Tipo": "Normal",
+        "id": "sv7-132",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv7/132.png",
+            "large": "https://images.pokemontcg.io/sv7/132_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "132"
+    },
+    {
+        "Numero": 129,
+        "Expansión": "SCR",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Antique Cover Fossil",
+        "Tipo": "Normal",
+        "id": "sv7-129",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv7/129.png",
+            "large": "https://images.pokemontcg.io/sv7/129_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "129"
+    },
+    {
+        "Numero": 194,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Ryme",
+        "Tipo": "Normal",
+        "id": "sv3-194",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/194.png",
+            "large": "https://images.pokemontcg.io/sv3/194_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "194"
+    },
+    {
+        "Numero": 196,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Town Store",
+        "Tipo": "Normal",
+        "id": "sv3-196",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/196.png",
+            "large": "https://images.pokemontcg.io/sv3/196_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Common",
+        "number": "196"
+    },
+    {
+        "Numero": 187,
+        "Expansión": "OBF",
+        "Idioma": "EN",
+        "Precio": 1500,
+        "Stock": 1,
+        "Estado": "Mint",
+        "Categoria": "Normal",
+        "Nombre": "Brassius",
+        "Tipo": "Normal",
+        "id": "sv3-187",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/187.png",
+            "large": "https://images.pokemontcg.io/sv3/187_hires.png"
+        },
+        "flavorText": "Sin descripción.",
+        "rarity": "Uncommon",
+        "number": "187"
+    }
+]

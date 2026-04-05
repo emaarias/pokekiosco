@@ -1,0 +1,59 @@
+import fs from 'fs';
+
+// 1. Pegá acá tu array de IDs que queres marcar como "Item"
+const idsParaActualizar = [
+    'me2pt5-181', 'me2pt5-191', 'me2pt5-184', 'me2pt5-205',
+    'me2pt5-189', 'me2pt5-213', 'me2pt5-187', 'me2pt5-199',
+    'me2pt5-193', 'me2pt5-194', 'me2pt5-200', 'me2pt5-214',
+    'me2pt5-182', 'me2pt5-202', 'me2pt5-215', 'me2pt5-201',
+    'me2pt5-192', 'me2pt5-180', 'me2pt5-204', 'me2pt5-207',
+    'swsh12-153', 'sv5-149',    'sv5-159',    'sv6-149',
+    'sv4-173',    'sv2-165',    'sv2-182',    'sv2-177',
+    'sv2-171',    'sv2-178',    'sv2-183',    'sv1-160',
+    'sv1-161',    'sv1-197',    'sv1-194',    'sv1-171',
+    'sv1-190',    'sv1-179',    'sv1-178',    'sv1-175',
+    'sv10-177',   'sv10-167',   'sv10-175',   'sv9-153',
+    'sv9-150',    'me1-132',    'me1-127',    'me1-118',
+    'me2-89',     'me2-88',     'me2-94',     'sv4pt5-78',
+    'sv4pt5-85',  'sv4pt5-80',  'sv4pt5-77',  'sv4pt5-76',
+    'sv4pt5-81',  'sv4pt5-83',  'sv4pt5-84',  'sv8-187',
+    'sv8-178',    'sv8-163',    'sv8-180',    'sv8-181',
+    'sv8-172',    'sv8-165',    'sv8-169',    'sv8-175',
+    'sv8-171',    'sv7-137',    'sv7-132',    'sv7-129',
+    'sv3-194',    'sv3-196',    'sv3-187'
+  ];
+
+const actualizarATipoItem = () => {
+    try {
+        const filePath = './src/data/stock_final.json';
+        
+        // 2. Cargamos el stock actual
+        const stock = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+        console.log("🚀 Iniciando actualización de tipos...");
+
+        // 3. Mapeamos y modificamos solo los que coinciden
+        let contador = 0;
+        const stockActualizado = stock.map(card => {
+            if (idsParaActualizar.includes(card.id)) {
+                contador++;
+                return { 
+                    ...card, 
+                    Tipo: "Item" // Cambiamos el valor a Item
+                };
+            }
+            return card;
+        });
+
+        // 4. Guardamos los cambios
+        fs.writeFileSync(filePath, JSON.stringify(stockActualizado, null, 2));
+
+        console.log(`✅ ¡Proceso completado!`);
+        console.log(`📦 Se actualizaron ${contador} cartas a tipo 'Item'.`);
+
+    } catch (error) {
+        console.error("❌ Error al procesar el archivo:", error.message);
+    }
+};
+
+actualizarATipoItem();

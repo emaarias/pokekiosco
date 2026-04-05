@@ -1576,7 +1576,7 @@
       "small": "https://images.pokemontcg.io/sv10/93.png",
       "large": "https://images.pokemontcg.io/sv10/93_hires.png"
     },
-    "flavorText":  "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "flavorText": "During your opponent's next turn, the Defending Pokémon can't retreat.",
     "rarity": "Uncommon",
     "types": [
       "Fighting"
@@ -3985,7 +3985,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Air Balloon",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-181",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-181/small",
@@ -4004,7 +4004,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Light Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-191",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
@@ -4023,7 +4023,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Light Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-191",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
@@ -4042,7 +4042,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Buddy-Buddy Poffin",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-184",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-184/small",
@@ -4061,7 +4061,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Great Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-205",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-205/small",
@@ -4080,7 +4080,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Glass Trumpet",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-189",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-189/small",
@@ -4099,7 +4099,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Ultra Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-213",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-213/small",
@@ -4118,7 +4118,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Fighting Gong",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-187",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
@@ -4137,7 +4137,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Fighting Gong",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-187",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
@@ -4156,7 +4156,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Fighting Gong",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-187",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
@@ -4175,7 +4175,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Premium Power Pro",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-199",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-199/small",
@@ -4194,7 +4194,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Mega Signal",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-193",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-193/small",
@@ -4213,7 +4213,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Glass Trumpet",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-189",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-189/small",
@@ -4232,7 +4232,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Mystery Garden",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-194",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-194/small",
@@ -4251,7 +4251,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Surfer",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-200",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-200/small",
@@ -4270,7 +4270,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Urbain",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-214",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-214/small",
@@ -4289,7 +4289,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Anthea & Concordia",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-182",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
@@ -4308,7 +4308,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Anthea & Concordia",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-182",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
@@ -4327,7 +4327,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Ariana",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-202",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-202/small",
@@ -4346,7 +4346,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Waitress",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-215",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-215/small",
@@ -4365,7 +4365,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Archer",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-201",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-201/small",
@@ -4384,7 +4384,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Lillie's Determination",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-192",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-192/small",
@@ -4403,7 +4403,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Acerola's Mischief",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-180",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-180/small",
@@ -4422,7 +4422,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Giovanni",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-204",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-204/small",
@@ -4441,7 +4441,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Acerola's Mischief",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-180",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-180/small",
@@ -4460,7 +4460,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Petrel",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2pt5-207",
     "images": {
       "small": "https://images.scrydex.com/pokemon/me2pt5-207/small",
@@ -5524,7 +5524,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Capturing Aroma",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "swsh12-153",
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/153.png",
@@ -5752,7 +5752,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Future Booster Energy Capsule",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv5-149",
     "images": {
       "small": "https://images.pokemontcg.io/sv5/149.png",
@@ -5771,7 +5771,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Rescue Board",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv5-159",
     "images": {
       "small": "https://images.pokemontcg.io/sv5/159.png",
@@ -6037,7 +6037,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Festival Grounds",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv6-149",
     "images": {
       "small": "https://images.pokemontcg.io/sv6/149.png",
@@ -6265,7 +6265,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Roark",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4-173",
     "images": {
       "small": "https://images.pokemontcg.io/sv4/173.png",
@@ -6493,7 +6493,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Corvisquire",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-165",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/165.png",
@@ -6569,7 +6569,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Giacomo",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-182",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/182.png",
@@ -6588,7 +6588,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Clavell",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-177",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/177.png",
@@ -6607,7 +6607,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Artazon",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-171",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/171.png",
@@ -6626,7 +6626,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Delivery Drone",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-178",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/178.png",
@@ -6645,7 +6645,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Great Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv2-183",
     "images": {
       "small": "https://images.pokemontcg.io/sv2/183.png",
@@ -6740,7 +6740,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Tandemaus",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-160",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/160.png",
@@ -6759,7 +6759,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Maushold",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-161",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/161.png",
@@ -6816,7 +6816,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Vitality Band",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-197",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/197.png",
@@ -6835,7 +6835,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Switch",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-194",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/194.png",
@@ -6854,7 +6854,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Switch",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-194",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/194.png",
@@ -6873,7 +6873,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Switch",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-194",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/194.png",
@@ -6892,7 +6892,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Energy Retrieval",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-171",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/171.png",
@@ -6911,7 +6911,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Professor's Research (Professor Turo)",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-190",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/190.png",
@@ -6930,7 +6930,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Miriam",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-179",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/179.png",
@@ -6949,7 +6949,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Mesagoza",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-178",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/178.png",
@@ -6968,7 +6968,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Jacq",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-175",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/175.png",
@@ -6987,7 +6987,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Energy Retrieval",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv1-171",
     "images": {
       "small": "https://images.pokemontcg.io/sv1/171.png",
@@ -7253,7 +7253,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Proton",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv10-177",
     "images": {
       "small": "https://images.pokemontcg.io/sv10/177.png",
@@ -7272,7 +7272,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Judge",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv10-167",
     "images": {
       "small": "https://images.pokemontcg.io/sv10/167.png",
@@ -7291,7 +7291,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Team Rocket's Great Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv10-175",
     "images": {
       "small": "https://images.pokemontcg.io/sv10/175.png",
@@ -7747,7 +7747,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "N's PP Up",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv9-153",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/153.png",
@@ -7766,7 +7766,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Levincia",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv9-150",
     "images": {
       "small": "https://images.pokemontcg.io/sv9/150.png",
@@ -8260,7 +8260,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Wally's Compassion",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me1-132",
     "images": {
       "small": "https://images.pokemontcg.io/me1/132.png",
@@ -8279,7 +8279,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Risky Ruins",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me1-127",
     "images": {
       "small": "https://images.pokemontcg.io/me1/127.png",
@@ -8298,7 +8298,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Iron Defender",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me1-118",
     "images": {
       "small": "https://images.pokemontcg.io/me1/118.png",
@@ -9039,7 +9039,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Firebreather",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2-89",
     "images": {
       "small": "https://images.pokemontcg.io/me2/89.png",
@@ -9058,7 +9058,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Dizzying Valley",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2-88",
     "images": {
       "small": "https://images.pokemontcg.io/me2/88.png",
@@ -9077,7 +9077,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Wondrous Patch",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "me2-94",
     "images": {
       "small": "https://images.pokemontcg.io/me2/94.png",
@@ -9837,7 +9837,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Clive",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-78",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/78.png",
@@ -9856,7 +9856,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Paldean Student",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-85",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/85.png",
@@ -9875,7 +9875,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Iono",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-80",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/80.png",
@@ -9894,7 +9894,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Atticus",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-77",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/77.png",
@@ -9913,7 +9913,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Artazon",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-76",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/76.png",
@@ -9932,7 +9932,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Moonlit Hill",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-81",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/81.png",
@@ -9951,7 +9951,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Nemona's Backpack",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-83",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/83.png",
@@ -9970,7 +9970,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Nest Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv4pt5-84",
     "images": {
       "small": "https://images.pokemontcg.io/sv4pt5/84.png",
@@ -10882,7 +10882,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Surfer",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-187",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/187.png",
@@ -10901,7 +10901,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Jasmine's Gaze",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-178",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/178.png",
@@ -10920,7 +10920,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Babiri Berry",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-163",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/163.png",
@@ -10939,7 +10939,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Lively Stadium",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-180",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/180.png",
@@ -10958,7 +10958,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Meddling Memo",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-181",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/181.png",
@@ -10977,7 +10977,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Dragon Elixir",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-172",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/172.png",
@@ -10996,7 +10996,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Call Bell",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-165",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/165.png",
@@ -11015,7 +11015,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Counter Gain",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-169",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/169.png",
@@ -11034,7 +11034,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Dusk Ball",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-175",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/175.png",
@@ -11053,7 +11053,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Deduction Kit",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv8-171",
     "images": {
       "small": "https://images.pokemontcg.io/sv8/171.png",
@@ -12307,7 +12307,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Gravity Gemstone",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-137",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/137.png",
@@ -12326,7 +12326,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Gravity Gemstone",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-137",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/137.png",
@@ -12345,7 +12345,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Briar",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-132",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
@@ -12364,7 +12364,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Briar",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-132",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
@@ -12383,7 +12383,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Briar",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-132",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
@@ -12402,7 +12402,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Briar",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-132",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/132.png",
@@ -12421,7 +12421,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Antique Cover Fossil",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv7-129",
     "images": {
       "small": "https://images.pokemontcg.io/sv7/129.png",
@@ -14226,7 +14226,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Ryme",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv3-194",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/194.png",
@@ -14245,7 +14245,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Town Store",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv3-196",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/196.png",
@@ -14264,7 +14264,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Brassius",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv3-187",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/187.png",
@@ -14283,7 +14283,7 @@
     "Estado": "Mint",
     "Categoria": "Normal",
     "Nombre": "Ryme",
-    "Tipo": "Normal",
+    "Tipo": "Item",
     "id": "sv3-194",
     "images": {
       "small": "https://images.pokemontcg.io/sv3/194.png",

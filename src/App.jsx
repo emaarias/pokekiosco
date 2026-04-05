@@ -1,5 +1,5 @@
-import React, { useState, useMemo } from 'react'
-import { Search, ShoppingCart, Plus, X, Store, Filter } from 'lucide-react'
+import React, { useState, useMemo, useEffect } from 'react'
+import { Search, ShoppingCart, Plus, X, Store, Filter, CloudCog } from 'lucide-react'
 import stockReal from './data/stock_final.json'
 
 // Diccionario para transformar abreviaturas en nombres legibles
@@ -29,7 +29,7 @@ function App() {
   const [isCartOpen, setIsCartOpen] = useState(false)
   const [selectedCard, setSelectedCard] = useState(null)
   const [visibleCount, setVisibleCount] = useState(40)
-  
+
   // Filtros seleccionados
   const [selectedSet, setSelectedSet] = useState("Todos")
   const [selectedType, setSelectedType] = useState("Todos")
@@ -46,7 +46,7 @@ function App() {
   // --- LÓGICA DE FILTRADO MULTIPLE ---
   const filteredCards = inventory.filter(card => {
     if (!card || !card.Nombre) return false;
-    
+
     const matchesSearch = card.Nombre.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesSet = selectedSet === "Todos" || card.Expansión === selectedSet;
     const matchesType = selectedType === "Todos" || card.Tipo === selectedType;
@@ -76,6 +76,10 @@ function App() {
     window.open(`https://wa.me/${nro}?text=${encodeURIComponent(msg)}`)
   }
 
+  useEffect(() => {
+    console.log(cart)
+  }, [cart])
+
   return (
     <div className="min-h-screen pb-20 bg-slate-50">
       {/* NAVBAR */}
@@ -83,12 +87,12 @@ function App() {
         <div className="max-w-7xl mx-auto flex flex-col gap-4">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <h1 className="text-white text-3xl font-black italic tracking-tighter">POKEKIOSCO</h1>
-            
+
             {/* Buscador Principal */}
             <div className="relative w-full md:w-1/2">
-              <input 
-                type="text" 
-                placeholder="¿Qué carta buscás?..." 
+              <input
+                type="text"
+                placeholder="¿Qué carta buscás?..."
                 className="w-full py-3 px-12 rounded-full border-none shadow-lg focus:ring-4 focus:ring-yellow-400 outline-none text-black"
                 onChange={(e) => { setSearchTerm(e.target.value); setVisibleCount(40); }}
               />
@@ -106,9 +110,9 @@ function App() {
             <div className="flex items-center gap-2 text-white/80 text-xs font-bold mr-2">
               <Filter size={14} /> FILTRAR POR:
             </div>
-            
+
             {/* Selector de COLECCIÓN (Traducido) */}
-            <select 
+            <select
               value={selectedSet}
               onChange={(e) => setSelectedSet(e.target.value)}
               className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
@@ -123,7 +127,7 @@ function App() {
             </select>
 
             {/* Selector de TIPO */}
-            <select 
+            <select
               value={selectedType}
               onChange={(e) => setSelectedType(e.target.value)}
               className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
@@ -133,7 +137,7 @@ function App() {
             </select>
 
             {/* Selector de CATEGORIA (Holo/Reverse) */}
-            <select 
+            <select
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
               className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
@@ -144,7 +148,7 @@ function App() {
 
             {/* Botón resetear */}
             {(selectedSet !== "Todos" || selectedType !== "Todos" || selectedCategory !== "Todos") && (
-              <button 
+              <button
                 onClick={() => { setSelectedSet("Todos"); setSelectedType("Todos"); setSelectedCategory("Todos"); }}
                 className="text-white hover:text-yellow-400 text-[10px] font-black underline uppercase"
               >
@@ -207,9 +211,9 @@ function App() {
 
         {filteredCards.length > visibleCount && (
           <div className="flex justify-center mt-12">
-             <button onClick={() => setVisibleCount(prev => prev + 40)} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black">
-               Ver más resultados
-             </button>
+            <button onClick={() => setVisibleCount(prev => prev + 40)} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black">
+              Ver más resultados
+            </button>
           </div>
         )}
       </main>
@@ -222,7 +226,7 @@ function App() {
               <h3 className="text-xl font-bold flex items-center gap-2">
                 <ShoppingCart /> Mi Pedido
               </h3>
-              <button onClick={() => setIsCartOpen(false)}><X size={30}/></button>
+              <button onClick={() => setIsCartOpen(false)}><X size={30} /></button>
             </div>
             <div className="flex-1 overflow-y-auto p-4 space-y-4">
               {cart.map((item, index) => (
@@ -233,7 +237,7 @@ function App() {
                     <p className="text-red-600 font-black text-sm">${item.Precio}</p>
                   </div>
                   <button onClick={() => removeFromCart(index)} className="text-slate-400 hover:text-red-500">
-                    <X size={20}/>
+                    <X size={20} />
                   </button>
                 </div>
               ))}
@@ -244,8 +248,8 @@ function App() {
                 <span>TOTAL:</span>
                 <span className="text-red-600">${total.toLocaleString()}</span>
               </div>
-              <button 
-                onClick={finalizarPedido} 
+              <button
+                onClick={finalizarPedido}
                 disabled={cart.length === 0}
                 className="w-full bg-green-500 hover:bg-green-400 disabled:bg-slate-300 text-white py-4 rounded-xl font-bold text-xl shadow-lg transition-transform active:scale-95"
               >
@@ -259,63 +263,63 @@ function App() {
       {/* 2. MODAL DE DETALLE */}
       {selectedCard && (
         <div className="fixed inset-0 bg-black/80 backdrop-blur-md z-[110] flex items-center justify-center p-4">
-            <div className="bg-white w-full max-w-4xl rounded-3xl overflow-hidden shadow-2xl flex flex-col md:row relative">
-                <button onClick={() => setSelectedCard(null)} className="absolute top-4 right-4 z-50 bg-white/80 p-2 rounded-full hover:bg-red-500 hover:text-white transition-all shadow">
-                    <X size={24} />
-                </button>
-                
-                <div className="flex flex-col md:flex-row w-full">
-                    <div className="md:w-1/2 bg-slate-100 p-8 flex items-center justify-center">
-                        <img 
-                            src={selectedCard.images?.large} 
-                            alt={selectedCard.Nombre} 
-                            className="w-full max-h-[500px] object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500"
-                        />
-                    </div>
-                    <div className="md:w-1/2 p-8 flex flex-col">
-                        <span className="bg-red-100 text-red-600 px-3 py-1 rounded-full text-xs font-bold uppercase w-fit mb-2">
-                            {selectedCard.Expansión}
-                        </span>
-                        <h2 className="text-4xl font-black text-slate-800 leading-tight mb-2">{selectedCard.Nombre}</h2>
-                        
-                        <div className="grid grid-cols-2 gap-3 my-6">
-                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
-                                <p className="text-xs text-slate-400 uppercase font-bold">Idioma</p>
-                                <p className="font-bold text-slate-700">{selectedCard.Idioma}</p>
-                            </div>
-                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
-                                <p className="text-xs text-slate-400 uppercase font-bold">Estado</p>
-                                <p className="font-bold text-green-600">{selectedCard.Estado}</p>
-                            </div>
-                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
-                                <p className="text-xs text-slate-400 uppercase font-bold">Categoría</p>
-                                <p className="font-bold text-slate-700">{selectedCard.Categoria}</p>
-                            </div>
-                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
-                                <p className="text-xs text-slate-400 uppercase font-bold">Rareza</p>
-                                <p className="font-bold text-purple-600">{selectedCard.rarity || 'Common'}</p>
-                            </div>
-                        </div>
+          <div className="bg-white w-full max-w-4xl rounded-3xl overflow-hidden shadow-2xl flex flex-col md:row relative">
+            <button onClick={() => setSelectedCard(null)} className="absolute top-4 right-4 z-50 bg-white/80 p-2 rounded-full hover:bg-red-500 hover:text-white transition-all shadow">
+              <X size={24} />
+            </button>
 
-                        <p className="text-slate-600 italic leading-relaxed mb-8 flex-1">
-                            "{selectedCard.flavorText || 'Sin descripción disponible para esta carta.'}"
-                        </p>
+            <div className="flex flex-col md:flex-row w-full">
+              <div className="md:w-1/2 bg-slate-100 p-8 flex items-center justify-center">
+                <img
+                  src={selectedCard.images?.large}
+                  alt={selectedCard.Nombre}
+                  className="w-full max-h-[500px] object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500"
+                />
+              </div>
+              <div className="md:w-1/2 p-8 flex flex-col">
+                <span className="bg-red-100 text-red-600 px-3 py-1 rounded-full text-xs font-bold uppercase w-fit mb-2">
+                  {selectedCard.Expansión}
+                </span>
+                <h2 className="text-4xl font-black text-slate-800 leading-tight mb-2">{selectedCard.Nombre}</h2>
 
-                        <div className="pt-6 border-t flex items-center justify-between">
-                          <div>
-                            <p className="text-xs text-slate-400 font-bold uppercase">Precio Kiosco</p>
-                            <p className="text-3xl font-black text-red-600">${selectedCard.Precio}</p>
-                          </div>
-                          <button 
-                              onClick={() => { addToCart(selectedCard); setSelectedCard(null); }}
-                              className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-2xl font-bold text-lg shadow-lg transition-transform active:scale-95"
-                          >
-                              Agregar al Mazo
-                          </button>
-                        </div>
-                    </div>
+                <div className="grid grid-cols-2 gap-3 my-6">
+                  <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                    <p className="text-xs text-slate-400 uppercase font-bold">Idioma</p>
+                    <p className="font-bold text-slate-700">{selectedCard.Idioma}</p>
+                  </div>
+                  <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                    <p className="text-xs text-slate-400 uppercase font-bold">Estado</p>
+                    <p className="font-bold text-green-600">{selectedCard.Estado}</p>
+                  </div>
+                  <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                    <p className="text-xs text-slate-400 uppercase font-bold">Categoría</p>
+                    <p className="font-bold text-slate-700">{selectedCard.Categoria}</p>
+                  </div>
+                  <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                    <p className="text-xs text-slate-400 uppercase font-bold">Rareza</p>
+                    <p className="font-bold text-purple-600">{selectedCard.rarity || 'Common'}</p>
+                  </div>
                 </div>
+
+                <p className="text-slate-600 italic leading-relaxed mb-8 flex-1">
+                  "{selectedCard.flavorText || 'Sin descripción disponible para esta carta.'}"
+                </p>
+
+                <div className="pt-6 border-t flex items-center justify-between">
+                  <div>
+                    <p className="text-xs text-slate-400 font-bold uppercase">Precio Kiosco</p>
+                    <p className="text-3xl font-black text-red-600">${selectedCard.Precio}</p>
+                  </div>
+                  <button
+                    onClick={() => { addToCart(selectedCard); setSelectedCard(null); }}
+                    className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-2xl font-bold text-lg shadow-lg transition-transform active:scale-95"
+                  >
+                    Agregar al Mazo
+                  </button>
+                </div>
+              </div>
             </div>
+          </div>
         </div>
       )}
     </div>
