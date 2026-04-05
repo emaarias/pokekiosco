@@ -471,17 +471,17 @@
     "Estado": "Mint",
     "Categoria": "Reverse",
     "nombre": "Keldeo",
-    "id": "sv5-44",
+    "id": "swsh12-46",
     "images": {
-      "small": "https://images.pokemontcg.io/sv5/44.png",
-      "large": "https://images.pokemontcg.io/sv5/44_hires.png"
+      "small": "https://images.pokemontcg.io/swsh12/46.png",
+      "large": "https://images.pokemontcg.io/swsh12/46_hires.png"
     },
-    "flavorText": "Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.",
-    "rarity": "Uncommon",
+    "flavorText": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+    "rarity": "Rare",
     "types": [
       "Water"
     ],
-    "number": "44"
+    "number": "46"
   },
   {
     "Nombre": "Frogadier",
@@ -680,28 +680,6 @@
       "Lightning"
     ],
     "number": "18"
-  },
-  {
-    "Nombre": "Pawmo",
-    "Tipo": "Eléctrico",
-    "Expansión": "SVI",
-    "Idioma": "EN",
-    "Precio": 2500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Reverse",
-    "nombre": "Pawmo",
-    "id": "sv1-75",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv1/75.png",
-      "large": "https://images.pokemontcg.io/sv1/75_hires.png"
-    },
-    "flavorText": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
-    "rarity": "Common",
-    "types": [
-      "Lightning"
-    ],
-    "number": "75"
   },
   {
     "Nombre": "Vikavolt",
@@ -944,6 +922,28 @@
       "Psychic"
     ],
     "number": "25"
+  },
+  {
+    "Nombre": "Dedenne",
+    "Tipo": "Psíquico",
+    "Expansión": "F",
+    "Idioma": "EN",
+    "Precio": 2500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Reverse",
+    "nombre": "Dedenne",
+    "id": "swsh12-85",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/85.png",
+      "large": "https://images.pokemontcg.io/swsh12/85_hires.png"
+    },
+    "flavorText": "A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.",
+    "rarity": "Uncommon",
+    "types": [
+      "Psychic"
+    ],
+    "number": "85"
   },
   {
     "Nombre": "Cleffa",
@@ -1958,28 +1958,6 @@
     "number": "6"
   },
   {
-    "Nombre": "Meowscarada",
-    "Tipo": "Planta",
-    "Expansión": "SVI",
-    "Idioma": "EN",
-    "Precio": 3500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Holo",
-    "nombre": "Meowscarada",
-    "id": "sv1-15",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv1/15.png",
-      "large": "https://images.pokemontcg.io/sv1/15_hires.png"
-    },
-    "flavorText": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
-    "rarity": "Rare",
-    "types": [
-      "Grass"
-    ],
-    "number": "15"
-  },
-  {
     "Nombre": "Sinistcha",
     "Tipo": "Planta",
     "Expansión": "TWM",
@@ -2706,28 +2684,6 @@
     "number": "53"
   },
   {
-    "Nombre": "Kingambit",
-    "Tipo": "Siniestro",
-    "Expansión": "SVI",
-    "Idioma": "EN",
-    "Precio": 3500,
-    "Stock": 1,
-    "Estado": "Mint",
-    "Categoria": "Holo",
-    "nombre": "Kingambit",
-    "id": "sv1-134",
-    "images": {
-      "small": "https://images.pokemontcg.io/sv1/134.png",
-      "large": "https://images.pokemontcg.io/sv1/134_hires.png"
-    },
-    "flavorText": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
-    "rarity": "Rare",
-    "types": [
-      "Darkness"
-    ],
-    "number": "134"
-  },
-  {
     "Nombre": "Mabosstiff",
     "Tipo": "Siniestro",
     "Expansión": "PAF",
@@ -3014,6 +2970,196 @@
     "number": "141"
   },
   {
+    "Numero": 43,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Houndstone",
+    "Tipo": "Psíquico",
+    "id": "sv4pt5-43",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/43.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
+    },
+    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
+    "rarity": "Rare",
+    "number": "43"
+  },
+  {
+    "Numero": 48,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Phanpy",
+    "Tipo": "Lucha",
+    "id": "sv4pt5-48",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/48.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/48_hires.png"
+    },
+    "flavorText": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
+    "rarity": "Common",
+    "number": "48"
+  },
+  {
+    "Numero": 7,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Charmander",
+    "Tipo": "Fuego",
+    "id": "sv4pt5-7",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/7.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/7_hires.png"
+    },
+    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "rarity": "Common",
+    "number": "7"
+  },
+  {
+    "Numero": 15,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Armarouge",
+    "Tipo": "Fuego",
+    "id": "sv4pt5-15",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/15.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/15_hires.png"
+    },
+    "flavorText": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+    "rarity": "Rare",
+    "number": "15"
+  },
+  {
+    "Numero": 138,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Pachirisu",
+    "Tipo": "Eléctrico",
+    "id": "sv4pt5-138",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/138.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/138_hires.png"
+    },
+    "flavorText": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "rarity": "Shiny Rare",
+    "number": "138"
+  },
+  {
+    "Numero": 173,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Riolu",
+    "Tipo": "Lucha",
+    "id": "sv4pt5-173",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/173.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/173_hires.png"
+    },
+    "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
+    "rarity": "Shiny Rare",
+    "number": "173"
+  },
+  {
+    "Numero": 21,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Lanturn",
+    "Tipo": "Eléctrico",
+    "id": "sv4pt5-21",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/21.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/21_hires.png"
+    },
+    "flavorText": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+    "rarity": "Uncommon",
+    "number": "21"
+  },
+  {
+    "Numero": 67,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Gholdengo",
+    "Tipo": "Acero",
+    "id": "sv4pt5-67",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/67.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
+    },
+    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "rarity": "Rare",
+    "number": "67"
+  },
+  {
+    "Numero": 60,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Scraggy",
+    "Tipo": "Siniestro",
+    "id": "sv4pt5-60",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/60.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/60_hires.png"
+    },
+    "flavorText": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
+    "rarity": "Common",
+    "number": "60"
+  },
+  {
+    "Numero": 113,
+    "Expansión": "PAR",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Oricorio",
+    "Tipo": "Fuego",
+    "id": "sv4pt5-113",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/113.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/113_hires.png"
+    },
+    "flavorText": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
+    "rarity": "Shiny Rare",
+    "number": "113"
+  },
+  {
     "Numero": 45,
     "Expansión": "ASC",
     "Idioma": "EN",
@@ -3047,7 +3193,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-51/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-51/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "51"
   },
@@ -3446,7 +3592,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-160/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-160/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Double Rare",
     "number": "160"
   },
@@ -3826,7 +3972,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-93/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-93/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "93"
   },
@@ -4035,7 +4181,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-181/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-181/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "181"
   },
@@ -4054,7 +4200,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-191/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "191"
   },
@@ -4073,7 +4219,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-191/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-191/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "191"
   },
@@ -4092,7 +4238,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-184/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-184/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "184"
   },
@@ -4111,7 +4257,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-205/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-205/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "205"
   },
@@ -4130,7 +4276,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-189/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-189/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "189"
   },
@@ -4149,7 +4295,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-213/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-213/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "213"
   },
@@ -4168,7 +4314,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-187/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "187"
   },
@@ -4187,7 +4333,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-187/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "187"
   },
@@ -4206,7 +4352,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-187/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-187/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "187"
   },
@@ -4225,7 +4371,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-199/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-199/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "199"
   },
@@ -4244,7 +4390,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-193/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-193/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "193"
   },
@@ -4263,7 +4409,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-189/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-189/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "189"
   },
@@ -4282,7 +4428,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-194/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-194/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "194"
   },
@@ -4301,7 +4447,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-200/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-200/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "200"
   },
@@ -4320,7 +4466,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-214/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-214/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "214"
   },
@@ -4339,7 +4485,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-182/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "182"
   },
@@ -4358,7 +4504,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-182/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-182/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "182"
   },
@@ -4377,7 +4523,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-202/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-202/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "202"
   },
@@ -4396,7 +4542,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-215/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-215/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "215"
   },
@@ -4415,7 +4561,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-201/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-201/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "201"
   },
@@ -4434,7 +4580,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-192/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-192/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "192"
   },
@@ -4453,7 +4599,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-180/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-180/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "180"
   },
@@ -4472,7 +4618,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-204/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-204/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "204"
   },
@@ -4491,7 +4637,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-180/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-180/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "180"
   },
@@ -4510,7 +4656,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-207/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-207/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "207"
   },
@@ -4814,7 +4960,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-55/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-55/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "55"
   },
@@ -5270,7 +5416,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-117/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-117/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "117"
   },
@@ -5289,7 +5435,7 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-103/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-103/large"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "103"
   },
@@ -5574,7 +5720,7 @@
       "small": "https://images.pokemontcg.io/swsh12/153.png",
       "large": "https://images.pokemontcg.io/swsh12/153_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "153"
   },
@@ -5802,7 +5948,7 @@
       "small": "https://images.pokemontcg.io/sv5/149.png",
       "large": "https://images.pokemontcg.io/sv5/149_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "149"
   },
@@ -5821,7 +5967,7 @@
       "small": "https://images.pokemontcg.io/sv5/159.png",
       "large": "https://images.pokemontcg.io/sv5/159_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "159"
   },
@@ -6087,7 +6233,7 @@
       "small": "https://images.pokemontcg.io/sv6/149.png",
       "large": "https://images.pokemontcg.io/sv6/149_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "149"
   },
@@ -6156,15 +6302,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Greavard",
-    "Tipo": "Psíquico",
-    "id": "sv4pt5-42",
+    "Nombre": "Simipour",
+    "Tipo": "Agua",
+    "id": "sv4-42",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/42.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/42_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/42.png",
+      "large": "https://images.pokemontcg.io/sv4/42_hires.png"
     },
-    "flavorText": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
-    "rarity": "Common",
+    "flavorText": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+    "rarity": "Uncommon",
     "number": "42"
   },
   {
@@ -6175,15 +6321,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Houndstone",
-    "Tipo": "Psíquico",
-    "id": "sv4pt5-43",
+    "Nombre": "Vanillite",
+    "Tipo": "Agua",
+    "id": "sv4-43",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/43.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/43_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/43.png",
+      "large": "https://images.pokemontcg.io/sv4/43_hires.png"
     },
-    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
-    "rarity": "Rare",
+    "flavorText": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
+    "rarity": "Common",
     "number": "43"
   },
   {
@@ -6194,14 +6340,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Phanpy",
-    "Tipo": "Lucha",
-    "id": "sv4pt5-48",
+    "Nombre": "Wimpod",
+    "Tipo": "Agua",
+    "id": "sv4-48",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/48.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/48_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/48.png",
+      "large": "https://images.pokemontcg.io/sv4/48_hires.png"
     },
-    "flavorText": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
+    "flavorText": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy's presence.",
     "rarity": "Common",
     "number": "48"
   },
@@ -6213,14 +6359,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Charmander",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-7",
+    "Nombre": "Crustle",
+    "Tipo": "Planta",
+    "id": "sv4-7",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/7.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/7_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/7.png",
+      "large": "https://images.pokemontcg.io/sv4/7_hires.png"
     },
-    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "flavorText": "Its thick claws are its greatest weapons. They're mighty enough to crack Rhyperior's carapace.",
     "rarity": "Common",
     "number": "7"
   },
@@ -6232,15 +6378,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Armarouge",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-15",
+    "Nombre": "Toedscool",
+    "Tipo": "Planta",
+    "id": "sv4-15",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/15.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/15_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/15.png",
+      "large": "https://images.pokemontcg.io/sv4/15_hires.png"
     },
-    "flavorText": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
-    "rarity": "Rare",
+    "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
+    "rarity": "Common",
     "number": "15"
   },
   {
@@ -6251,15 +6397,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Magmar",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-9",
+    "Nombre": "Steenee",
+    "Tipo": "Planta",
+    "id": "sv4-9",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/9.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/9_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/9.png",
+      "large": "https://images.pokemontcg.io/sv4/9_hires.png"
     },
-    "flavorText": "These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
-    "rarity": "Common",
+    "flavorText": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+    "rarity": "Uncommon",
     "number": "9"
   },
   {
@@ -6270,14 +6416,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Lapras",
-    "Tipo": "Agua",
-    "id": "sv4pt5-16",
+    "Nombre": "Toedscool",
+    "Tipo": "Planta",
+    "id": "sv4-16",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/16.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/16_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/16.png",
+      "large": "https://images.pokemontcg.io/sv4/16_hires.png"
     },
-    "flavorText": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+    "flavorText": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph.",
     "rarity": "Common",
     "number": "16"
   },
@@ -6289,15 +6435,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Pachirisu",
-    "Tipo": "Eléctrico",
-    "id": "sv4pt5-138",
+    "Nombre": "Orthworm",
+    "Tipo": "Acero",
+    "id": "sv4-138",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/138.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/138_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/138.png",
+      "large": "https://images.pokemontcg.io/sv4/138_hires.png"
     },
-    "flavorText": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
-    "rarity": "Shiny Rare",
+    "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "rarity": "Uncommon",
     "number": "138"
   },
   {
@@ -6308,15 +6454,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Riolu",
-    "Tipo": "Lucha",
-    "id": "sv4pt5-173",
+    "Nombre": "Roark",
+    "Tipo": "Normal",
+    "id": "sv4-173",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/173.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/173_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/173.png",
+      "large": "https://images.pokemontcg.io/sv4/173_hires.png"
     },
-    "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
-    "rarity": "Shiny Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
     "number": "173"
   },
   {
@@ -6327,14 +6473,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Lanturn",
-    "Tipo": "Eléctrico",
-    "id": "sv4pt5-21",
+    "Nombre": "Simisear",
+    "Tipo": "Fuego",
+    "id": "sv4-21",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/21.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/21_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/21.png",
+      "large": "https://images.pokemontcg.io/sv4/21_hires.png"
     },
-    "flavorText": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+    "flavorText": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
     "rarity": "Uncommon",
     "number": "21"
   },
@@ -6346,15 +6492,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Gholdengo",
-    "Tipo": "Acero",
-    "id": "sv4pt5-67",
+    "Nombre": "Oricorio",
+    "Tipo": "Eléctrico",
+    "id": "sv4-67",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/67.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/67_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/67.png",
+      "large": "https://images.pokemontcg.io/sv4/67_hires.png"
     },
-    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
-    "rarity": "Rare",
+    "flavorText": "The energetic, cheerful dance of these Oricorio is popular with children, but the Oricorio themselves are hard to find in Paldea.",
+    "rarity": "Common",
     "number": "67"
   },
   {
@@ -6365,14 +6511,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Scraggy",
-    "Tipo": "Siniestro",
-    "id": "sv4pt5-60",
+    "Nombre": "Plusle",
+    "Tipo": "Eléctrico",
+    "id": "sv4-60",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/60.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/60_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/60.png",
+      "large": "https://images.pokemontcg.io/sv4/60_hires.png"
     },
-    "flavorText": "It protects itself with its durable skin. It's thought that this Pokémon will evolve once its skin has completely stretched out.",
+    "flavorText": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
     "rarity": "Common",
     "number": "60"
   },
@@ -6384,15 +6530,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Oricorio",
-    "Tipo": "Fuego",
-    "id": "sv4pt5-113",
+    "Nombre": "Absol",
+    "Tipo": "Siniestro",
+    "id": "sv4-113",
     "images": {
-      "small": "https://images.pokemontcg.io/sv4pt5/113.png",
-      "large": "https://images.pokemontcg.io/sv4pt5/113_hires.png"
+      "small": "https://images.pokemontcg.io/sv4/113.png",
+      "large": "https://images.pokemontcg.io/sv4/113_hires.png"
     },
-    "flavorText": "This Pokémon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
-    "rarity": "Shiny Rare",
+    "flavorText": "Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer of doom.",
+    "rarity": "Uncommon",
     "number": "113"
   },
   {
@@ -6619,7 +6765,7 @@
       "small": "https://images.pokemontcg.io/sv2/182.png",
       "large": "https://images.pokemontcg.io/sv2/182_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "182"
   },
@@ -6638,7 +6784,7 @@
       "small": "https://images.pokemontcg.io/sv2/177.png",
       "large": "https://images.pokemontcg.io/sv2/177_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "177"
   },
@@ -6657,7 +6803,7 @@
       "small": "https://images.pokemontcg.io/sv2/171.png",
       "large": "https://images.pokemontcg.io/sv2/171_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "171"
   },
@@ -6676,7 +6822,7 @@
       "small": "https://images.pokemontcg.io/sv2/178.png",
       "large": "https://images.pokemontcg.io/sv2/178_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "178"
   },
@@ -6695,7 +6841,7 @@
       "small": "https://images.pokemontcg.io/sv2/183.png",
       "large": "https://images.pokemontcg.io/sv2/183_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "183"
   },
@@ -6707,15 +6853,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Yanma",
+    "Nombre": "Heracross",
     "Tipo": "Planta",
-    "id": "sv10-2",
+    "id": "sv1-2",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/2.png",
-      "large": "https://images.pokemontcg.io/sv10/2_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/2.png",
+      "large": "https://images.pokemontcg.io/sv1/2_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Common",
+    "flavorText": "With its herculean powers, it can easily throw around an object that is 100 times its own weight.",
+    "rarity": "Uncommon",
     "number": "2"
   },
   {
@@ -6726,15 +6872,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Breloom",
+    "Nombre": "Cacturne",
     "Tipo": "Planta",
-    "id": "sv10-6",
+    "id": "sv1-6",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/6.png",
-      "large": "https://images.pokemontcg.io/sv10/6_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/6.png",
+      "large": "https://images.pokemontcg.io/sv1/6_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Common",
+    "flavorText": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+    "rarity": "Uncommon",
     "number": "6"
   },
   {
@@ -6745,15 +6891,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Hearthflame Mask Ogerpon",
-    "Tipo": "Fuego",
-    "id": "sv10-44",
+    "Nombre": "Magikarp",
+    "Tipo": "Agua",
+    "id": "sv1-44",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/44.png",
-      "large": "https://images.pokemontcg.io/sv10/44_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/44.png",
+      "large": "https://images.pokemontcg.io/sv1/44_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Uncommon",
+    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "rarity": "Common",
     "number": "44"
   },
   {
@@ -6764,15 +6910,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Hydrapple",
+    "Nombre": "Tarountula",
     "Tipo": "Planta",
-    "id": "sv10-18",
+    "id": "sv1-18",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/18.png",
-      "large": "https://images.pokemontcg.io/sv10/18_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/18.png",
+      "large": "https://images.pokemontcg.io/sv1/18_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Rare",
+    "flavorText": "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research.",
+    "rarity": "Common",
     "number": "18"
   },
   {
@@ -6783,14 +6929,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Squawkabilly",
+    "Nombre": "Tandemaus",
     "Tipo": "Normal",
-    "id": "sv10-160",
+    "id": "sv1-160",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/160.png",
-      "large": "https://images.pokemontcg.io/sv10/160_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/160.png",
+      "large": "https://images.pokemontcg.io/sv1/160_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
     "rarity": "Common",
     "number": "160"
   },
@@ -6802,14 +6948,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Arven's Sandwich",
+    "Nombre": "Maushold",
     "Tipo": "Normal",
-    "id": "sv10-161",
+    "id": "sv1-161",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/161.png",
-      "large": "https://images.pokemontcg.io/sv10/161_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/161.png",
+      "large": "https://images.pokemontcg.io/sv1/161_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
     "rarity": "Uncommon",
     "number": "161"
   },
@@ -6821,14 +6967,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Skarmory",
+    "Nombre": "Varoom",
     "Tipo": "Acero",
-    "id": "sv10-141",
+    "id": "sv1-141",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/141.png",
-      "large": "https://images.pokemontcg.io/sv10/141_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/141.png",
+      "large": "https://images.pokemontcg.io/sv1/141_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
     "rarity": "Common",
     "number": "141"
   },
@@ -6840,15 +6986,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Annihilape",
-    "Tipo": "Lucha",
-    "id": "sv10-92",
+    "Nombre": "Floette",
+    "Tipo": "Psíquico",
+    "id": "sv1-92",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/92.png",
-      "large": "https://images.pokemontcg.io/sv10/92_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/92.png",
+      "large": "https://images.pokemontcg.io/sv1/92_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Rare",
+    "flavorText": "This Pokémon uses red wavelengths of light to pour its own energy into flowers and draw forth their latent potential.",
+    "rarity": "Common",
     "number": "92"
   },
   {
@@ -6859,15 +7005,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Rotom",
-    "Tipo": "Eléctrico",
-    "id": "sv10-197",
+    "Nombre": "Vitality Band",
+    "Tipo": "Normal",
+    "id": "sv1-197",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/197.png",
-      "large": "https://images.pokemontcg.io/sv10/197_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/197.png",
+      "large": "https://images.pokemontcg.io/sv1/197_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Illustration Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
     "number": "197"
   },
   {
@@ -6878,15 +7024,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Misty's Lapras",
-    "Tipo": "Agua",
-    "id": "sv10-194",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/194.png",
-      "large": "https://images.pokemontcg.io/sv10/194_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Illustration Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
     "number": "194"
   },
   {
@@ -6897,15 +7043,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Misty's Lapras",
-    "Tipo": "Agua",
-    "id": "sv10-194",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/194.png",
-      "large": "https://images.pokemontcg.io/sv10/194_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Illustration Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
     "number": "194"
   },
   {
@@ -6916,15 +7062,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Misty's Lapras",
-    "Tipo": "Agua",
-    "id": "sv10-194",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/194.png",
-      "large": "https://images.pokemontcg.io/sv10/194_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Illustration Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
     "number": "194"
   },
   {
@@ -6935,15 +7081,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Ariana",
+    "Nombre": "Energy Retrieval",
     "Tipo": "Normal",
-    "id": "sv10-171",
+    "id": "sv1-171",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/171.png",
-      "large": "https://images.pokemontcg.io/sv10/171_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/171.png",
+      "large": "https://images.pokemontcg.io/sv1/171_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Uncommon",
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
     "number": "171"
   },
   {
@@ -6954,15 +7100,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Ethan's Typhlosion",
-    "Tipo": "Fuego",
-    "id": "sv10-190",
+    "Nombre": "Professor's Research (Professor Turo)",
+    "Tipo": "Normal",
+    "id": "sv1-190",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/190.png",
-      "large": "https://images.pokemontcg.io/sv10/190_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/190.png",
+      "large": "https://images.pokemontcg.io/sv1/190_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Illustration Rare",
+    "flavorText": "Sin descripción.",
+    "rarity": "Rare",
     "number": "190"
   },
   {
@@ -6973,14 +7119,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Venture Bomb",
+    "Nombre": "Miriam",
     "Tipo": "Normal",
-    "id": "sv10-179",
+    "id": "sv1-179",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/179.png",
-      "large": "https://images.pokemontcg.io/sv10/179_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/179.png",
+      "large": "https://images.pokemontcg.io/sv1/179_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "179"
   },
@@ -6992,14 +7138,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Transceiver",
+    "Nombre": "Mesagoza",
     "Tipo": "Normal",
-    "id": "sv10-178",
+    "id": "sv1-178",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/178.png",
-      "large": "https://images.pokemontcg.io/sv10/178_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/178.png",
+      "large": "https://images.pokemontcg.io/sv1/178_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "178"
   },
@@ -7011,14 +7157,14 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Great Ball",
+    "Nombre": "Jacq",
     "Tipo": "Normal",
-    "id": "sv10-175",
+    "id": "sv1-175",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/175.png",
-      "large": "https://images.pokemontcg.io/sv10/175_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/175.png",
+      "large": "https://images.pokemontcg.io/sv1/175_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "175"
   },
@@ -7030,15 +7176,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Ariana",
+    "Nombre": "Energy Retrieval",
     "Tipo": "Normal",
-    "id": "sv10-171",
+    "id": "sv1-171",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/171.png",
-      "large": "https://images.pokemontcg.io/sv10/171_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/171.png",
+      "large": "https://images.pokemontcg.io/sv1/171_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Uncommon",
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
     "number": "171"
   },
   {
@@ -7049,15 +7195,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Barraskewda",
-    "Tipo": "Agua",
-    "id": "sv10-63",
+    "Nombre": "Magnemite",
+    "Tipo": "Eléctrico",
+    "id": "sv1-63",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/63.png",
-      "large": "https://images.pokemontcg.io/sv10/63_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/63.png",
+      "large": "https://images.pokemontcg.io/sv1/63_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Uncommon",
+    "flavorText": "It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides.",
+    "rarity": "Common",
     "number": "63"
   },
   {
@@ -7068,15 +7214,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Ampharos",
+    "Nombre": "Pawmi",
     "Tipo": "Eléctrico",
-    "id": "sv10-74",
+    "id": "sv1-74",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/74.png",
-      "large": "https://images.pokemontcg.io/sv10/74_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/74.png",
+      "large": "https://images.pokemontcg.io/sv1/74_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Uncommon",
+    "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "rarity": "Common",
     "number": "74"
   },
   {
@@ -7087,15 +7233,15 @@
     "Stock": 1,
     "Estado": "Mint",
     "Categoria": "Normal",
-    "Nombre": "Team Rocket's Mareep",
+    "Nombre": "Toxtricity",
     "Tipo": "Eléctrico",
-    "id": "sv10-72",
+    "id": "sv1-72",
     "images": {
-      "small": "https://images.pokemontcg.io/sv10/72.png",
-      "large": "https://images.pokemontcg.io/sv10/72_hires.png"
+      "small": "https://images.pokemontcg.io/sv1/72.png",
+      "large": "https://images.pokemontcg.io/sv1/72_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
-    "rarity": "Common",
+    "flavorText": "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts.",
+    "rarity": "Uncommon",
     "number": "72"
   },
   {
@@ -7113,7 +7259,7 @@
       "small": "https://images.pokemontcg.io/sv10/48.png",
       "large": "https://images.pokemontcg.io/sv10/48_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "48"
   },
@@ -7132,7 +7278,7 @@
       "small": "https://images.pokemontcg.io/sv10/55.png",
       "large": "https://images.pokemontcg.io/sv10/55_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "55"
   },
@@ -7151,7 +7297,7 @@
       "small": "https://images.pokemontcg.io/sv10/54.png",
       "large": "https://images.pokemontcg.io/sv10/54_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "54"
   },
@@ -7170,7 +7316,7 @@
       "small": "https://images.pokemontcg.io/sv10/60.png",
       "large": "https://images.pokemontcg.io/sv10/60_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "60"
   },
@@ -7189,7 +7335,7 @@
       "small": "https://images.pokemontcg.io/sv10/4.png",
       "large": "https://images.pokemontcg.io/sv10/4_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "4"
   },
@@ -7208,7 +7354,7 @@
       "small": "https://images.pokemontcg.io/sv10/19.png",
       "large": "https://images.pokemontcg.io/sv10/19_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "19"
   },
@@ -7227,7 +7373,7 @@
       "small": "https://images.pokemontcg.io/sv10/19.png",
       "large": "https://images.pokemontcg.io/sv10/19_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "19"
   },
@@ -7246,7 +7392,7 @@
       "small": "https://images.pokemontcg.io/sv10/155.png",
       "large": "https://images.pokemontcg.io/sv10/155_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "155"
   },
@@ -7265,7 +7411,7 @@
       "small": "https://images.pokemontcg.io/sv10/85.png",
       "large": "https://images.pokemontcg.io/sv10/85_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "85"
   },
@@ -7284,7 +7430,7 @@
       "small": "https://images.pokemontcg.io/sv10/89.png",
       "large": "https://images.pokemontcg.io/sv10/89_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "89"
   },
@@ -7303,7 +7449,7 @@
       "small": "https://images.pokemontcg.io/sv10/177.png",
       "large": "https://images.pokemontcg.io/sv10/177_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "177"
   },
@@ -7322,7 +7468,7 @@
       "small": "https://images.pokemontcg.io/sv10/167.png",
       "large": "https://images.pokemontcg.io/sv10/167_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "167"
   },
@@ -7341,7 +7487,7 @@
       "small": "https://images.pokemontcg.io/sv10/175.png",
       "large": "https://images.pokemontcg.io/sv10/175_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "175"
   },
@@ -7360,7 +7506,7 @@
       "small": "https://images.pokemontcg.io/sv10/71.png",
       "large": "https://images.pokemontcg.io/sv10/71_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "71"
   },
@@ -7379,7 +7525,7 @@
       "small": "https://images.pokemontcg.io/sv10/71.png",
       "large": "https://images.pokemontcg.io/sv10/71_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "71"
   },
@@ -7398,7 +7544,7 @@
       "small": "https://images.pokemontcg.io/sv10/72.png",
       "large": "https://images.pokemontcg.io/sv10/72_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "72"
   },
@@ -7417,7 +7563,7 @@
       "small": "https://images.pokemontcg.io/sv10/76.png",
       "large": "https://images.pokemontcg.io/sv10/76_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "76"
   },
@@ -7436,7 +7582,7 @@
       "small": "https://images.pokemontcg.io/sv10/120.png",
       "large": "https://images.pokemontcg.io/sv10/120_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "120"
   },
@@ -7455,7 +7601,7 @@
       "small": "https://images.pokemontcg.io/sv10/137.png",
       "large": "https://images.pokemontcg.io/sv10/137_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "137"
   },
@@ -7474,7 +7620,7 @@
       "small": "https://images.pokemontcg.io/sv10/102.png",
       "large": "https://images.pokemontcg.io/sv10/102_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "102"
   },
@@ -7493,7 +7639,7 @@
       "small": "https://images.pokemontcg.io/sv10/108.png",
       "large": "https://images.pokemontcg.io/sv10/108_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "108"
   },
@@ -7512,7 +7658,7 @@
       "small": "https://images.pokemontcg.io/sv10/94.png",
       "large": "https://images.pokemontcg.io/sv10/94_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "94"
   },
@@ -7531,7 +7677,7 @@
       "small": "https://images.pokemontcg.io/sv9/35.png",
       "large": "https://images.pokemontcg.io/sv9/35_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "35"
   },
@@ -7550,7 +7696,7 @@
       "small": "https://images.pokemontcg.io/sv9/39.png",
       "large": "https://images.pokemontcg.io/sv9/39_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "39"
   },
@@ -7569,7 +7715,7 @@
       "small": "https://images.pokemontcg.io/sv9/16.png",
       "large": "https://images.pokemontcg.io/sv9/16_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "16"
   },
@@ -7588,7 +7734,7 @@
       "small": "https://images.pokemontcg.io/sv9/10.png",
       "large": "https://images.pokemontcg.io/sv9/10_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "10"
   },
@@ -7607,7 +7753,7 @@
       "small": "https://images.pokemontcg.io/sv9/140.png",
       "large": "https://images.pokemontcg.io/sv9/140_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "140"
   },
@@ -7626,7 +7772,7 @@
       "small": "https://images.pokemontcg.io/sv9/124.png",
       "large": "https://images.pokemontcg.io/sv9/124_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "124"
   },
@@ -7645,7 +7791,7 @@
       "small": "https://images.pokemontcg.io/sv9/118.png",
       "large": "https://images.pokemontcg.io/sv9/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "118"
   },
@@ -7664,7 +7810,7 @@
       "small": "https://images.pokemontcg.io/sv9/118.png",
       "large": "https://images.pokemontcg.io/sv9/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "118"
   },
@@ -7683,7 +7829,7 @@
       "small": "https://images.pokemontcg.io/sv9/127.png",
       "large": "https://images.pokemontcg.io/sv9/127_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "127"
   },
@@ -7702,7 +7848,7 @@
       "small": "https://images.pokemontcg.io/sv9/106.png",
       "large": "https://images.pokemontcg.io/sv9/106_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "106"
   },
@@ -7721,7 +7867,7 @@
       "small": "https://images.pokemontcg.io/sv9/102.png",
       "large": "https://images.pokemontcg.io/sv9/102_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "102"
   },
@@ -7740,7 +7886,7 @@
       "small": "https://images.pokemontcg.io/sv9/60.png",
       "large": "https://images.pokemontcg.io/sv9/60_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "60"
   },
@@ -7759,7 +7905,7 @@
       "small": "https://images.pokemontcg.io/sv9/68.png",
       "large": "https://images.pokemontcg.io/sv9/68_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "68"
   },
@@ -7778,7 +7924,7 @@
       "small": "https://images.pokemontcg.io/sv9/73.png",
       "large": "https://images.pokemontcg.io/sv9/73_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "73"
   },
@@ -7797,7 +7943,7 @@
       "small": "https://images.pokemontcg.io/sv9/153.png",
       "large": "https://images.pokemontcg.io/sv9/153_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "153"
   },
@@ -7816,7 +7962,7 @@
       "small": "https://images.pokemontcg.io/sv9/150.png",
       "large": "https://images.pokemontcg.io/sv9/150_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "150"
   },
@@ -7835,7 +7981,7 @@
       "small": "https://images.pokemontcg.io/sv9/26.png",
       "large": "https://images.pokemontcg.io/sv9/26_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "26"
   },
@@ -7854,7 +8000,7 @@
       "small": "https://images.pokemontcg.io/sv9/27.png",
       "large": "https://images.pokemontcg.io/sv9/27_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "27"
   },
@@ -7873,7 +8019,7 @@
       "small": "https://images.pokemontcg.io/sv9/23.png",
       "large": "https://images.pokemontcg.io/sv9/23_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "23"
   },
@@ -7892,7 +8038,7 @@
       "small": "https://images.pokemontcg.io/sv9/48.png",
       "large": "https://images.pokemontcg.io/sv9/48_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "48"
   },
@@ -7911,7 +8057,7 @@
       "small": "https://images.pokemontcg.io/sv9/44.png",
       "large": "https://images.pokemontcg.io/sv9/44_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "44"
   },
@@ -7930,7 +8076,7 @@
       "small": "https://images.pokemontcg.io/sv9/44.png",
       "large": "https://images.pokemontcg.io/sv9/44_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "44"
   },
@@ -7949,7 +8095,7 @@
       "small": "https://images.pokemontcg.io/sv9/101.png",
       "large": "https://images.pokemontcg.io/sv9/101_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "101"
   },
@@ -7968,7 +8114,7 @@
       "small": "https://images.pokemontcg.io/sv9/100.png",
       "large": "https://images.pokemontcg.io/sv9/100_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "100"
   },
@@ -7987,7 +8133,7 @@
       "small": "https://images.pokemontcg.io/sv9/76.png",
       "large": "https://images.pokemontcg.io/sv9/76_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "76"
   },
@@ -8006,7 +8152,7 @@
       "small": "https://images.pokemontcg.io/sv9/81.png",
       "large": "https://images.pokemontcg.io/sv9/81_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "81"
   },
@@ -8025,7 +8171,7 @@
       "small": "https://images.pokemontcg.io/sv9/86.png",
       "large": "https://images.pokemontcg.io/sv9/86_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "86"
   },
@@ -8044,7 +8190,7 @@
       "small": "https://images.pokemontcg.io/me1/37.png",
       "large": "https://images.pokemontcg.io/me1/37_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "37"
   },
@@ -8063,7 +8209,7 @@
       "small": "https://images.pokemontcg.io/me1/32.png",
       "large": "https://images.pokemontcg.io/me1/32_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "32"
   },
@@ -8082,7 +8228,7 @@
       "small": "https://images.pokemontcg.io/me1/5.png",
       "large": "https://images.pokemontcg.io/me1/5_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "5"
   },
@@ -8101,7 +8247,7 @@
       "small": "https://images.pokemontcg.io/me1/16.png",
       "large": "https://images.pokemontcg.io/me1/16_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "16"
   },
@@ -8120,7 +8266,7 @@
       "small": "https://images.pokemontcg.io/me1/13.png",
       "large": "https://images.pokemontcg.io/me1/13_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "13"
   },
@@ -8139,7 +8285,7 @@
       "small": "https://images.pokemontcg.io/me1/11.png",
       "large": "https://images.pokemontcg.io/me1/11_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "11"
   },
@@ -8158,7 +8304,7 @@
       "small": "https://images.pokemontcg.io/me1/15.png",
       "large": "https://images.pokemontcg.io/me1/15_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "15"
   },
@@ -8177,7 +8323,7 @@
       "small": "https://images.pokemontcg.io/me1/6.png",
       "large": "https://images.pokemontcg.io/me1/6_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "6"
   },
@@ -8196,7 +8342,7 @@
       "small": "https://images.pokemontcg.io/me1/109.png",
       "large": "https://images.pokemontcg.io/me1/109_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "109"
   },
@@ -8215,7 +8361,7 @@
       "small": "https://images.pokemontcg.io/me1/111.png",
       "large": "https://images.pokemontcg.io/me1/111_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "111"
   },
@@ -8234,7 +8380,7 @@
       "small": "https://images.pokemontcg.io/me1/65.png",
       "large": "https://images.pokemontcg.io/me1/65_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "65"
   },
@@ -8253,7 +8399,7 @@
       "small": "https://images.pokemontcg.io/me1/66.png",
       "large": "https://images.pokemontcg.io/me1/66_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "66"
   },
@@ -8272,7 +8418,7 @@
       "small": "https://images.pokemontcg.io/me1/58.png",
       "large": "https://images.pokemontcg.io/me1/58_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "58"
   },
@@ -8291,7 +8437,7 @@
       "small": "https://images.pokemontcg.io/me1/58.png",
       "large": "https://images.pokemontcg.io/me1/58_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "58"
   },
@@ -8310,7 +8456,7 @@
       "small": "https://images.pokemontcg.io/me1/132.png",
       "large": "https://images.pokemontcg.io/me1/132_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "132"
   },
@@ -8329,7 +8475,7 @@
       "small": "https://images.pokemontcg.io/me1/127.png",
       "large": "https://images.pokemontcg.io/me1/127_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "127"
   },
@@ -8348,7 +8494,7 @@
       "small": "https://images.pokemontcg.io/me1/118.png",
       "large": "https://images.pokemontcg.io/me1/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "118"
   },
@@ -8367,7 +8513,7 @@
       "small": "https://images.pokemontcg.io/me1/24.png",
       "large": "https://images.pokemontcg.io/me1/24_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "24"
   },
@@ -8386,7 +8532,7 @@
       "small": "https://images.pokemontcg.io/me1/29.png",
       "large": "https://images.pokemontcg.io/me1/29_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "29"
   },
@@ -8405,7 +8551,7 @@
       "small": "https://images.pokemontcg.io/me1/52.png",
       "large": "https://images.pokemontcg.io/me1/52_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "52"
   },
@@ -8424,7 +8570,7 @@
       "small": "https://images.pokemontcg.io/me1/47.png",
       "large": "https://images.pokemontcg.io/me1/47_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "47"
   },
@@ -8443,7 +8589,7 @@
       "small": "https://images.pokemontcg.io/me1/47.png",
       "large": "https://images.pokemontcg.io/me1/47_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "47"
   },
@@ -8462,7 +8608,7 @@
       "small": "https://images.pokemontcg.io/me1/47.png",
       "large": "https://images.pokemontcg.io/me1/47_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "47"
   },
@@ -8481,7 +8627,7 @@
       "small": "https://images.pokemontcg.io/me1/51.png",
       "large": "https://images.pokemontcg.io/me1/51_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "51"
   },
@@ -8500,7 +8646,7 @@
       "small": "https://images.pokemontcg.io/me1/51.png",
       "large": "https://images.pokemontcg.io/me1/51_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "51"
   },
@@ -8519,7 +8665,7 @@
       "small": "https://images.pokemontcg.io/me1/85.png",
       "large": "https://images.pokemontcg.io/me1/85_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "85"
   },
@@ -8538,7 +8684,7 @@
       "small": "https://images.pokemontcg.io/me1/90.png",
       "large": "https://images.pokemontcg.io/me1/90_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "90"
   },
@@ -8557,7 +8703,7 @@
       "small": "https://images.pokemontcg.io/me1/72.png",
       "large": "https://images.pokemontcg.io/me1/72_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "72"
   },
@@ -8576,7 +8722,7 @@
       "small": "https://images.pokemontcg.io/me1/72.png",
       "large": "https://images.pokemontcg.io/me1/72_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "72"
   },
@@ -8595,7 +8741,7 @@
       "small": "https://images.pokemontcg.io/me1/82.png",
       "large": "https://images.pokemontcg.io/me1/82_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "82"
   },
@@ -8614,7 +8760,7 @@
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "75"
   },
@@ -8633,7 +8779,7 @@
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "75"
   },
@@ -8652,7 +8798,7 @@
       "small": "https://images.pokemontcg.io/me1/75.png",
       "large": "https://images.pokemontcg.io/me1/75_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "75"
   },
@@ -9089,7 +9235,7 @@
       "small": "https://images.pokemontcg.io/me2/89.png",
       "large": "https://images.pokemontcg.io/me2/89_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "89"
   },
@@ -9108,7 +9254,7 @@
       "small": "https://images.pokemontcg.io/me2/88.png",
       "large": "https://images.pokemontcg.io/me2/88_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "88"
   },
@@ -9127,7 +9273,7 @@
       "small": "https://images.pokemontcg.io/me2/94.png",
       "large": "https://images.pokemontcg.io/me2/94_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "94"
   },
@@ -9887,7 +10033,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/78.png",
       "large": "https://images.pokemontcg.io/sv4pt5/78_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "78"
   },
@@ -9906,7 +10052,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/85.png",
       "large": "https://images.pokemontcg.io/sv4pt5/85_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "85"
   },
@@ -9925,7 +10071,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/80.png",
       "large": "https://images.pokemontcg.io/sv4pt5/80_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "80"
   },
@@ -9944,7 +10090,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/77.png",
       "large": "https://images.pokemontcg.io/sv4pt5/77_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "77"
   },
@@ -9963,7 +10109,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/76.png",
       "large": "https://images.pokemontcg.io/sv4pt5/76_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "76"
   },
@@ -9982,7 +10128,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/81.png",
       "large": "https://images.pokemontcg.io/sv4pt5/81_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "81"
   },
@@ -10001,7 +10147,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/83.png",
       "large": "https://images.pokemontcg.io/sv4pt5/83_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "83"
   },
@@ -10020,7 +10166,7 @@
       "small": "https://images.pokemontcg.io/sv4pt5/84.png",
       "large": "https://images.pokemontcg.io/sv4pt5/84_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "84"
   },
@@ -10286,7 +10432,7 @@
       "small": "https://images.pokemontcg.io/sv8/41.png",
       "large": "https://images.pokemontcg.io/sv8/41_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "41"
   },
@@ -10305,7 +10451,7 @@
       "small": "https://images.pokemontcg.io/sv8/53.png",
       "large": "https://images.pokemontcg.io/sv8/53_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "53"
   },
@@ -10324,7 +10470,7 @@
       "small": "https://images.pokemontcg.io/sv8/49.png",
       "large": "https://images.pokemontcg.io/sv8/49_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "49"
   },
@@ -10343,7 +10489,7 @@
       "small": "https://images.pokemontcg.io/sv8/55.png",
       "large": "https://images.pokemontcg.io/sv8/55_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "55"
   },
@@ -10362,7 +10508,7 @@
       "small": "https://images.pokemontcg.io/sv8/46.png",
       "large": "https://images.pokemontcg.io/sv8/46_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "46"
   },
@@ -10381,7 +10527,7 @@
       "small": "https://images.pokemontcg.io/sv8/44.png",
       "large": "https://images.pokemontcg.io/sv8/44_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "44"
   },
@@ -10400,7 +10546,7 @@
       "small": "https://images.pokemontcg.io/sv8/51.png",
       "large": "https://images.pokemontcg.io/sv8/51_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "51"
   },
@@ -10419,7 +10565,7 @@
       "small": "https://images.pokemontcg.io/sv8/52.png",
       "large": "https://images.pokemontcg.io/sv8/52_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "52"
   },
@@ -10438,7 +10584,7 @@
       "small": "https://images.pokemontcg.io/sv8/1.png",
       "large": "https://images.pokemontcg.io/sv8/1_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "1"
   },
@@ -10457,7 +10603,7 @@
       "small": "https://images.pokemontcg.io/sv8/2.png",
       "large": "https://images.pokemontcg.io/sv8/2_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "2"
   },
@@ -10476,7 +10622,7 @@
       "small": "https://images.pokemontcg.io/sv8/12.png",
       "large": "https://images.pokemontcg.io/sv8/12_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "12"
   },
@@ -10495,7 +10641,7 @@
       "small": "https://images.pokemontcg.io/sv8/9.png",
       "large": "https://images.pokemontcg.io/sv8/9_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "9"
   },
@@ -10514,7 +10660,7 @@
       "small": "https://images.pokemontcg.io/sv8/5.png",
       "large": "https://images.pokemontcg.io/sv8/5_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "5"
   },
@@ -10533,7 +10679,7 @@
       "small": "https://images.pokemontcg.io/sv8/6.png",
       "large": "https://images.pokemontcg.io/sv8/6_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "6"
   },
@@ -10552,7 +10698,7 @@
       "small": "https://images.pokemontcg.io/sv8/148.png",
       "large": "https://images.pokemontcg.io/sv8/148_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "148"
   },
@@ -10571,7 +10717,7 @@
       "small": "https://images.pokemontcg.io/sv8/148.png",
       "large": "https://images.pokemontcg.io/sv8/148_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "148"
   },
@@ -10590,7 +10736,7 @@
       "small": "https://images.pokemontcg.io/sv8/151.png",
       "large": "https://images.pokemontcg.io/sv8/151_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "151"
   },
@@ -10609,7 +10755,7 @@
       "small": "https://images.pokemontcg.io/sv8/156.png",
       "large": "https://images.pokemontcg.io/sv8/156_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "156"
   },
@@ -10628,7 +10774,7 @@
       "small": "https://images.pokemontcg.io/sv8/158.png",
       "large": "https://images.pokemontcg.io/sv8/158_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "158"
   },
@@ -10647,7 +10793,7 @@
       "small": "https://images.pokemontcg.io/sv8/154.png",
       "large": "https://images.pokemontcg.io/sv8/154_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "154"
   },
@@ -10666,7 +10812,7 @@
       "small": "https://images.pokemontcg.io/sv8/155.png",
       "large": "https://images.pokemontcg.io/sv8/155_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "155"
   },
@@ -10685,7 +10831,7 @@
       "small": "https://images.pokemontcg.io/sv8/131.png",
       "large": "https://images.pokemontcg.io/sv8/131_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "131"
   },
@@ -10704,7 +10850,7 @@
       "small": "https://images.pokemontcg.io/sv8/137.png",
       "large": "https://images.pokemontcg.io/sv8/137_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "137"
   },
@@ -10723,7 +10869,7 @@
       "small": "https://images.pokemontcg.io/sv8/95.png",
       "large": "https://images.pokemontcg.io/sv8/95_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "95"
   },
@@ -10742,7 +10888,7 @@
       "small": "https://images.pokemontcg.io/sv8/96.png",
       "large": "https://images.pokemontcg.io/sv8/96_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "96"
   },
@@ -10761,7 +10907,7 @@
       "small": "https://images.pokemontcg.io/sv8/87.png",
       "large": "https://images.pokemontcg.io/sv8/87_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "87"
   },
@@ -10780,7 +10926,7 @@
       "small": "https://images.pokemontcg.io/sv8/81.png",
       "large": "https://images.pokemontcg.io/sv8/81_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "81"
   },
@@ -10799,7 +10945,7 @@
       "small": "https://images.pokemontcg.io/sv8/90.png",
       "large": "https://images.pokemontcg.io/sv8/90_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "90"
   },
@@ -10818,7 +10964,7 @@
       "small": "https://images.pokemontcg.io/sv8/79.png",
       "large": "https://images.pokemontcg.io/sv8/79_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "79"
   },
@@ -10837,7 +10983,7 @@
       "small": "https://images.pokemontcg.io/sv8/84.png",
       "large": "https://images.pokemontcg.io/sv8/84_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "84"
   },
@@ -10856,7 +11002,7 @@
       "small": "https://images.pokemontcg.io/sv8/70.png",
       "large": "https://images.pokemontcg.io/sv8/70_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "70"
   },
@@ -10875,7 +11021,7 @@
       "small": "https://images.pokemontcg.io/sv8/77.png",
       "large": "https://images.pokemontcg.io/sv8/77_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "77"
   },
@@ -10894,7 +11040,7 @@
       "small": "https://images.pokemontcg.io/sv8/93.png",
       "large": "https://images.pokemontcg.io/sv8/93_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "93"
   },
@@ -10913,7 +11059,7 @@
       "small": "https://images.pokemontcg.io/sv8/82.png",
       "large": "https://images.pokemontcg.io/sv8/82_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "82"
   },
@@ -10932,7 +11078,7 @@
       "small": "https://images.pokemontcg.io/sv8/187.png",
       "large": "https://images.pokemontcg.io/sv8/187_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "187"
   },
@@ -10951,7 +11097,7 @@
       "small": "https://images.pokemontcg.io/sv8/178.png",
       "large": "https://images.pokemontcg.io/sv8/178_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "178"
   },
@@ -10970,7 +11116,7 @@
       "small": "https://images.pokemontcg.io/sv8/163.png",
       "large": "https://images.pokemontcg.io/sv8/163_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "163"
   },
@@ -10989,7 +11135,7 @@
       "small": "https://images.pokemontcg.io/sv8/180.png",
       "large": "https://images.pokemontcg.io/sv8/180_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "180"
   },
@@ -11008,7 +11154,7 @@
       "small": "https://images.pokemontcg.io/sv8/181.png",
       "large": "https://images.pokemontcg.io/sv8/181_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "181"
   },
@@ -11027,7 +11173,7 @@
       "small": "https://images.pokemontcg.io/sv8/172.png",
       "large": "https://images.pokemontcg.io/sv8/172_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "172"
   },
@@ -11046,7 +11192,7 @@
       "small": "https://images.pokemontcg.io/sv8/165.png",
       "large": "https://images.pokemontcg.io/sv8/165_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "165"
   },
@@ -11065,7 +11211,7 @@
       "small": "https://images.pokemontcg.io/sv8/169.png",
       "large": "https://images.pokemontcg.io/sv8/169_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "169"
   },
@@ -11084,7 +11230,7 @@
       "small": "https://images.pokemontcg.io/sv8/175.png",
       "large": "https://images.pokemontcg.io/sv8/175_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "175"
   },
@@ -11103,7 +11249,7 @@
       "small": "https://images.pokemontcg.io/sv8/171.png",
       "large": "https://images.pokemontcg.io/sv8/171_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "171"
   },
@@ -11122,7 +11268,7 @@
       "small": "https://images.pokemontcg.io/sv8/20.png",
       "large": "https://images.pokemontcg.io/sv8/20_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "20"
   },
@@ -11141,7 +11287,7 @@
       "small": "https://images.pokemontcg.io/sv8/34.png",
       "large": "https://images.pokemontcg.io/sv8/34_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "34"
   },
@@ -11160,7 +11306,7 @@
       "small": "https://images.pokemontcg.io/sv8/35.png",
       "large": "https://images.pokemontcg.io/sv8/35_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "35"
   },
@@ -11179,7 +11325,7 @@
       "small": "https://images.pokemontcg.io/sv8/19.png",
       "large": "https://images.pokemontcg.io/sv8/19_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "19"
   },
@@ -11198,7 +11344,7 @@
       "small": "https://images.pokemontcg.io/sv8/19.png",
       "large": "https://images.pokemontcg.io/sv8/19_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "19"
   },
@@ -11217,7 +11363,7 @@
       "small": "https://images.pokemontcg.io/sv8/17.png",
       "large": "https://images.pokemontcg.io/sv8/17_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "17"
   },
@@ -11236,7 +11382,7 @@
       "small": "https://images.pokemontcg.io/sv8/21.png",
       "large": "https://images.pokemontcg.io/sv8/21_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "21"
   },
@@ -11255,7 +11401,7 @@
       "small": "https://images.pokemontcg.io/sv8/22.png",
       "large": "https://images.pokemontcg.io/sv8/22_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "22"
   },
@@ -11274,7 +11420,7 @@
       "small": "https://images.pokemontcg.io/sv8/27.png",
       "large": "https://images.pokemontcg.io/sv8/27_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "27"
   },
@@ -11293,7 +11439,7 @@
       "small": "https://images.pokemontcg.io/sv8/16.png",
       "large": "https://images.pokemontcg.io/sv8/16_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "16"
   },
@@ -11312,7 +11458,7 @@
       "small": "https://images.pokemontcg.io/sv8/58.png",
       "large": "https://images.pokemontcg.io/sv8/58_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "58"
   },
@@ -11331,7 +11477,7 @@
       "small": "https://images.pokemontcg.io/sv8/59.png",
       "large": "https://images.pokemontcg.io/sv8/59_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "59"
   },
@@ -11350,7 +11496,7 @@
       "small": "https://images.pokemontcg.io/sv8/67.png",
       "large": "https://images.pokemontcg.io/sv8/67_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "67"
   },
@@ -11369,7 +11515,7 @@
       "small": "https://images.pokemontcg.io/sv8/61.png",
       "large": "https://images.pokemontcg.io/sv8/61_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "61"
   },
@@ -11388,7 +11534,7 @@
       "small": "https://images.pokemontcg.io/sv8/61.png",
       "large": "https://images.pokemontcg.io/sv8/61_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "61"
   },
@@ -11407,7 +11553,7 @@
       "small": "https://images.pokemontcg.io/sv8/64.png",
       "large": "https://images.pokemontcg.io/sv8/64_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "64"
   },
@@ -11426,7 +11572,7 @@
       "small": "https://images.pokemontcg.io/sv8/66.png",
       "large": "https://images.pokemontcg.io/sv8/66_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "66"
   },
@@ -11445,7 +11591,7 @@
       "small": "https://images.pokemontcg.io/sv8/117.png",
       "large": "https://images.pokemontcg.io/sv8/117_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "117"
   },
@@ -11464,7 +11610,7 @@
       "small": "https://images.pokemontcg.io/sv8/118.png",
       "large": "https://images.pokemontcg.io/sv8/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "118"
   },
@@ -11483,7 +11629,7 @@
       "small": "https://images.pokemontcg.io/sv8/121.png",
       "large": "https://images.pokemontcg.io/sv8/121_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "121"
   },
@@ -11502,7 +11648,7 @@
       "small": "https://images.pokemontcg.io/sv8/112.png",
       "large": "https://images.pokemontcg.io/sv8/112_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "112"
   },
@@ -11521,7 +11667,7 @@
       "small": "https://images.pokemontcg.io/sv8/114.png",
       "large": "https://images.pokemontcg.io/sv8/114_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "114"
   },
@@ -11540,7 +11686,7 @@
       "small": "https://images.pokemontcg.io/sv8/103.png",
       "large": "https://images.pokemontcg.io/sv8/103_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "103"
   },
@@ -11559,7 +11705,7 @@
       "small": "https://images.pokemontcg.io/sv8/109.png",
       "large": "https://images.pokemontcg.io/sv8/109_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "109"
   },
@@ -11578,7 +11724,7 @@
       "small": "https://images.pokemontcg.io/sv8/116.png",
       "large": "https://images.pokemontcg.io/sv8/116_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "116"
   },
@@ -11597,7 +11743,7 @@
       "small": "https://images.pokemontcg.io/sv8/116.png",
       "large": "https://images.pokemontcg.io/sv8/116_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "116"
   },
@@ -11616,7 +11762,7 @@
       "small": "https://images.pokemontcg.io/sv8/98.png",
       "large": "https://images.pokemontcg.io/sv8/98_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "98"
   },
@@ -11635,7 +11781,7 @@
       "small": "https://images.pokemontcg.io/sv8/98.png",
       "large": "https://images.pokemontcg.io/sv8/98_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "98"
   },
@@ -11654,7 +11800,7 @@
       "small": "https://images.pokemontcg.io/sv8/101.png",
       "large": "https://images.pokemontcg.io/sv8/101_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "101"
   },
@@ -11673,7 +11819,7 @@
       "small": "https://images.pokemontcg.io/sv7/34.png",
       "large": "https://images.pokemontcg.io/sv7/34_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "34"
   },
@@ -11692,7 +11838,7 @@
       "small": "https://images.pokemontcg.io/sv7/34.png",
       "large": "https://images.pokemontcg.io/sv7/34_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "34"
   },
@@ -11711,7 +11857,7 @@
       "small": "https://images.pokemontcg.io/sv7/35.png",
       "large": "https://images.pokemontcg.io/sv7/35_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "35"
   },
@@ -11730,7 +11876,7 @@
       "small": "https://images.pokemontcg.io/sv7/39.png",
       "large": "https://images.pokemontcg.io/sv7/39_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "39"
   },
@@ -11749,7 +11895,7 @@
       "small": "https://images.pokemontcg.io/sv7/40.png",
       "large": "https://images.pokemontcg.io/sv7/40_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "40"
   },
@@ -11768,7 +11914,7 @@
       "small": "https://images.pokemontcg.io/sv7/31.png",
       "large": "https://images.pokemontcg.io/sv7/31_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "31"
   },
@@ -11787,7 +11933,7 @@
       "small": "https://images.pokemontcg.io/sv7/40.png",
       "large": "https://images.pokemontcg.io/sv7/40_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "40"
   },
@@ -11806,7 +11952,7 @@
       "small": "https://images.pokemontcg.io/sv7/45.png",
       "large": "https://images.pokemontcg.io/sv7/45_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "45"
   },
@@ -11825,7 +11971,7 @@
       "small": "https://images.pokemontcg.io/sv7/45.png",
       "large": "https://images.pokemontcg.io/sv7/45_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "45"
   },
@@ -11844,7 +11990,7 @@
       "small": "https://images.pokemontcg.io/sv7/37.png",
       "large": "https://images.pokemontcg.io/sv7/37_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "37"
   },
@@ -11863,7 +12009,7 @@
       "small": "https://images.pokemontcg.io/sv7/7.png",
       "large": "https://images.pokemontcg.io/sv7/7_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "7"
   },
@@ -11882,7 +12028,7 @@
       "small": "https://images.pokemontcg.io/sv7/11.png",
       "large": "https://images.pokemontcg.io/sv7/11_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "11"
   },
@@ -11901,7 +12047,7 @@
       "small": "https://images.pokemontcg.io/sv7/11.png",
       "large": "https://images.pokemontcg.io/sv7/11_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "11"
   },
@@ -11920,7 +12066,7 @@
       "small": "https://images.pokemontcg.io/sv7/10.png",
       "large": "https://images.pokemontcg.io/sv7/10_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "10"
   },
@@ -11939,7 +12085,7 @@
       "small": "https://images.pokemontcg.io/sv7/2.png",
       "large": "https://images.pokemontcg.io/sv7/2_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "2"
   },
@@ -11958,7 +12104,7 @@
       "small": "https://images.pokemontcg.io/sv7/8.png",
       "large": "https://images.pokemontcg.io/sv7/8_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "8"
   },
@@ -11977,7 +12123,7 @@
       "small": "https://images.pokemontcg.io/sv7/8.png",
       "large": "https://images.pokemontcg.io/sv7/8_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "8"
   },
@@ -11996,7 +12142,7 @@
       "small": "https://images.pokemontcg.io/sv7/15.png",
       "large": "https://images.pokemontcg.io/sv7/15_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "15"
   },
@@ -12015,7 +12161,7 @@
       "small": "https://images.pokemontcg.io/sv7/15.png",
       "large": "https://images.pokemontcg.io/sv7/15_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "15"
   },
@@ -12034,7 +12180,7 @@
       "small": "https://images.pokemontcg.io/sv7/18.png",
       "large": "https://images.pokemontcg.io/sv7/18_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "18"
   },
@@ -12053,7 +12199,7 @@
       "small": "https://images.pokemontcg.io/sv7/2.png",
       "large": "https://images.pokemontcg.io/sv7/2_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "2"
   },
@@ -12072,7 +12218,7 @@
       "small": "https://images.pokemontcg.io/sv7/117.png",
       "large": "https://images.pokemontcg.io/sv7/117_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "117"
   },
@@ -12091,7 +12237,7 @@
       "small": "https://images.pokemontcg.io/sv7/118.png",
       "large": "https://images.pokemontcg.io/sv7/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "118"
   },
@@ -12110,7 +12256,7 @@
       "small": "https://images.pokemontcg.io/sv7/122.png",
       "large": "https://images.pokemontcg.io/sv7/122_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "122"
   },
@@ -12129,7 +12275,7 @@
       "small": "https://images.pokemontcg.io/sv7/106.png",
       "large": "https://images.pokemontcg.io/sv7/106_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "106"
   },
@@ -12148,7 +12294,7 @@
       "small": "https://images.pokemontcg.io/sv7/127.png",
       "large": "https://images.pokemontcg.io/sv7/127_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "127"
   },
@@ -12167,7 +12313,7 @@
       "small": "https://images.pokemontcg.io/sv7/118.png",
       "large": "https://images.pokemontcg.io/sv7/118_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "118"
   },
@@ -12186,7 +12332,7 @@
       "small": "https://images.pokemontcg.io/sv7/109.png",
       "large": "https://images.pokemontcg.io/sv7/109_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "109"
   },
@@ -12205,7 +12351,7 @@
       "small": "https://images.pokemontcg.io/sv7/109.png",
       "large": "https://images.pokemontcg.io/sv7/109_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "109"
   },
@@ -12224,7 +12370,7 @@
       "small": "https://images.pokemontcg.io/sv7/103.png",
       "large": "https://images.pokemontcg.io/sv7/103_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "103"
   },
@@ -12243,7 +12389,7 @@
       "small": "https://images.pokemontcg.io/sv7/100.png",
       "large": "https://images.pokemontcg.io/sv7/100_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "100"
   },
@@ -12262,7 +12408,7 @@
       "small": "https://images.pokemontcg.io/sv7/60.png",
       "large": "https://images.pokemontcg.io/sv7/60_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "60"
   },
@@ -12281,7 +12427,7 @@
       "small": "https://images.pokemontcg.io/sv7/62.png",
       "large": "https://images.pokemontcg.io/sv7/62_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "62"
   },
@@ -12300,7 +12446,7 @@
       "small": "https://images.pokemontcg.io/sv7/62.png",
       "large": "https://images.pokemontcg.io/sv7/62_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "62"
   },
@@ -12319,7 +12465,7 @@
       "small": "https://images.pokemontcg.io/sv7/57.png",
       "large": "https://images.pokemontcg.io/sv7/57_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "57"
   },
@@ -12338,7 +12484,7 @@
       "small": "https://images.pokemontcg.io/sv7/70.png",
       "large": "https://images.pokemontcg.io/sv7/70_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "70"
   },
@@ -12357,7 +12503,7 @@
       "small": "https://images.pokemontcg.io/sv7/137.png",
       "large": "https://images.pokemontcg.io/sv7/137_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "137"
   },
@@ -12376,7 +12522,7 @@
       "small": "https://images.pokemontcg.io/sv7/137.png",
       "large": "https://images.pokemontcg.io/sv7/137_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "137"
   },
@@ -12395,7 +12541,7 @@
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "132"
   },
@@ -12414,7 +12560,7 @@
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "132"
   },
@@ -12433,7 +12579,7 @@
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "132"
   },
@@ -12452,7 +12598,7 @@
       "small": "https://images.pokemontcg.io/sv7/132.png",
       "large": "https://images.pokemontcg.io/sv7/132_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "132"
   },
@@ -12471,7 +12617,7 @@
       "small": "https://images.pokemontcg.io/sv7/129.png",
       "large": "https://images.pokemontcg.io/sv7/129_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "129"
   },
@@ -12490,7 +12636,7 @@
       "small": "https://images.pokemontcg.io/sv7/29.png",
       "large": "https://images.pokemontcg.io/sv7/29_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "29"
   },
@@ -12509,7 +12655,7 @@
       "small": "https://images.pokemontcg.io/sv7/19.png",
       "large": "https://images.pokemontcg.io/sv7/19_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "19"
   },
@@ -12528,7 +12674,7 @@
       "small": "https://images.pokemontcg.io/sv7/22.png",
       "large": "https://images.pokemontcg.io/sv7/22_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "22"
   },
@@ -12547,7 +12693,7 @@
       "small": "https://images.pokemontcg.io/sv7/22.png",
       "large": "https://images.pokemontcg.io/sv7/22_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "22"
   },
@@ -12566,7 +12712,7 @@
       "small": "https://images.pokemontcg.io/sv7/26.png",
       "large": "https://images.pokemontcg.io/sv7/26_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "26"
   },
@@ -12585,7 +12731,7 @@
       "small": "https://images.pokemontcg.io/sv7/24.png",
       "large": "https://images.pokemontcg.io/sv7/24_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "24"
   },
@@ -12604,7 +12750,7 @@
       "small": "https://images.pokemontcg.io/sv7/25.png",
       "large": "https://images.pokemontcg.io/sv7/25_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "25"
   },
@@ -12623,7 +12769,7 @@
       "small": "https://images.pokemontcg.io/sv7/48.png",
       "large": "https://images.pokemontcg.io/sv7/48_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "48"
   },
@@ -12642,7 +12788,7 @@
       "small": "https://images.pokemontcg.io/sv7/49.png",
       "large": "https://images.pokemontcg.io/sv7/49_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "49"
   },
@@ -12661,7 +12807,7 @@
       "small": "https://images.pokemontcg.io/sv7/50.png",
       "large": "https://images.pokemontcg.io/sv7/50_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "50"
   },
@@ -12680,7 +12826,7 @@
       "small": "https://images.pokemontcg.io/sv7/49.png",
       "large": "https://images.pokemontcg.io/sv7/49_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "49"
   },
@@ -12699,7 +12845,7 @@
       "small": "https://images.pokemontcg.io/sv7/54.png",
       "large": "https://images.pokemontcg.io/sv7/54_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "54"
   },
@@ -12718,7 +12864,7 @@
       "small": "https://images.pokemontcg.io/sv7/54.png",
       "large": "https://images.pokemontcg.io/sv7/54_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "54"
   },
@@ -12737,7 +12883,7 @@
       "small": "https://images.pokemontcg.io/sv7/48.png",
       "large": "https://images.pokemontcg.io/sv7/48_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "48"
   },
@@ -12756,7 +12902,7 @@
       "small": "https://images.pokemontcg.io/sv7/91.png",
       "large": "https://images.pokemontcg.io/sv7/91_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "91"
   },
@@ -12775,7 +12921,7 @@
       "small": "https://images.pokemontcg.io/sv7/97.png",
       "large": "https://images.pokemontcg.io/sv7/97_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "97"
   },
@@ -12794,7 +12940,7 @@
       "small": "https://images.pokemontcg.io/sv7/94.png",
       "large": "https://images.pokemontcg.io/sv7/94_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "94"
   },
@@ -12813,7 +12959,7 @@
       "small": "https://images.pokemontcg.io/sv7/95.png",
       "large": "https://images.pokemontcg.io/sv7/95_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "95"
   },
@@ -12832,7 +12978,7 @@
       "small": "https://images.pokemontcg.io/sv7/92.png",
       "large": "https://images.pokemontcg.io/sv7/92_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "92"
   },
@@ -12851,7 +12997,7 @@
       "small": "https://images.pokemontcg.io/sv7/92.png",
       "large": "https://images.pokemontcg.io/sv7/92_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "92"
   },
@@ -12870,7 +13016,7 @@
       "small": "https://images.pokemontcg.io/sv7/90.png",
       "large": "https://images.pokemontcg.io/sv7/90_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "90"
   },
@@ -12889,7 +13035,7 @@
       "small": "https://images.pokemontcg.io/sv7/90.png",
       "large": "https://images.pokemontcg.io/sv7/90_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "90"
   },
@@ -12908,7 +13054,7 @@
       "small": "https://images.pokemontcg.io/sv7/72.png",
       "large": "https://images.pokemontcg.io/sv7/72_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "72"
   },
@@ -12927,7 +13073,7 @@
       "small": "https://images.pokemontcg.io/sv7/73.png",
       "large": "https://images.pokemontcg.io/sv7/73_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "73"
   },
@@ -12946,7 +13092,7 @@
       "small": "https://images.pokemontcg.io/sv7/73.png",
       "large": "https://images.pokemontcg.io/sv7/73_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "73"
   },
@@ -12965,7 +13111,7 @@
       "small": "https://images.pokemontcg.io/sv7/83.png",
       "large": "https://images.pokemontcg.io/sv7/83_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "83"
   },
@@ -12984,7 +13130,7 @@
       "small": "https://images.pokemontcg.io/sv7/83.png",
       "large": "https://images.pokemontcg.io/sv7/83_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "83"
   },
@@ -13003,7 +13149,7 @@
       "small": "https://images.pokemontcg.io/sv7/84.png",
       "large": "https://images.pokemontcg.io/sv7/84_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "84"
   },
@@ -13022,7 +13168,7 @@
       "small": "https://images.pokemontcg.io/sv7/85.png",
       "large": "https://images.pokemontcg.io/sv7/85_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "85"
   },
@@ -14276,7 +14422,7 @@
       "small": "https://images.pokemontcg.io/sv3/194.png",
       "large": "https://images.pokemontcg.io/sv3/194_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "194"
   },
@@ -14295,7 +14441,7 @@
       "small": "https://images.pokemontcg.io/sv3/196.png",
       "large": "https://images.pokemontcg.io/sv3/196_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "196"
   },
@@ -14314,7 +14460,7 @@
       "small": "https://images.pokemontcg.io/sv3/187.png",
       "large": "https://images.pokemontcg.io/sv3/187_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Uncommon",
     "number": "187"
   },
@@ -14333,7 +14479,7 @@
       "small": "https://images.pokemontcg.io/sv3/194.png",
       "large": "https://images.pokemontcg.io/sv3/194_hires.png"
     },
-    "flavorText": "Sin descripción disponible.",
+    "flavorText": "Sin descripción.",
     "rarity": "Common",
     "number": "194"
   },
@@ -15077,5 +15223,404 @@
     "flavorText": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
     "rarity": "Uncommon",
     "number": "119"
+  },
+  {
+    "Numero": 2,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Heracross",
+    "Tipo": "Planta",
+    "id": "sv1-2",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/2.png",
+      "large": "https://images.pokemontcg.io/sv1/2_hires.png"
+    },
+    "flavorText": "With its herculean powers, it can easily throw around an object that is 100 times its own weight.",
+    "rarity": "Uncommon",
+    "number": "2"
+  },
+  {
+    "Numero": 6,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Cacturne",
+    "Tipo": "Planta",
+    "id": "sv1-6",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/6.png",
+      "large": "https://images.pokemontcg.io/sv1/6_hires.png"
+    },
+    "flavorText": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+    "rarity": "Uncommon",
+    "number": "6"
+  },
+  {
+    "Numero": 44,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Magikarp",
+    "Tipo": "Agua",
+    "id": "sv1-44",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/44.png",
+      "large": "https://images.pokemontcg.io/sv1/44_hires.png"
+    },
+    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "rarity": "Common",
+    "number": "44"
+  },
+  {
+    "Numero": 18,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Tarountula",
+    "Tipo": "Planta",
+    "id": "sv1-18",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/18.png",
+      "large": "https://images.pokemontcg.io/sv1/18_hires.png"
+    },
+    "flavorText": "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research.",
+    "rarity": "Common",
+    "number": "18"
+  },
+  {
+    "Numero": 160,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Tandemaus",
+    "Tipo": "Normal",
+    "id": "sv1-160",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/160.png",
+      "large": "https://images.pokemontcg.io/sv1/160_hires.png"
+    },
+    "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+    "rarity": "Common",
+    "number": "160"
+  },
+  {
+    "Numero": 161,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Maushold",
+    "Tipo": "Normal",
+    "id": "sv1-161",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/161.png",
+      "large": "https://images.pokemontcg.io/sv1/161_hires.png"
+    },
+    "flavorText": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.",
+    "rarity": "Uncommon",
+    "number": "161"
+  },
+  {
+    "Numero": 141,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Varoom",
+    "Tipo": "Acero",
+    "id": "sv1-141",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/141.png",
+      "large": "https://images.pokemontcg.io/sv1/141_hires.png"
+    },
+    "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "rarity": "Common",
+    "number": "141"
+  },
+  {
+    "Numero": 92,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Floette",
+    "Tipo": "Psíquico",
+    "id": "sv1-92",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/92.png",
+      "large": "https://images.pokemontcg.io/sv1/92_hires.png"
+    },
+    "flavorText": "This Pokémon uses red wavelengths of light to pour its own energy into flowers and draw forth their latent potential.",
+    "rarity": "Common",
+    "number": "92"
+  },
+  {
+    "Numero": 197,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Vitality Band",
+    "Tipo": "Normal",
+    "id": "sv1-197",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/197.png",
+      "large": "https://images.pokemontcg.io/sv1/197_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "number": "197"
+  },
+  {
+    "Numero": 194,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "number": "194"
+  },
+  {
+    "Numero": 194,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "number": "194"
+  },
+  {
+    "Numero": 194,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Switch",
+    "Tipo": "Normal",
+    "id": "sv1-194",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/194.png",
+      "large": "https://images.pokemontcg.io/sv1/194_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "number": "194"
+  },
+  {
+    "Numero": 171,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Energy Retrieval",
+    "Tipo": "Normal",
+    "id": "sv1-171",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/171.png",
+      "large": "https://images.pokemontcg.io/sv1/171_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "number": "171"
+  },
+  {
+    "Numero": 190,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Professor's Research (Professor Turo)",
+    "Tipo": "Normal",
+    "id": "sv1-190",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/190.png",
+      "large": "https://images.pokemontcg.io/sv1/190_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Rare",
+    "number": "190"
+  },
+  {
+    "Numero": 179,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Miriam",
+    "Tipo": "Normal",
+    "id": "sv1-179",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/179.png",
+      "large": "https://images.pokemontcg.io/sv1/179_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "number": "179"
+  },
+  {
+    "Numero": 178,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Mesagoza",
+    "Tipo": "Normal",
+    "id": "sv1-178",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/178.png",
+      "large": "https://images.pokemontcg.io/sv1/178_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "number": "178"
+  },
+  {
+    "Numero": 175,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Jacq",
+    "Tipo": "Normal",
+    "id": "sv1-175",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/175.png",
+      "large": "https://images.pokemontcg.io/sv1/175_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Uncommon",
+    "number": "175"
+  },
+  {
+    "Numero": 171,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Energy Retrieval",
+    "Tipo": "Normal",
+    "id": "sv1-171",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/171.png",
+      "large": "https://images.pokemontcg.io/sv1/171_hires.png"
+    },
+    "flavorText": "Sin descripción.",
+    "rarity": "Common",
+    "number": "171"
+  },
+  {
+    "Numero": 63,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Magnemite",
+    "Tipo": "Eléctrico",
+    "id": "sv1-63",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/63.png",
+      "large": "https://images.pokemontcg.io/sv1/63_hires.png"
+    },
+    "flavorText": "It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides.",
+    "rarity": "Common",
+    "number": "63"
+  },
+  {
+    "Numero": 74,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Pawmi",
+    "Tipo": "Eléctrico",
+    "id": "sv1-74",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/74.png",
+      "large": "https://images.pokemontcg.io/sv1/74_hires.png"
+    },
+    "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "rarity": "Common",
+    "number": "74"
+  },
+  {
+    "Numero": 72,
+    "Expansión": "sv1",
+    "Idioma": "EN",
+    "Precio": 1500,
+    "Stock": 1,
+    "Estado": "Mint",
+    "Categoria": "Normal",
+    "Nombre": "Toxtricity",
+    "Tipo": "Eléctrico",
+    "id": "sv1-72",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv1/72.png",
+      "large": "https://images.pokemontcg.io/sv1/72_hires.png"
+    },
+    "flavorText": "The jolts of electricity it launches by violently strumming the protrusions on its chest easily exceed 15,000 volts.",
+    "rarity": "Uncommon",
+    "number": "72"
   }
 ]

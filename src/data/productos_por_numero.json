@@ -5740,5 +5740,26 @@
         "Stock": 1,
         "Estado": "Mint",
         "Categoria": "Normal"
-      }
+      },
+      {"Numero": 2, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 6, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 44, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 18, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 160, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 161, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 141, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 92, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 197, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 194, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 194, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 194, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 171, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 190, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 179, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 178, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 175, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 171, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 63, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 74, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"},
+      {"Numero": 72, "Expansión": "sv1", "Idioma": "EN", "Precio": 1500, "Stock": 1, "Estado": "Mint", "Categoria": "Normal"}
 ]
