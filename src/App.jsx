@@ -4,21 +4,21 @@ import stockReal from './data/stock_final.json'
 
 // Diccionario para transformar abreviaturas en nombres legibles
 const SET_NAMES = {
-  "PAF": "PAF - Paldean Fates",
-  "MEG": "MEG - Mega Evolution",
-  "PFL": "PFL - Phantasmal Flames",
-  "JTG": "JTG - Journey Together",
-  "ASC": "ASC - Ascended Heroes",
-  "SSP": "SSP - Surging Sparks",
-  "SCR": "SCR - Stellar Crown",
-  "PAR": "PAR - Paradox Rift",
-  "TWM": "TWM - Twilight Masquerade",
-  "OBF": "OBF - Obsidian Flames",
-  "PAL": "PAL - Paldea Evolved",
-  "DRI": "DRI - Destined Rivals",
-  "TEF": "TEF - Temporal Forces",
-  "SVI": "SVI - Scarlet & Violet Base",
-  "F": "F - Silver Tempest"
+  "PAF": "Paldean Fates",
+  "MEG": "Mega Evolution",
+  "PFL": "Phantasmal Flames",
+  "JTG": "Journey Together",
+  "ASC": "Ascended Heroes",
+  "SSP": "Surging Sparks",
+  "SCR": "Stellar Crown",
+  "PAR": "Paradox Rift",
+  "TWM": "Twilight Masquerade",
+  "OBF": "Obsidian Flames",
+  "PAL": "Paldea Evolved",
+  "DRI": "Destined Rivals",
+  "TEF": "Temporal Forces",
+  "SVI": "Scarlet & Violet Base",
+  "F": "Silver Tempest"
 };
 
 function App() {
@@ -29,13 +29,15 @@ function App() {
   const [selectedCard, setSelectedCard] = useState(null)
   const [visibleCount, setVisibleCount] = useState(40)
   
+  // Filtros seleccionados
   const [selectedSet, setSelectedSet] = useState("Todos")
   const [selectedType, setSelectedType] = useState("Todos")
   const [selectedCategory, setSelectedCategory] = useState("Todos")
 
   const [inventory, setInventory] = useState(stockReal)
 
-  // --- LÓGICA PARA OBTENER VALORES ÚNICOS ---
+  // --- LÓGICA PARA OBTENER VALORES ÚNICOS (Para los selectores) ---
+  // Esto hace que los filtros se actualicen solos según tu stock
   const setsOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Expansión))], [inventory]);
   const typesOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Tipo))], [inventory]);
   const categoriesOptions = useMemo(() => ["Todos", ...new Set(inventory.map(c => c.Categoria))], [inventory]);
@@ -68,6 +70,7 @@ function App() {
 
   const finalizarPedido = () => {
     const nro = "5493562671975"
+    // let msg = `¡Hola PokeKiosco! 👋 Pedido:\n\n${cart.map(i => `- ${i.Nombre} (${SET_NAMES[i.Expansión] || i.Expansión}) [${i.Categoria}]`).join('\n')}\n\n*Total: $${total}*`
     let msg = `¡Hola PokeKiosco! 👋 Pedido:\n\n${cart.map(i => `- ${i.Nombre} (${SET_NAMES[i.Expansión] || i.Expansión}) [${i.Categoria}]`).join('\n')}\n\n*Total: $${total}*`
     window.open(`https://wa.me/${nro}?text=${encodeURIComponent(msg)}`)
   }
@@ -80,35 +83,37 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <h1 className="text-white text-3xl font-black italic tracking-tighter">POKEKIOSCO</h1>
             
+            {/* Buscador Principal */}
             <div className="relative w-full md:w-1/2">
               <input 
                 type="text" 
                 placeholder="¿Qué carta buscás?..." 
-                className="w-full py-3 px-12 rounded-full border-none shadow-lg focus:ring-4 focus:ring-yellow-400 outline-none text-black font-medium"
+                className="w-full py-3 px-12 rounded-full border-none shadow-lg focus:ring-4 focus:ring-yellow-400 outline-none text-black"
                 onChange={(e) => { setSearchTerm(e.target.value); setVisibleCount(40); }}
               />
               <Search className="absolute left-4 top-3.5 text-slate-400" size={24} />
             </div>
 
-            <button onClick={() => setIsCartOpen(true)} className="flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-red-700 px-6 py-3 rounded-full font-bold shadow-lg transition-transform active:scale-95">
+            <button onClick={() => setIsCartOpen(true)} className="flex items-center gap-2 bg-yellow-400 text-red-700 px-6 py-3 rounded-full font-bold shadow-lg">
               <ShoppingCart size={24} />
-              <span className="bg-red-600 text-white px-2 rounded-full text-sm font-black">{cart.length}</span>
+              <span className="bg-red-600 text-white px-2 rounded-full text-sm">{cart.length}</span>
             </button>
           </div>
 
-          {/* BARRA DE FILTROS ACTUALIZADA */}
+          {/* BARRA DE FILTROS */}
           <div className="flex flex-wrap items-center justify-center gap-3 bg-red-700/50 p-2 rounded-2xl">
-            <div className="flex items-center gap-2 text-white/80 text-xs font-bold mr-2 uppercase tracking-wider">
-              <Filter size={14} /> Filtrar:
+            <div className="flex items-center gap-2 text-white/80 text-xs font-bold mr-2">
+              <Filter size={14} /> FILTRAR POR:
             </div>
             
             {/* Selector de COLECCIÓN (Traducido) */}
             <select 
               value={selectedSet}
               onChange={(e) => setSelectedSet(e.target.value)}
-              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50 shadow-sm min-w-[140px]"
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
             >
-              <option value="Todos">Todas las Colecciones</option>
+              <option disabled>Colección</option>
+              {/* {setsOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)} */}
               {setsOptions.filter(opt => opt !== "Todos").map(opt => (
                 <option key={opt} value={opt}>
                   {SET_NAMES[opt] || opt} {/* Muestra el nombre largo o el código si no existe en el mapa */}
@@ -120,38 +125,36 @@ function App() {
             <select 
               value={selectedType}
               onChange={(e) => setSelectedType(e.target.value)}
-              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50 shadow-sm"
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
             >
-              <option value="Todos">Todos los Tipos</option>
-              {typesOptions.filter(opt => opt !== "Todos").map(opt => <option key={opt} value={opt}>{opt}</option>)}
+              <option disabled>Tipo de Energía</option>
+              {typesOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)}
             </select>
 
-            {/* Selector de CATEGORIA */}
+            {/* Selector de CATEGORIA (Holo/Reverse) */}
             <select 
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
-              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50 shadow-sm"
+              className="bg-white text-slate-800 text-xs font-bold py-2 px-4 rounded-lg outline-none cursor-pointer hover:bg-yellow-50"
             >
-              <option value="Todos">Cualquier Estilo</option>
-              {categoriesOptions.filter(opt => opt !== "Todos").map(opt => <option key={opt} value={opt}>{opt}</option>)}
+              <option disabled>Estilo</option>
+              {categoriesOptions.map(opt => <option key={opt} value={opt}>{opt}</option>)}
             </select>
 
             {/* Botón resetear */}
             {(selectedSet !== "Todos" || selectedType !== "Todos" || selectedCategory !== "Todos") && (
               <button 
                 onClick={() => { setSelectedSet("Todos"); setSelectedType("Todos"); setSelectedCategory("Todos"); }}
-                className="text-white hover:text-yellow-400 text-[10px] font-black underline uppercase ml-2"
+                className="text-white hover:text-yellow-400 text-[10px] font-black underline uppercase"
               >
-                Limpiar
+                Limpiar Filtros
               </button>
             )}
           </div>
         </div>
       </nav>
 
-      {/* ... Resto del componente (Main, Cart, Detail) se mantiene igual ... */}
-      {/* (Asegúrate de copiar el resto del código que ya tenías debajo) */}
-
+      {/* MAIN CONTENT */}
       <main className="max-w-7xl mx-auto p-6">
         <div className="flex items-center justify-between mb-8 border-b-4 border-red-600 pb-2">
           <div className="flex items-center gap-2">
@@ -162,6 +165,7 @@ function App() {
           </div>
         </div>
 
+        {/* GRILLA */}
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
           {filteredCards.slice(0, visibleCount).map((card, index) => {
             const hasStock = card.Stock > 0;
@@ -202,15 +206,117 @@ function App() {
 
         {filteredCards.length > visibleCount && (
           <div className="flex justify-center mt-12">
-             <button onClick={() => setVisibleCount(prev => prev + 40)} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black transition-colors">
+             <button onClick={() => setVisibleCount(prev => prev + 40)} className="bg-slate-800 text-white px-8 py-3 rounded-full font-bold hover:bg-black">
                Ver más resultados
              </button>
           </div>
         )}
       </main>
 
-      {/* MODAL DETALLE Y CARRITO (Incluidos para que no falte nada) */}
-      {/* ... [Aquí van tus modales de Carrito y Detalle que ya tenías] ... */}
+      {/* 1. CARRITO LATERAL */}
+      {isCartOpen && (
+        <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-[100] flex justify-end">
+          <div className="bg-white w-full max-w-md h-full shadow-2xl flex flex-col animate-slide-in">
+            <div className="p-6 bg-red-600 text-white flex justify-between items-center">
+              <h3 className="text-xl font-bold flex items-center gap-2">
+                <ShoppingCart /> Mi Pedido
+              </h3>
+              <button onClick={() => setIsCartOpen(false)}><X size={30}/></button>
+            </div>
+            <div className="flex-1 overflow-y-auto p-4 space-y-4">
+              {cart.map((item, index) => (
+                <div key={index} className="flex gap-4 bg-slate-50 p-3 rounded-xl border border-slate-200">
+                  <img src={item.images?.small} className="w-12 h-16 object-contain" alt="" />
+                  <div className="flex-1">
+                    <p className="font-bold text-sm">{item.Nombre}</p>
+                    <p className="text-red-600 font-black text-sm">${item.Precio}</p>
+                  </div>
+                  <button onClick={() => removeFromCart(index)} className="text-slate-400 hover:text-red-500">
+                    <X size={20}/>
+                  </button>
+                </div>
+              ))}
+              {cart.length === 0 && <p className="text-center text-slate-400 mt-10 italic font-medium text-sm">El carrito está vacío.</p>}
+            </div>
+            <div className="p-6 border-t bg-slate-50 shadow-[0_-10px_20px_rgba(0,0,0,0.05)]">
+              <div className="flex justify-between text-2xl font-black mb-4">
+                <span>TOTAL:</span>
+                <span className="text-red-600">${total.toLocaleString()}</span>
+              </div>
+              <button 
+                onClick={finalizarPedido} 
+                disabled={cart.length === 0}
+                className="w-full bg-green-500 hover:bg-green-400 disabled:bg-slate-300 text-white py-4 rounded-xl font-bold text-xl shadow-lg transition-transform active:scale-95"
+              >
+                FINALIZAR POR WHATSAPP
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* 2. MODAL DE DETALLE */}
+      {selectedCard && (
+        <div className="fixed inset-0 bg-black/80 backdrop-blur-md z-[110] flex items-center justify-center p-4">
+            <div className="bg-white w-full max-w-4xl rounded-3xl overflow-hidden shadow-2xl flex flex-col md:row relative">
+                <button onClick={() => setSelectedCard(null)} className="absolute top-4 right-4 z-50 bg-white/80 p-2 rounded-full hover:bg-red-500 hover:text-white transition-all shadow">
+                    <X size={24} />
+                </button>
+                
+                <div className="flex flex-col md:flex-row w-full">
+                    <div className="md:w-1/2 bg-slate-100 p-8 flex items-center justify-center">
+                        <img 
+                            src={selectedCard.images?.large} 
+                            alt={selectedCard.Nombre} 
+                            className="w-full max-h-[500px] object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500"
+                        />
+                    </div>
+                    <div className="md:w-1/2 p-8 flex flex-col">
+                        <span className="bg-red-100 text-red-600 px-3 py-1 rounded-full text-xs font-bold uppercase w-fit mb-2">
+                            {selectedCard.Expansión}
+                        </span>
+                        <h2 className="text-4xl font-black text-slate-800 leading-tight mb-2">{selectedCard.Nombre}</h2>
+                        
+                        <div className="grid grid-cols-2 gap-3 my-6">
+                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                                <p className="text-xs text-slate-400 uppercase font-bold">Idioma</p>
+                                <p className="font-bold text-slate-700">{selectedCard.Idioma}</p>
+                            </div>
+                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                                <p className="text-xs text-slate-400 uppercase font-bold">Estado</p>
+                                <p className="font-bold text-green-600">{selectedCard.Estado}</p>
+                            </div>
+                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                                <p className="text-xs text-slate-400 uppercase font-bold">Categoría</p>
+                                <p className="font-bold text-slate-700">{selectedCard.Categoria}</p>
+                            </div>
+                            <div className="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                                <p className="text-xs text-slate-400 uppercase font-bold">Rareza</p>
+                                <p className="font-bold text-purple-600">{selectedCard.rarity || 'Common'}</p>
+                            </div>
+                        </div>
+
+                        <p className="text-slate-600 italic leading-relaxed mb-8 flex-1">
+                            "{selectedCard.flavorText || 'Sin descripción disponible para esta carta.'}"
+                        </p>
+
+                        <div className="pt-6 border-t flex items-center justify-between">
+                          <div>
+                            <p className="text-xs text-slate-400 font-bold uppercase">Precio Kiosco</p>
+                            <p className="text-3xl font-black text-red-600">${selectedCard.Precio}</p>
+                          </div>
+                          <button 
+                              onClick={() => { addToCart(selectedCard); setSelectedCard(null); }}
+                              className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-2xl font-bold text-lg shadow-lg transition-transform active:scale-95"
+                          >
+                              Agregar al Mazo
+                          </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      )}
     </div>
   )
 }
