@@ -35,7 +35,10 @@ function App() {
   const [selectedType, setSelectedType] = useState("Todos")
   const [selectedCategory, setSelectedCategory] = useState("Todos")
 
-  const [inventory, setInventory] = useState(stockReal)
+  // const [inventory, setInventory] = useState(stockReal)
+  const [inventory, setInventory] = useState(() => 
+    stockReal.map((card, index) => ({ ...card, idInterno: index }))
+  );
 
   // --- LÓGICA PARA OBTENER VALORES ÚNICOS (Para los selectores) ---
   // Esto hace que los filtros se actualicen solos según tu stock
@@ -56,15 +59,28 @@ function App() {
   });
 
   // --- FUNCIONES ---
+  // const addToCart = (card) => {
+  //   setCart([...cart, card])
+  //   setInventory(prev => prev.map(item => item.id === card.id ? { ...item, Stock: 0 } : item))
+  // }
+
   const addToCart = (card) => {
     setCart([...cart, card])
-    setInventory(prev => prev.map(item => item.id === card.id ? { ...item, Stock: 0 } : item))
+    // Cambiamos item.id por item.idInterno
+    setInventory(prev => prev.map(item => item.idInterno === card.idInterno ? { ...item, Stock: 0 } : item))
   }
+
+  // const removeFromCart = (index) => {
+  //   const item = cart[index]
+  //   setCart(cart.filter((_, i) => i !== index))
+  //   setInventory(prev => prev.map(inv => inv.id === item.id ? { ...inv, Stock: 1 } : inv))
+  // }
 
   const removeFromCart = (index) => {
     const item = cart[index]
     setCart(cart.filter((_, i) => i !== index))
-    setInventory(prev => prev.map(inv => inv.id === item.id ? { ...inv, Stock: 1 } : inv))
+    // Cambiamos inv.id por inv.idInterno
+    setInventory(prev => prev.map(inv => inv.idInterno === item.idInterno ? { ...inv, Stock: 1 } : inv))
   }
 
   const total = cart.reduce((acc, card) => acc + (Number(card.Precio) || 0), 0)
@@ -76,9 +92,9 @@ function App() {
     window.open(`https://wa.me/${nro}?text=${encodeURIComponent(msg)}`)
   }
 
-  useEffect(() => {
-    console.log(cart)
-  }, [cart])
+  // useEffect(() => {
+  //   console.log(cart)
+  // }, [cart])
 
   return (
     <div className="min-h-screen pb-20 bg-slate-50">
